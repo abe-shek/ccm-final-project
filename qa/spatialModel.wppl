@@ -1,0 +1,334 @@
+const MIN_CACHE_SIZE = 1000;
+const MAX_CACHE_SIZE = 10000;
+const Q_TYPE_Q0 = 'literal';
+const Q_TYPE_Q1 = 'explicit';
+const Q_TYPE_Q2 = 'pragmatic';
+
+/*
+-------------------------------------------------
+World Functions
+-------------------------------------------------
+*/
+
+var rows = ['A', 'B', 'C'];
+var cols = ['1', '2', '3'];
+
+var bomb = function () {
+    return flip() ? 'safe' : 'unsafe';
+};
+
+var worldPrior = Infer({method: 'enumerate'}, function () {
+    return {
+        'A1': bomb(), 'A2': bomb(), 'A3': bomb(),
+        'B1': bomb(), 'B2': bomb(), 'B3': bomb(),
+        'C1': bomb(), 'C2': bomb(), 'C3': bomb()
+    };
+});
+
+var getContractedWorlds = function (utterance) {
+    return function (world) {
+        return all(
+            function (v) {
+                var components = v.split('_');
+                return world[components[0]] === components[1];
+            }, utterance);
+    };
+};
+
+var getConsistentWorldPrior = dp.cache(function (gridState) {
+    return Categorical({
+        vs: filter(
+            function (w) {
+                return (
+                    all(
+                        function (v) {
+                            return w[v] === 'safe';
+                        }, gridState['safe'])
+                    &&
+                    all(
+                        function (v) {
+                            return w[v] === 'unsafe';
+                        }, gridState['unsafe'])
+                );
+            },
+            worldPrior.support())
+    });
+}, MIN_CACHE_SIZE);
+
+
+/*
+-------------------------------------------------
+Goal Functions
+-------------------------------------------------
+*/
+
+var getSuperGoalPrior = function () {
+    return flip() ? rows : cols;
+};
+
+var getSubGoalPrior = function (superGoal) {
+    return uniformDraw(superGoal);
+};
+
+var getGoalProjectedDelta = function (goal) {
+    // returns true if the particular goal can be completed for the given world
+    // goal could be either a column value, row value, or a particular cell
+    return function (world) {
+        return (
+            _.includes(cols, goal) ? qa.completeCol(goal, world) :
+                _.includes(rows, goal) ? qa.completeRow(goal, world) :
+                    qa.cellMatch(goal, world));
+    };
+};
+
+var getGoalProjection = function (goal) {
+    if (goal === 'identity')
+        return function (w) {
+            return w;
+        };
+    else if (goal.length > 1) {
+        // it's either a row goal, or a column goal
+        // the array contains all the possible goal values (row value/ col value)
+        return function (w) {
+            return map(
+                function (sub_goal) {
+                    return getGoalProjectedDelta(sub_goal)(w);
+                },
+                goal);
+        };
+    } else {
+        return getGoalProjectedDelta(goal);
+    }
+};
+
+/*
+-------------------------------------------------
+Miscellaneous Functions
+-------------------------------------------------
+*/
+
+var KL = function (erpTrue, erpApprox) {
+    var values = erpTrue.support([]);
+    return (sum(map(
+        function (value) {
+            var scoreP = erpTrue.score(value);
+            var scoreQ = erpApprox.score(value);
+            var probP = Math.exp(scoreP);
+            return probP === 0.0 ? 0.0 : probP * (scoreP - scoreQ);
+        }, values)
+    ));
+};
+
+var getPriorProb = dp.cache(function (goal, gridState) {
+    var consistentWorldPrior = getConsistentWorldPrior(gridState);
+    var qud = getGoalProjection(goal);
+    return marginalize(consistentWorldPrior, function (world) {
+        return qud(world);
+    });
+}, MIN_CACHE_SIZE);
+
+var interpreter = dp.cache(function (answer, gridState) {
+    var consistentWorldPrior = getConsistentWorldPrior(gridState);
+    return Infer({method: 'enumerate'}, function () {
+        var world = sample(consistentWorldPrior);
+        // contract worlds based on where the answer evaluates to true
+        var contractWorld = getContractedWorlds(answer);
+        condition(contractWorld(world));
+        return world;
+    });
+}, MIN_CACHE_SIZE);
+
+var getPosteriorProb = dp.cache(function (answer, goal, gridState) {
+    var goalProjection = getGoalProjection(goal);
+    // this marginalizes the world states where the goal can be projected
+    return marginalize(interpreter(answer, gridState), function (world) {
+        return goalProjection(world)
+    });
+}, MIN_CACHE_SIZE);
+
+var getKLDivergence = dp.cache(function (answer, goal, gridState) {
+    var priorProb = getPriorProb(goal, gridState);
+    var posteriorProb = getPosteriorProb(answer, goal, gridState);
+    return KL(posteriorProb, priorProb);
+});
+
+
+/*
+-------------------------------------------------
+Question Functions
+-------------------------------------------------
+*/
+
+var questionPrior = Infer({method: 'enumerate'}, function () {
+    var row = uniformDraw(rows);
+    var col = uniformDraw(cols);
+    return 'is_' + row + col + '_safe?';
+});
+
+var getValidQuestionPrior = dp.cache(function (gridState) {
+    return Categorical({
+        vs: filter(
+            function (q) {
+                var cell = q.split('_')[1];
+                return (
+                    !_.includes(gridState['safe'], cell)
+                    &&
+                    !_.includes(gridState['unsafe'], cell)
+                );
+            },
+            questionPrior.support())
+    });
+});
+
+
+/*
+-------------------------------------------------
+Answer Functions
+-------------------------------------------------
+*/
+
+var answers = _.flattenDeep(
+    map(function (row) {
+        map(function (col) {
+            map(function (status) {
+                return row + col + '_' + status;
+            }, ['safe', 'unsafe']);
+        }, cols);
+    }, rows));
+
+var shortAnswers = map(function (v) {
+    return [v]
+}, answers);
+
+var longAnswers = _.uniq(Infer({method: 'enumerate'}, function () {
+    var answer1 = uniformDraw(answers);
+    var a1cell = answer1.split('_')[0];
+    var answer2 = uniformDraw(_.without(answers, a1cell + '_safe', a1cell + '_unsafe'));
+    // why do we need the sort function?
+    return sort([answer1, answer2]);
+}).support());
+
+var answerPrior = Categorical({vs: shortAnswers.concat(longAnswers)});
+
+var getValidAnswerPrior = dp.cache(function (question, trueWorld, gridState) {
+    var questionCell = question.split("_")[1];
+    var validAnswers = filter(
+        function (answer) {
+            var isTrueInWorld = all(
+                function (v) {
+                    var components = v.split('_'); //cell, status
+                    return trueWorld[components[0]] === components[1]
+                }, answer);
+            var containsResponse = any(function (v) {
+                var answerCell = v.split('_')[0];
+                return answerCell === questionCell
+            }, answer);
+            var alreadyRevealed = any(function (v) {
+                var answerCell = v.split('_')[0];
+                return (
+                    _.includes(gridState['safe'], answerCell)
+                    ||
+                    _.includes(gridState['unsafe'], answerCell));
+            }, answer);
+            return isTrueInWorld && containsResponse && !alreadyRevealed;
+        }, answerPrior.support());
+    return Categorical({vs: validAnswers});
+}, MIN_CACHE_SIZE);
+
+
+/*
+-------------------------------------------------
+Model
+-------------------------------------------------
+*/
+
+var SpatialModel = function (Qrationality, Arationality, answerCost) {
+
+    var getQ1GoalPosterior = dp.cache(function (question, gridState) {
+        return Infer({method: 'enumerate'}, function () {
+
+            var super_ordinate_goal = getSuperGoalPrior();
+            var sub_ordinate_goal = getSubGoalPrior(super_ordinate_goal);
+
+            var unsafeRows = map(
+                function (cell) {
+                    return cell[0]
+                }, gridState['unsafe']);
+            var unsafeCols = map(
+                function (cell) {
+                    return cell[1]
+                }, gridState['unsafe']);
+            // condition on worlds that don't contain the cell goal in any of the unsafe row & col
+            condition(!_.includes(unsafeRows.concat(unsafeCols), sub_ordinate_goal));
+
+            var superGoalPrior = questioner(Q_TYPE_Q1, super_ordinate_goal, gridState).score(question);
+            factor(_.isFinite(superGoalPrior) ? superGoalPrior : -1000);
+
+            var subGoalPrior = questioner(Q_TYPE_Q1, sub_ordinate_goal, gridState).score(question);
+            factor(_.isFinite(subGoalPrior) ? subGoalPrior : -1000);
+
+            return [super_ordinate_goal].concat(sub_ordinate_goal);
+        });
+    }, MAX_CACHE_SIZE);
+
+    var getQ0GoalPosterior = function (question) {
+        // returns the literal meaning of the question -> the cell
+        if (_.includes(questionPrior.support(), question))
+            return Delta({v: [[qa.butLast(question).split('_')[1]]]});
+        else
+            console.error('unknown question' + question);
+    };
+
+    var questioner = dp.cache(function (type, goal, gridState) {
+        var consistentWorldPrior = getConsistentWorldPrior(gridState);
+        var validQuestionPrior = getValidQuestionPrior(gridState);
+        return Infer({method: 'enumerate'}, function () {
+            var question = sample(validQuestionPrior);
+            var utility = expectation(consistentWorldPrior, function (trueWorld) {
+                var possibleAnswer = answerer(type, question, trueWorld, gridState);
+                return expectation(possibleAnswer, function (answer) {
+                    return getKLDivergence(answer, goal, gridState);
+                });
+            });
+            factor(utility * Qrationality);
+            return question;
+        });
+    }, MAX_CACHE_SIZE);
+
+    var answerer = dp.cache(function (type, question, trueWorld, gridState) {
+        var validAnswerPrior = getValidAnswerPrior(question, trueWorld, gridState);
+        var goalPosterior = (
+            type === Q_TYPE_Q2 ? getQ1GoalPosterior(question, gridState) :
+                type === Q_TYPE_Q1 ? getQ0GoalPosterior(question) :
+                    type === Q_TYPE_Q0 ? Delta({v: 'identity'}) :
+                        console.error('type not recognized')
+        );
+        return Infer({method: 'enumerate'}, function () {
+            var answer = sample(validAnswerPrior);
+
+            var utility = expectation(goalPosterior, function (goal) {
+                return _.sum(
+                    map(
+                        function (sub_goal) {
+                            var goalProjectedDelta = getGoalProjection(sub_goal)(trueWorld);
+                            // only the goal projected worlds' posterior is counted
+                            return getPosteriorProb(answer, sub_goal, gridState).score(goalProjectedDelta);
+                        }, goal)
+                );
+            });
+            // Todo - clarify
+            // originally -> factor(Arationality * (utility - answerCost * answer.length));
+            // according to the paper Arationality should only be multiplied to the utility
+            factor((Arationality * utility) - answerCost * answer.length);
+            return answer;
+        });
+    }, MAX_CACHE_SIZE);
+
+    return {
+        answerer: answerer,
+        questioner: questioner,
+        worldPrior: worldPrior,
+        getValidQuestionPrior: getValidQuestionPrior
+    };
+};
+

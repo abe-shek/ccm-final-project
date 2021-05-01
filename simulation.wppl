@@ -1,0 +1,25 @@
+let model = SpatialModel(13, 2.5, .5);
+let questioner = model.questioner;
+
+let rows = qa.getGoals(3, 'rows');
+let cols = qa.getGoals(3, 'cols');
+let world1 = qa.getWorld(rows, cols);
+
+let test1 = {
+    world: world1,
+    initState: qa.getInitialWorldState(world1)
+};
+
+console.log('Testing World - ');
+console.log(test1);
+console.log(questioner('pragmatic', rows, test1.initState));
+
+let world2 = qa.getWorld(rows, cols);
+let test2 = {
+    world: world2,
+    initState: qa.getInitialWorldState(world2)
+};
+
+console.log('Testing World - ');
+console.log(test2);
+console.log(questioner('pragmatic', cols, test2.initState));
