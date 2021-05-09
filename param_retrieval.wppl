@@ -50,7 +50,7 @@ let generate_synthetic_answerer_data = function () {
             trialNum: iter_,
             underlyingWorld: JSON.stringify(world),
             gridState: JSON.stringify(initState),
-            cellAskedAbout: JSON.stringify(question),
+            cellAskedAbout: question.toString(),
             answer: JSON.stringify(answer),
         };
         globalStore.observations = globalStore.observations.concat(observation);
@@ -92,7 +92,7 @@ let generate_synthetic_questioner_data = function () {
         let observation = {
             trialNum: iter_,
             gridState: JSON.stringify(initState),
-            question: JSON.stringify(question),
+            question: question.toString(),
             goal: goal === cols ? "columns" : "rows"
         };
         globalStore.observations = globalStore.observations.concat(observation);

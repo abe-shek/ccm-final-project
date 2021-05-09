@@ -7,15 +7,12 @@ var run_answerer_analysis = function (load_human = false) {
                 && (state['safe'].length + state['unsafe'].length) > 0);
         };
     }
-    var answererData = [];
 
-    if (load_human) {
-        answererData = filter(f, qa.readCSV('../data/answerer_human.csv'));
-    } else {
-        answererData = filter(f, qa.readCSV('../data/input/answerer_synthetic.csv'));
-    }
+    var answererData = filter(f, qa.readCSV('../data/input/answerer_synthetic.csv'));
 
-    return Infer({
+
+    globalStore.analysis = [];
+    Infer({
         method: 'enumerate', model: function () {
             var alpha_a = config.alpha_a;
             var alpha_q = config.alpha_q;
@@ -45,16 +42,17 @@ var run_answerer_analysis = function (load_human = false) {
                 globalStore.score += score;
                 factor(_.isFinite(score) ? score : -10);
             });
-            console.log({
+            globalStore.analysis = globalStore.analysis.concat({
                 answererType,
                 alpha_q,
                 alpha_a,
                 beta,
                 likelihood: globalStore.score
             });
-            return;
         }
     });
+
+    qa.writeCSV(globalStore.analysis, './data/dataAnalysisOut_answerer.csv')
 };
 
 var run_questioner_analysis = function (load_human = false) {
@@ -67,14 +65,10 @@ var run_questioner_analysis = function (load_human = false) {
         };
     }
 
-    var questionerData = [];
-    if (load_human) {
-        questionerData = filter(f, qa.readCSV('../data/questioner_human.csv'));
-    } else {
-        questionerData = filter(f, qa.readCSV('../data/questioner_synthetic.csv'));
-    }
+    var questionerData = filter(f, qa.readCSV('../data/questioner_synthetic.csv'));
 
-    return Infer({
+    globalStore.analysis = [];
+    Infer({
         method: 'enumerate', model: function () {
             var alpha_a = config.alpha_a;
             var alpha_q = config.alpha_q;
@@ -105,7 +99,8 @@ var run_questioner_analysis = function (load_human = false) {
                                 'is_C1_safe?',
                                 'is_C2_safe?',
                                 'is_C3_safe?'
-                            ]})) : sample(questioner(questionerType, goal, state));
+                            ]
+                        })) : sample(questioner(questionerType, goal, state));
                 });
                 let question = load_human ? 'is_' + response['question'] + '_safe?' : response['question'];
                 var score = prediction.score(question);
@@ -113,16 +108,16 @@ var run_questioner_analysis = function (load_human = false) {
                 factor(_.isFinite(score) ? score : -10);
             });
 
-            console.log({
+            globalStore.analysis = globalStore.analysis.concat({
                 questionerType,
                 alpha_q,
                 alpha_a,
                 beta,
                 likelihood: globalStore.score
             });
-            return;
         }
     });
+    qa.writeCSV(globalStore.analysis, './data/dataAnalysisOut_questioner.csv')
 };
 
 var config = {
