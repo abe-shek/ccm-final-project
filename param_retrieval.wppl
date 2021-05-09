@@ -1,0 +1,106 @@
+let rows = qa.getGoals(3, 'rows');
+let cols = qa.getGoals(3, 'cols');
+
+let alpha_Q = 13.0;
+let alpha_A = 2.5;
+let beta_A = .5;
+
+let iterations = 10;
+
+var foreach = function(lst, fn) {
+  var foreach_ = function(i) {
+    if (i < lst.length) {
+      fn(lst[i]);
+      foreach_(i + 1);
+    }
+  };
+  foreach_(0);
+};
+
+let generate_synthetic_answerer_data = function () {
+    let model = SpatialModel(alpha_Q, alpha_A, beta_A);
+    let questioner = model.questioner;
+    let answerer = model.answerer;
+    let number_of_worlds = qa.getNumbers(iterations);
+    globalStore.observations = [];
+    foreach(number_of_worlds, function (iter_){
+        let world = qa.getWorld(rows, cols);
+        let goal = flip() ? rows : cols;
+        let initState = qa.getInitialWorldState(world);
+
+        let question = sample(questioner('pragmatic', goal, initState));
+        let answer = sample(answerer('pragmatic',question, world, initState));
+
+        // columns of the human data csv file
+        //     iterationName,
+        //     gameid,
+        //     time,
+        //     trialNum, [USED]
+        //     trialType,
+        //     questionNumber,
+        //     firstRole,
+        //     cellAskedAbout, [USED]
+        //     sender,
+        //     underlyingWorld, [USED]
+        //     gridState, [USED]
+        //     answer [USED],
+        //     timeFromMessage
+
+        let observation = {
+            trialNum: iter_,
+            underlyingWorld: JSON.stringify(world),
+            gridState: JSON.stringify(initState),
+            cellAskedAbout: JSON.stringify(question),
+            answer: JSON.stringify(answer),
+        };
+        globalStore.observations = globalStore.observations.concat(observation);
+
+    });
+    return globalStore.observations;
+};
+
+let generate_synthetic_questioner_data = function () {
+    let model = SpatialModel(alpha_Q, alpha_A, beta_A);
+    let questioner = model.questioner;
+    let number_of_worlds = qa.getNumbers(iterations);
+    globalStore.observations = [];
+    foreach(number_of_worlds, function (iter_){
+        let world = qa.getWorld(rows, cols);
+        let goal = flip() ? rows : cols;
+        let initState = qa.getInitialWorldState(world);
+
+        let question = sample(questioner('pragmatic', goal, initState));
+
+        // columns of the human data csv file
+        // iterationName,
+        // gameid,
+        // time,
+        // trialNum, [USED]
+        // trialType,
+        // questionNumber,
+        // question, [USED]
+        // firstRole,
+        // sender,
+        // timeFromMessage,
+        // goal, [USED]
+        // gridState, [USED]
+        // initAskedAbout,
+        // secondAskedAbout,
+        // qualitativeQuestion,
+        // qualitativeTrialType
+
+        let observation = {
+            trialNum: iter_,
+            gridState: JSON.stringify(initState),
+            question: JSON.stringify(question),
+            goal: goal === cols ? "columns" : "rows"
+        };
+        globalStore.observations = globalStore.observations.concat(observation);
+
+    });
+    return globalStore.observations;
+};
+
+qa.writeCSV(generate_synthetic_answerer_data(), './data/input/answerer_synthetic.csv');
+qa.writeCSV(generate_synthetic_questioner_data(), './data/input/questioner_synthetic.csv');
+

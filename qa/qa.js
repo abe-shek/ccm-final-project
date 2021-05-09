@@ -43,7 +43,7 @@ var getGoals = function (len, type) {
 };
 
 var flip = function () {
-    return Math.random() > 0.5 ? 'safe' : 'unsafe';
+    return Math.random() < 0.5 ? 'safe' : 'unsafe';
 };
 
 var getWorld = function (rowGoals, colGoals) {
@@ -53,7 +53,11 @@ var getWorld = function (rowGoals, colGoals) {
             world[row+col] = flip();
         }
     }
-    return world;
+    if (validateWorld(world, rowGoals, colGoals)) {
+        return world;
+    } else {
+        return getWorld(rowGoals, colGoals);
+    }
 };
 
 var getInitialWorldState = function (world) {
@@ -88,7 +92,6 @@ var getInitialWorldState = function (world) {
             i += 1;
         }
     }
-
     return initState;
 };
 
@@ -107,6 +110,25 @@ var cellMatch = function(qud, world) {
 };
 
 
+var validateWorld = function (world, rows, cols) {
+    let any_row = false;
+    let any_col = false;
+
+    for (let row in rows){
+        any_row = any_row || completeRow(rows[row], world);
+    }
+
+    for (let col in cols) {
+        any_col = any_col || completeCol(cols[col], world);
+    }
+
+    return any_row && any_col
+};
+
+var getNumbers = function (val){
+  return [...Array(val).keys()]
+};
+
 module.exports = {
     butLast: butLast,
     getGoals: getGoals,
@@ -119,4 +141,6 @@ module.exports = {
     readJSON: readJSON,
     writeCSV: writeCSV,
     appendCSV: appendCSV,
+    validateWorld: validateWorld,
+    getNumbers: getNumbers
 };

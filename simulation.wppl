@@ -1,5 +1,6 @@
 let model = SpatialModel(13, 2.5, .5);
 let questioner = model.questioner;
+let answerer = model.answerer;
 
 let rows = qa.getGoals(3, 'rows');
 let cols = qa.getGoals(3, 'cols');
@@ -12,14 +13,22 @@ let test1 = {
 
 console.log('Testing World - ');
 console.log(test1);
-console.log(questioner('pragmatic', rows, test1.initState));
+let questions = questioner('pragmatic', rows, test1.initState);
+console.log(map(function (q) {console.log(q, questions.score(q));}, questions.support()));
+let select_q = sample(questions);
+console.log(select_q);
 
-let world2 = qa.getWorld(rows, cols);
-let test2 = {
-    world: world2,
-    initState: qa.getInitialWorldState(world2)
-};
-
-console.log('Testing World - ');
-console.log(test2);
-console.log(questioner('pragmatic', cols, test2.initState));
+let answers = answerer('pragmatic', select_q, test1.world, test1.initState);
+console.log(map(function (a) {console.log(a, answers.score(a));}, answers.support()));
+let select_a = sample(answers);
+console.log(select_a);
+//
+// let world2 = qa.getWorld(rows, cols);
+// let test2 = {
+//     world: world2,
+//     initState: qa.getInitialWorldState(world2)
+// };
+//
+// console.log('Testing World - ');
+// console.log(test2);
+// console.log(questioner('pragmatic', cols, test2.initState));

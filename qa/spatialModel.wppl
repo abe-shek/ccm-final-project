@@ -1,5 +1,5 @@
-const MIN_CACHE_SIZE = 1000;
-const MAX_CACHE_SIZE = 10000;
+const MIN_CACHE_SIZE = 30000;
+const MAX_CACHE_SIZE = 70000;
 const Q_TYPE_Q0 = 'literal';
 const Q_TYPE_Q1 = 'explicit';
 const Q_TYPE_Q2 = 'pragmatic';
@@ -17,11 +17,21 @@ var bomb = function () {
     return flip() ? 'safe' : 'unsafe';
 };
 
+// var worldPrior = Infer({method: 'enumerate'}, function () {
+//     return {
+//         'A1': bomb(), 'A2': bomb(), 'A3': bomb(), 'A4': bomb(),
+//         'B1': bomb(), 'B2': bomb(), 'B3': bomb(), 'B4': bomb(),
+//         'C1': bomb(), 'C2': bomb(), 'C3': bomb(), 'C4': bomb(),
+//         'D1': bomb(), 'D2': bomb(), 'D3': bomb(), 'D4': bomb(),
+//     };
+// });
+
+
 var worldPrior = Infer({method: 'enumerate'}, function () {
     return {
         'A1': bomb(), 'A2': bomb(), 'A3': bomb(),
         'B1': bomb(), 'B2': bomb(), 'B3': bomb(),
-        'C1': bomb(), 'C2': bomb(), 'C3': bomb()
+        'C1': bomb(), 'C2': bomb(), 'C3': bomb(),
     };
 });
 
