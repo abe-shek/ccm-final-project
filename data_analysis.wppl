@@ -1,22 +1,11 @@
-var run_answerer_analysis = function (load_human = false) {
-    // don't condition on 'practice' trials for human data analysis
-    if (load_human) {
-        var f = function (v) {
-            var state = JSON.parse(v['gridState']);
-            return (_.toInteger(v['trialNum']) > 6
-                && (state['safe'].length + state['unsafe'].length) > 0);
-        };
-    }
-
-    var answererData = filter(f, qa.readCSV('../data/input/answerer_synthetic.csv'));
-
-
-    globalStore.analysis = [];
+var run_answerer_analysis = function (filename) {
+    var answererData = qa.readCSV(filename);
+    let load_human = false;
     Infer({
         method: 'enumerate', model: function () {
             var alpha_a = config.alpha_a;
             var alpha_q = config.alpha_q;
-            var beta = config.beta;
+            var beta = config.beta_a;
             var model = SpatialModel(alpha_q, alpha_a, beta);
 
             var answerer = model.answerer;
@@ -42,37 +31,28 @@ var run_answerer_analysis = function (load_human = false) {
                 globalStore.score += score;
                 factor(_.isFinite(score) ? score : -10);
             });
-            globalStore.analysis = globalStore.analysis.concat({
-                answererType,
-                alpha_q,
-                alpha_a,
-                beta,
+            console.log({
+                answererType: answererType,
+                alpha_q: alpha_q,
+                alpha_a: alpha_a,
+                beta: beta,
                 likelihood: globalStore.score
             });
         }
     });
+    return;
 
-    qa.writeCSV(globalStore.analysis, './data/dataAnalysisOut_answerer.csv')
 };
 
-var run_questioner_analysis = function (load_human = false) {
-    if (load_human) {
-        // don't condition on 1st 6 'practice' trials while loading human data
-        var f = function (v) {
-            var state = JSON.parse(v['gridState']);
-            return (_.toInteger(v['trialNum']) > 6
-                && (state['safe'].length + state['unsafe'].length) > 0);
-        };
-    }
+var run_questioner_analysis = function (filename) {
 
-    var questionerData = filter(f, qa.readCSV('../data/questioner_synthetic.csv'));
-
-    globalStore.analysis = [];
+    var questionerData = qa.readCSV(filename);
+    let load_human = false;
     Infer({
         method: 'enumerate', model: function () {
             var alpha_a = config.alpha_a;
             var alpha_q = config.alpha_q;
-            var beta = config.beta;
+            var beta = config.beta_a;
 
             var model = SpatialModel(alpha_q, alpha_a, beta);
             var questioner = model.questioner;
@@ -107,29 +87,32 @@ var run_questioner_analysis = function (load_human = false) {
                 globalStore.score += score;
                 factor(_.isFinite(score) ? score : -10);
             });
-
-            globalStore.analysis = globalStore.analysis.concat({
-                questionerType,
-                alpha_q,
-                alpha_a,
-                beta,
+            console.log({
+                questionerType: questionerType,
+                alpha_q: alpha_q,
+                alpha_a: alpha_a,
+                beta: beta,
                 likelihood: globalStore.score
             });
         }
     });
-    qa.writeCSV(globalStore.analysis, './data/dataAnalysisOut_questioner.csv')
+    return;
 };
 
 var config = {
     'alpha_q': argv.alpha_q,
     'alpha_a': argv.alpha_a,
-    'beta': argv.beta_a
+    'beta_a': argv.beta_a
 };
 
+console.log(argv.run_answer, argv.run_question, argv.file);
+
 if (argv.run_answer) {
-    run_answerer_analysis()
+    run_answerer_analysis(argv.file)
 } else if (argv.run_question) {
-    run_questioner_analysis()
+    run_questioner_analysis(argv.file)
 } else {
     console.log("Choose either 'questioner' or 'answerer' analysis.")
 }
+
+

@@ -1,0 +1,32 @@
+Terminate batch job (Y/N)? undefined 1 ./data/input/param_que_syn.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -5.6611121413586885
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -8.281289488725868
+}
+undefined
+undefined 1 ./data/input/param_que_syn.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -5.607369785586892
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -8.281289488725868
+}
+undefined

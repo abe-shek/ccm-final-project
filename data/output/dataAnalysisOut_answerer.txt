@@ -1,0 +1,15 @@
+{
+  answererType: 'pragmatic',
+  alpha_q: 34,
+  alpha_a: 13,
+  beta: 5.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 34,
+  alpha_a: 13,
+  beta: 5.5,
+  likelihood: -Infinity
+}
+

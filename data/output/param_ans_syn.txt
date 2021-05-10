@@ -1,0 +1,35 @@
+1 undefined
+1 undefined
+1 undefined ./data/input/param_ans_syn.csv.csv
+Terminate batch job (Y/N)? 1 undefined ./data/input/param_ans_syn.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/param_ans_syn.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined

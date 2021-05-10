@@ -1,0 +1,16 @@
+undefined 1
+{
+  questionerType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 5,
+  beta: 1,
+  likelihood: -5.58750180374144
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 5,
+  beta: 1,
+  likelihood: -8.268652200671061
+}
+undefined

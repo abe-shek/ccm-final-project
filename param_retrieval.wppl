@@ -1,10 +1,6 @@
 let rows = qa.getGoals(3, 'rows');
 let cols = qa.getGoals(3, 'cols');
 
-let alpha_Q = 13.0;
-let alpha_A = 2.5;
-let beta_A = .5;
-
 let iterations = 10;
 
 var foreach = function(lst, fn) {
@@ -101,6 +97,14 @@ let generate_synthetic_questioner_data = function () {
     return globalStore.observations;
 };
 
-qa.writeCSV(generate_synthetic_answerer_data(), './data/input/answerer_synthetic.csv');
-qa.writeCSV(generate_synthetic_questioner_data(), './data/input/questioner_synthetic.csv');
+
+let alpha_Q = argv.alpha_q;
+let alpha_A = argv.alpha_a;
+let beta_A =  argv.beta;
+
+let path_a = argv.path_a;
+let path_q = argv.path_q;
+
+qa.writeCSV(generate_synthetic_answerer_data(), path_a);
+qa.writeCSV(generate_synthetic_questioner_data(), path_q);
 

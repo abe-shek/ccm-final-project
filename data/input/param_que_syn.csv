@@ -1,0 +1,11 @@
+trialNum,gridState,question,goal
+0,"{""safe"":[""A3"",""A2""],""unsafe"":[""B1""]}",is_A1_safe?,rows
+1,"{""safe"":[""B3"",""A2""],""unsafe"":[""C1""]}",is_C3_safe?,columns
+2,"{""safe"":[""B3"",""C3""],""unsafe"":[""A3""]}",is_B2_safe?,columns
+3,"{""safe"":[""B1"",""C2""],""unsafe"":[""A2""]}",is_B3_safe?,rows
+4,"{""safe"":[""B2"",""C3""],""unsafe"":[""B3""]}",is_C1_safe?,rows
+5,"{""safe"":[""C1"",""C2""],""unsafe"":[""A1""]}",is_C3_safe?,rows
+6,"{""safe"":[""C1"",""B1""],""unsafe"":[""A3""]}",is_A1_safe?,columns
+7,"{""safe"":[""C3"",""B3""],""unsafe"":[""B1""]}",is_C2_safe?,rows
+8,"{""safe"":[""A2"",""B2""],""unsafe"":[""C1""]}",is_C2_safe?,columns
+9,"{""safe"":[""C3"",""A1""],""unsafe"":[""A3""]}",is_C2_safe?,rows
