@@ -109,10 +109,19 @@ var cellMatch = function(qud, world) {
   return world[qud] === 'safe';
 };
 
-
 var validateWorld = function (world, rows, cols) {
     let any_row = false;
     let any_col = false;
+    let any_cell = false;
+
+    for (let row in rows) {
+        for (let col in cols) {
+            if (world[rows[row]+cols[col]] === 'unsafe') {
+                any_cell = true;
+                break;
+            }
+        }
+    }
 
     for (let row in rows){
         any_row = any_row || completeRow(rows[row], world);
@@ -122,7 +131,7 @@ var validateWorld = function (world, rows, cols) {
         any_col = any_col || completeCol(cols[col], world);
     }
 
-    return any_row && any_col
+    return any_row && any_col && any_cell
 };
 
 var getNumbers = function (val){

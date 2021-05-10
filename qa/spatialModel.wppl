@@ -46,22 +46,25 @@ var getContractedWorlds = function (utterance) {
 };
 
 var getConsistentWorldPrior = dp.cache(function (gridState) {
+    let filtered_world_prior = filter(
+        function (w) {
+            return (
+                all(
+                    function (v) {
+                        return w[v] === 'safe';
+                    }, gridState['safe'])
+                &&
+                all(
+                    function (v) {
+                        return w[v] === 'unsafe';
+                    }, gridState['unsafe'])
+            );
+        },
+        worldPrior.support());
+    if (filtered_world_prior.length === 0)
+        console.log("filtered world prior 0", gridState);
     return Categorical({
-        vs: filter(
-            function (w) {
-                return (
-                    all(
-                        function (v) {
-                            return w[v] === 'safe';
-                        }, gridState['safe'])
-                    &&
-                    all(
-                        function (v) {
-                            return w[v] === 'unsafe';
-                        }, gridState['unsafe'])
-                );
-            },
-            worldPrior.support())
+        vs: filtered_world_prior
     });
 }, MIN_CACHE_SIZE);
 
@@ -160,7 +163,7 @@ var getKLDivergence = dp.cache(function (answer, goal, gridState) {
     var priorProb = getPriorProb(goal, gridState);
     var posteriorProb = getPosteriorProb(answer, goal, gridState);
     return KL(posteriorProb, priorProb);
-});
+}, MIN_CACHE_SIZE);
 
 
 /*
@@ -176,19 +179,22 @@ var questionPrior = Infer({method: 'enumerate'}, function () {
 });
 
 var getValidQuestionPrior = dp.cache(function (gridState) {
+    let filtered_question_prior = filter(
+        function (q) {
+            var cell = q.split('_')[1];
+            return (
+                !_.includes(gridState['safe'], cell)
+                &&
+                !_.includes(gridState['unsafe'], cell)
+            );
+        },
+        questionPrior.support());
+    if (filtered_question_prior.length === 0)
+        console.log("filtered_question_prior 0", gridState);
     return Categorical({
-        vs: filter(
-            function (q) {
-                var cell = q.split('_')[1];
-                return (
-                    !_.includes(gridState['safe'], cell)
-                    &&
-                    !_.includes(gridState['unsafe'], cell)
-                );
-            },
-            questionPrior.support())
+        vs: filtered_question_prior
     });
-});
+}, MIN_CACHE_SIZE);
 
 
 /*
@@ -242,6 +248,8 @@ var getValidAnswerPrior = dp.cache(function (question, trueWorld, gridState) {
             }, answer);
             return isTrueInWorld && containsResponse && !alreadyRevealed;
         }, answerPrior.support());
+    if (validAnswers.length === 0)
+        console.log("valid_answers 0", gridState, trueWorld);
     return Categorical({vs: validAnswers});
 }, MIN_CACHE_SIZE);
 

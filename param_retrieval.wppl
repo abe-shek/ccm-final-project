@@ -3,14 +3,14 @@ let cols = qa.getGoals(3, 'cols');
 
 let iterations = 100;
 
-var foreach = function(lst, fn) {
-  var foreach_ = function(i) {
-    if (i < lst.length) {
-      fn(lst[i]);
-      foreach_(i + 1);
-    }
-  };
-  foreach_(0);
+var foreach = function (lst, fn) {
+    var foreach_ = function (i) {
+        if (i < lst.length) {
+            fn(lst[i]);
+            foreach_(i + 1);
+        }
+    };
+    foreach_(0);
 };
 
 let generate_synthetic_answerer_data = function () {
@@ -19,13 +19,13 @@ let generate_synthetic_answerer_data = function () {
     let answerer = model.answerer;
     let number_of_worlds = qa.getNumbers(iterations);
     globalStore.observations = [];
-    foreach(number_of_worlds, function (iter_){
+    foreach(number_of_worlds, function (iter_) {
         let world = qa.getWorld(rows, cols);
         let goal = flip() ? rows : cols;
         let initState = qa.getInitialWorldState(world);
 
         let question = sample(questioner('pragmatic', goal, initState));
-        let answer = sample(answerer('pragmatic',question, world, initState));
+        let answer = sample(answerer('pragmatic', question, world, initState));
 
         // columns of the human data csv file
         //     iterationName,
@@ -60,11 +60,10 @@ let generate_synthetic_questioner_data = function () {
     let questioner = model.questioner;
     let number_of_worlds = qa.getNumbers(iterations);
     globalStore.observations = [];
-    foreach(number_of_worlds, function (iter_){
+    foreach(number_of_worlds, function (iter_) {
         let world = qa.getWorld(rows, cols);
         let goal = flip() ? rows : cols;
         let initState = qa.getInitialWorldState(world);
-
         let question = sample(questioner('pragmatic', goal, initState));
 
         // columns of the human data csv file
@@ -100,15 +99,10 @@ let generate_synthetic_questioner_data = function () {
 
 let alpha_Q = argv.alpha_q;
 let alpha_A = argv.alpha_a;
-let beta_A =  argv.beta;
+let beta_A = argv.beta;
 
 let path_a = argv.path_a;
 let path_q = argv.path_q;
-console.log(
-alpha_Q,
-alpha_A,
-beta_A,
-path_a,
-path_q);
+console.log(alpha_Q, alpha_A, beta_A, path_a, path_q);
 qa.writeCSV(generate_synthetic_answerer_data(), path_a);
 qa.writeCSV(generate_synthetic_questioner_data(), path_q);
