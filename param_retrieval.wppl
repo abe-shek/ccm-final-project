@@ -47,7 +47,7 @@ let generate_synthetic_answerer_data = function () {
             underlyingWorld: JSON.stringify(world),
             gridState: JSON.stringify(initState),
             cellAskedAbout: question.toString(),
-            answer: JSON.stringify(answer),
+            answer: answer,
         };
         globalStore.observations = globalStore.observations.concat(observation);
 
@@ -104,7 +104,11 @@ let beta_A =  argv.beta;
 
 let path_a = argv.path_a;
 let path_q = argv.path_q;
-
+console.log(
+alpha_Q,
+alpha_A,
+beta_A,
+path_a,
+path_q);
 qa.writeCSV(generate_synthetic_answerer_data(), path_a);
 qa.writeCSV(generate_synthetic_questioner_data(), path_q);
-

@@ -25,7 +25,7 @@ var run_answerer_analysis = function (filename) {
                 var trueAnswer = load_human ? map(function (v) {
                         return v + '_' + world[v]
                     },
-                    JSON.parse(response['answer'])) : response['answer'];
+                    JSON.parse(response['answer'])) : response['answer'].replace("\"\n","").split(",");
                 var prediction = answerer(answererType, question, world, state);
                 var score = prediction.score(trueAnswer);
                 globalStore.score += score;

@@ -19,9 +19,9 @@ def grid_search(file_name, answerer=False):
         abs_file_name = os.path.join('./data/input/', file_name)
         file_name = file_name.split(".")[0]
         # grid_search for answer
-        for alpha_q in range(14, 15, 1):
-            for alpha_a in range(4, 6, 1):
-                for beta in [.5]:
+        for alpha_q in range(104, 105, 1):
+            for alpha_a in range(94, 95, 1):
+                for beta in [22.5]:
                     os.system(
                         f"webppl data_analysis.wppl --require ./qa -- --alpha_q {alpha_q} --alpha_a {alpha_a} --beta_a {beta} --run_answer 1 --file {abs_file_name} >> data/output/{file_name}.txt")
     else:
