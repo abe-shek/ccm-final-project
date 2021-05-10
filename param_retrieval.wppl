@@ -1,7 +1,7 @@
 let rows = qa.getGoals(3, 'rows');
 let cols = qa.getGoals(3, 'cols');
 
-let iterations = 10;
+let iterations = 100;
 
 var foreach = function(lst, fn) {
   var foreach_ = function(i) {
