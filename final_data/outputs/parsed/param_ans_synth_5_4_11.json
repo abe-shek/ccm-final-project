@@ -1,0 +1,8332 @@
+{"data" : [{
+  "answererType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -149.41119539497592
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -148.26700600563382
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -163.63810731383373
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -178.8255062407321
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -200.14195553801497
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -127.98261169380235
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -128.95265518225878
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -133.64826528564274
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -142.79395939614105
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -157.403796738739
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -117.98620506911249
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -120.38663142495832
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -117.30588535679541
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -121.3334706598578
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -129.47853860883473
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -116.48250633103572
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -119.71923026221597
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -111.89884212520411
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -112.50112735287183
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -115.88454852219684
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -120.47925315382285
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -124.17941146076397
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -113.71327902584608
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -112.34258054768561
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -112.84785829802489
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -127.84658804264005
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -131.81601590942032
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -119.84725766038041
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -117.38347451879508
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -116.29061230119994
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -137.2886584777364
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -141.43496151887442
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -128.51977692130194
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -125.41347768197244
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -123.41620370264323
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -146.92184303048583
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -145.78200081278197
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -161.12240372398804
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -176.28620740602832
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -197.5743012589873
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -124.26056302401693
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -125.25931768880193
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -129.75682550125032
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -138.7427347751393
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -153.1450846525911
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -114.07164752881638
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -116.48723203003755
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -113.20894082952663
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -116.99959184876221
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -124.77625699971884
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -112.76864610125214
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -115.97150333431473
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -108.16557742897909
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -108.6079867844887
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -111.65705448582591
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -116.88063941740313
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -120.49275815913566
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -110.30881412102751
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -108.9280808533637
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -109.26703336409759
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -124.1209883297958
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -127.95787554359187
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -116.4993632341025
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -114.16553492175159
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -113.0835091709086
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -133.20817154581178
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -137.18813855166647
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -124.95793928986889
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -122.09016851065738
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -120.24338029907898
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -144.9965622491517
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -143.85746438927686
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -159.1877737213291
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -174.3412485102097
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -195.61605330591226
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -121.66880574082742
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -122.6961928332795
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -127.00905757418786
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -135.85436199450683
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -150.07691335136246
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -111.775383541051
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -114.21267186836624
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -110.73602998203052
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -114.32125674993644
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -121.78622142341268
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -111.03137248228947
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -114.22119124256832
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -106.37567880612534
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -106.68402889618946
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -109.47666795885587
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -115.56487322439666
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -119.12817387116407
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -109.08515664447819
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -107.67937174908838
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -107.89776936254395
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -123.02173458992733
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -126.78043412272018
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -115.61009041578083
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -113.34044898371305
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -112.25378705122111
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -132.16852836579824
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -136.04557634255815
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -124.2236077979367
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -121.48779182811295
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -119.72006426736579
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -143.5666906277274
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -142.42359819930155
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -157.76786690873053
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -172.92430025724354
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -194.19993678479457
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -119.900529934074
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -120.9499328342237
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -125.12438673223653
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -133.86616359878542
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -147.95619405477595
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -110.45585188235938
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -112.9133633905461
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -109.27857614820553
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -112.71314467258874
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -119.95131719769253
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -110.33511866228704
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -113.52343340609674
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -105.62536888759684
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -105.83893776915238
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -108.45957903781937
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -115.38721167088467
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -118.92754110702772
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -108.94296762907263
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -107.51360963620594
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -107.6545586136203
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -123.24093622394342
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -126.95908781627233
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -115.93448680671757
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -113.69414596186375
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -112.59983887516671
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -132.70460830846545
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -136.5258056357881
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -124.92145084339823
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -122.25371542667503
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -120.52553411465155
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -142.51183073065468
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -141.36274273593278
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -156.7311064669133
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -171.8960903148488
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -193.17852079992107
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -118.68635153362057
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -119.75142333403171
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -123.82763330494934
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -132.49531476168076
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -146.4892439627593
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -109.70945749659079
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -112.18229019280267
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -108.43465255639697
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -111.76429234017037
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -118.84266217664882
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -110.18822256062195
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -113.37747093836134
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -105.44083333441534
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -105.5938988711028
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -108.10447531815635
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -115.77689570786511
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -119.30492670929485
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -109.35249932720075
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -107.91070692622274
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -108.00839191219384
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -124.09845636927342
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -127.7943083165012
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -116.8524661193088
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -114.63150271802891
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -113.53712175776607
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -133.98606467026764
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -137.77698948339173
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -126.29313013799869
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -123.66565812998266
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -121.96337460044288
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -141.72169134905903
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -140.56661304967062
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -155.95956367430801
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -171.13378163694344
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -192.4239608035511
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -117.8374199103125
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -118.91370719025667
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -122.91854439113558
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -131.53103359340426
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -145.45205379680442
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -109.30870743373904
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -111.79202719166594
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -107.96662872332183
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -111.22221976365385
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -118.18498991742176
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -110.34394959276374
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -113.53304773551025
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -105.57595643216307
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -105.69204302970881
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -108.13194835955517
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -116.45086451896691
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -119.96997899944753
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -110.04549706473823
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -108.60131508757631
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -108.67824604957205
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -125.24530817222927
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -128.92650474036918
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -118.04272104475524
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -115.83934757218498
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -114.75225937845741
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -135.57321299818392
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -139.34563519007762
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -127.93882439130596
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -125.3401610352474
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -123.65951336294918
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -141.1152800112222
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -139.9550537584779
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -155.36912952659011
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -170.5513047214585
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -191.84820568623138
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -117.23042522772252
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -118.31522759570167
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -122.26492257439257
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -130.83375819227876
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -144.69624221499572
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -109.12002442268769
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -111.61051510282506
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -107.72991760860828
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -110.93078019630376
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -117.80593517103155
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -110.66429260702225
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -113.85213472659211
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -105.88646533585283
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -105.97957631502162
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -108.37245613128047
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -117.25330074337533
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -120.76499768129678
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -110.8668501900423
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -109.42571296593728
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -109.49452199545134
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -126.49427773521423
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -130.16463601245687
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -119.32581633060956
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -117.13846271074964
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -116.06207731016168
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -137.2401794563091
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -140.9999288969222
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -129.64772933814933
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -127.07116532903648
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -125.40905576227782
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -140.63764951547267
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -139.47331443476327
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -154.90411606320296
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -170.0924957398027
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -191.39459701700153
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -116.78570133741185
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -117.87749211116002
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -121.78164433533978
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -130.3140851472294
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -144.12738992961152
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -109.06037263320962
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -111.5561493353982
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -107.63365548752047
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -110.79185249420314
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -117.59754031190678
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -111.06519239139598
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -114.25146919551806
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -106.28254946371747
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -106.3604135537994
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -108.72034309926849
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -118.09263768586995
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -121.59830087540192
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -111.72273763096304
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -110.28636698741052
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -110.35325484954444
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -127.74142591435971
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -131.40365349055668
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -120.59915344892379
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -118.42504618005304
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -117.35950854260469
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -138.86903858101564
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -142.61981111495075
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -131.3067123793635
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -128.7465040976606
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -127.09915026631326
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -140.25223126062733
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -139.08475742968218
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -154.52818065618575
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -169.72112546009402
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -191.02699232438206
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -116.45151413510217
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -117.54943256973695
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -121.41397427129513
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -129.9149444516126
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -143.68567612101393
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -109.07706100720982
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -111.57716930844865
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -107.62047656409298
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -110.74385918983859
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -117.49248765975051
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -111.49495272812797
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -114.67996375176494
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -106.70899918729336
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -106.77574943937273
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -109.1112952172314
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -118.91559326086076
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -122.41672695382533
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -112.55834629213837
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -111.12640238643554
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -111.19396632089241
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -128.93015389692988
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -132.58658235993215
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -121.80647212809018
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -119.64218847106332
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -118.58591756214662
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -140.3993518747651
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -144.1439979876103
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -132.8572611869659
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -130.3080888764301
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -128.6713810335259
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -139.9345306122935
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -138.76473264280298
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -154.21735879501938
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -169.41352134545656
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -190.7219793383182
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -116.1939776465944
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -117.29750130431891
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -121.1264586382167
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -129.5996050903651
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -143.33281093481622
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -109.13682412484803
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -111.64081292269677
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -107.654554772894
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -110.74856307075144
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -117.44912176416608
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -111.92291632228218
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -115.10724360684497
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -107.1334691721983
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -107.1913404439349
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -109.5079392792288
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -119.69320652838118
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -123.19129846161296
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -113.3443407048216
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -111.91565351832202
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -111.98469542362163
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -130.03249937455973
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -133.68518553856288
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -122.92051569688087
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -120.7627116573826
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -119.71358273629062
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -141.80395014560978
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -145.5448339718467
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -134.27368387766668
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -131.73091937298273
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -130.1010773812836
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -139.66784515503286
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -138.49637221172648
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -153.95550583137984
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -169.15384324841378
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -190.46399043518105
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -115.99065910759467
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -117.09942159943733
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -120.89585131439281
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -129.34408133454156
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -143.04384969855454
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -109.2189989476308
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -111.72664942437875
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -107.71388999010912
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -110.78254776368257
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -117.44188270296938
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -112.33209116614522
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -115.51636394553482
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -107.53839228790868
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -107.5886792552345
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -109.88997122827799
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -120.4118703472232
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -123.90824356991719
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -114.06752537316507
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -112.64079997114857
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -112.71134183981277
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -131.03790284741288
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -134.68858790820394
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -123.9318649055729
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -121.77772778978358
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -120.73373511540161
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -143.07527899492604
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -146.81435670038965
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -135.55000067437064
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -133.00996730338284
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -131.38394400361543
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -139.4405234741967
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -138.26787779826086
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -153.73145722108046
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -168.9311877251078
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -190.24235426063422
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -115.82651921624122
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -116.94021819158888
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -120.70667317089759
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -129.13242283622992
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -142.80218796034268
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -109.31103507118284
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -111.82221113299744
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -107.78525092549515
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -110.83170623904722
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -117.4552317941766
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -112.714110781723
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -115.89887656532309
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -107.91540007791241
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -107.95895951159352
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -110.24752499153219
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -121.06732468173449
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -124.56305365886547
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -114.72442305668883
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -113.29856496431633
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -113.37036378874278
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -131.94600032966218
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -135.59607086836868
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -124.84149447435539
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -122.68890814421519
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -121.64843835979019
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -144.216868654885
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -147.9556952684041
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -136.69139090221458
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -134.1514310377528
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -132.5270207279053
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -139.24424001290362
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -138.0708027609345
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -153.53728134360588
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -168.73783032740866
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -190.0495287941089
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -115.69133112428187
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -116.8096858461146
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -120.54843593306997
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -128.9538080971494
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -142.59651574322072
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -109.40553408244087
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -111.92010907021887
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -107.86089097429952
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -110.88771374192753
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -117.47983027659397
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -113.06584659840641
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -116.25151851325494
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -108.26160182270857
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -108.29909822536595
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -110.57686685655659
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -121.66068790487951
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -125.15657613605306
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -115.31701469860027
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -113.89123112028945
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -113.96401141071671
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -132.76198613537085
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -136.41247155741937
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -125.65590364505621
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -123.50342457748022
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -122.4653044886059
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -145.23795686997187
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -148.9776938713803
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -137.70865876531158
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -135.1670374171266
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -133.54279484534885
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -139.0729075004821
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -137.89896343841403
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -153.36719893849846
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -168.56815070691846
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -189.88003221813312
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -115.57803316599855
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -116.70076741683123
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -120.41390044699587
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -128.8007418091118
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -142.4189505067571
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -109.49831806604082
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -112.01614496908502
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -107.93644234390842
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -110.9457939311979
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -117.51014947654589
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -113.38719460959399
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -116.57404461337501
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -108.57718821233199
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -108.60920316872921
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -110.87768390053225
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -122.1959100171328
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -125.69250926822576
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -115.85002896405665
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -114.42381692392166
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -114.49735681489186
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -133.49370414085917
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -137.14530903431915
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -126.38405998685202
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -124.23080117907747
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -123.19424045525824
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -146.1502028477338
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -149.8916495719076
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -138.6148112488076
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -136.0705341041618
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -134.44561207787697
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -138.92198204079426
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -137.74774041991486
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -153.21690343827996
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -168.41796262220322
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -189.72978218004405
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -115.48166943238358
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -116.60850661930229
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -120.2979732889313
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -128.66792300590546
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -142.2638746232776
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -109.58718412117734
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -112.10808882334479
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -108.00958053977489
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -111.0033153875799
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -117.54298080273388
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -113.67967044655846
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -116.86784630458428
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -108.86393785257776
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -108.89101105714921
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -111.15142429348396
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -122.67819528743634
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -126.1758467506537
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -116.32929426354967
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -114.90238268185806
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -114.97653055084959
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -134.14989332377323
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -137.8030516395489
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -127.03558260245981
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -124.88107111981046
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -123.84557068845271
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -146.96576862475985
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -150.7094164187045
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -139.42307061986963
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -136.8756826509516
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -135.24965823676715
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -138.788009476524
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -137.61362080863773
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -153.0831226354952
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -168.28408477091727
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -189.5956752268529
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -115.39870121044504
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -116.52936491013386
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -120.19699835991693
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -128.55152262456616
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -142.12719664054563
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -109.67111042376281
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -112.1948959424039
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -108.07918648423994
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -111.05891682142438
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -117.57650967213266
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -113.94554502967127
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -117.13509685617764
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -109.12431893344994
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -109.14695773546704
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -111.4003136622681
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -123.11306796577622
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -126.61195066725209
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -116.76079102222656
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -115.33307265568867
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -115.40773508842443
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -134.73918633788543
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -138.39412344519764
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -127.61973840180983
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -125.46378226765444
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -124.4290436803351
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -147.69626893414633
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -151.4423671960954
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -140.14581785082282
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -137.5952215879314
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -135.96794517136576
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -138.66832149292654
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -137.49389076620358
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -152.9633275552538
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -168.16405702745675
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -189.47530985533902
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -115.32655431492584
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -116.46077088873966
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -120.10829548876522
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -128.44871425477214
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -142.00587163373163
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -109.74975685790699
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -112.27621178107215
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -108.14482777867036
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -111.11196764229969
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -117.60974337811088
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -114.18733341298929
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -117.3782414799024
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -109.36097324877844
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -109.37964991701176
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -111.62679711311534
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -123.50585339786265
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -127.00603065522179
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -117.15014943299016
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -115.72161960712907
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -115.79674113827544
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -135.26958628348586
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -138.92637853864974
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -128.14494988175272
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -125.98752941839885
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -124.9533796693298
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -148.3522578167507
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -183.44245460573657
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -152.10088047379352
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -179.7136103579562
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -140.79411291441417
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -206.936247237278
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -138.24042296672948
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -227.68135102475446
+},
+{
+  "answererType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -136.61190166245572
+},
+{
+  "answererType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -254.38910725340628
+},
+
+]}
