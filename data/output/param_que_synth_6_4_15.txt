@@ -1,0 +1,5553 @@
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -158.81519212470351
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -160.12985791263625
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -158.89469335062253
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -160.3016370139077
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -158.58481742881452
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -159.57586978422245
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -158.48805865709315
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -159.2855316165852
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -158.42420380039394
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -159.03046366223603
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -157.186745365001
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -160.12985791263625
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -157.2366987197618
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -160.3016370139077
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -157.097335361262
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -159.57586978422245
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -157.12914824862824
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -159.2855316165852
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -157.24344219302137
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -159.03046366223603
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -155.8198672583067
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -160.12985791263625
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -155.89152900272188
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -160.3016370139077
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -155.6386972960061
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -159.57586978422245
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -155.61847805237718
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -159.2855316165852
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -155.7133043599726
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -159.03046366223603
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -154.97853108104647
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -160.12985791263625
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -155.07157525992767
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -160.3016370139077
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -154.6743004970594
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -159.57586978422245
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -154.53271275235764
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -159.2855316165852
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -154.46539449325493
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -159.03046366223603
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -154.54634314491807
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -160.12985791263625
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -154.6446812678553
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -160.3016370139077
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -154.19003846024873
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -159.57586978422245
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -153.97343743631913
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -159.2855316165852
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -153.77337761302203
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -159.03046366223603
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -154.346685072014
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -160.12985791263625
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -154.4398309135595
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -160.3016370139077
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -153.99672607394228
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -159.57586978422245
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -153.76119101820575
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -159.2855316165852
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -153.50252692321106
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -159.03046366223603
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -154.26215318295652
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -160.12985791263625
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -154.3463425550804
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -160.3016370139077
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -153.94689041081796
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -159.57586978422245
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -153.72723893096713
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -159.2855316165852
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -153.46569703342874
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -159.03046366223603
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -153.70690272237286
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -155.80617101367605
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -153.7209624657173
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -155.94898420638538
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -153.73520979286533
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -155.36320129364557
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -153.81167738102025
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -155.14253169697446
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -153.92922468465252
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -154.9557055765535
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -151.31164808244134
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -155.80617101367605
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -151.3040972533295
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -155.94898420638538
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -151.4710186821788
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -155.36320129364557
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -151.69562478759124
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -155.14253169697446
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -152.04506735394057
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -154.9557055765535
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -149.5523139191035
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -155.80617101367605
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -149.58747533577304
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -155.94898420638538
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -149.525026367157
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -155.36320129364557
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -149.6236184182197
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -155.14253169697446
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -149.8722127417863
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -154.9557055765535
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -148.6169074623576
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -155.80617101367605
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -148.68208479698592
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -155.94898420638538
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -148.42233928918043
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -155.36320129364557
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -148.35440057160326
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -155.14253169697446
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -148.36764361934465
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -154.9557055765535
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -148.19594231520617
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -155.80617101367605
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -148.2695498432416
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -155.94898420638538
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -147.9377260675944
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -155.36320129364557
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -147.7862296375265
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -155.14253169697446
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -147.65266606834413
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -154.9557055765535
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -148.0250918046441
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -155.80617101367605
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -148.09660134361556
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -155.94898420638538
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -147.76416262987615
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -155.36320129364557
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -147.5909169713211
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -155.14253169697446
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -147.39992749131662
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -154.9557055765535
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -147.96509188674028
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -155.80617101367605
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -148.03122679277632
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -155.94898420638538
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -147.72705787742473
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -155.36320129364557
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -147.56380472734077
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -155.14253169697446
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -147.36666485204952
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -154.9557055765535
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -150.29788499929896
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -153.0012288986005
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -150.2337374533701
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -153.08775921663917
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -150.61768213198863
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -152.75441537405004
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -150.8787839654988
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -152.64549456056758
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -151.1842762270797
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -152.56191118616445
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -147.53933566158065
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -153.0012288986005
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -147.47753810052285
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -153.08775921663917
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -147.90267850584615
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -152.75441537405004
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -148.2676989797581
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -152.64549456056758
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -148.78447485048477
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -152.56191118616445
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -145.88390698208585
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -153.0012288986005
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -145.87797913559206
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -153.08775921663917
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -145.98483397096575
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -152.75441537405004
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -146.14302039409023
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -152.64549456056758
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -146.4386183958314
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -152.56191118616445
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -145.1789637817792
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -153.0012288986005
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -145.19890332743213
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -153.08775921663917
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -145.13224862614817
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -152.75441537405004
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -145.13429005975988
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -152.64549456056758
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -145.18802838258864
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -152.56191118616445
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -144.917054174182
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -153.0012288986005
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -144.9430365445233
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -153.08775921663917
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -144.8273410711507
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -152.75441537405004
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -144.77309015336763
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -152.64549456056758
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -144.72514459994864
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -152.56191118616445
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -144.8350565556958
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -153.0012288986005
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -144.86035815604922
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -153.08775921663917
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -144.7426894250342
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -152.75441537405004
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -144.674851396948
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -152.64549456056758
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -144.5914941769457
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -152.56191118616445
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -144.82795360682465
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -153.0012288986005
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -144.85057143266312
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -153.08775921663917
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -144.74865684571196
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -152.75441537405004
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -144.68654685247947
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -152.64549456056758
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -144.59817343277385
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -152.56191118616445
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -148.37393457278964
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -151.43144438328594
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -148.2433312302268
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -151.45418819991986
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -148.93170252209774
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -151.3954329083907
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -149.33852515940595
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -151.39930056233737
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -149.79068752390896
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -151.41556406027107
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -145.708813331096
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -151.43144438328594
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -145.61658069007674
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -151.45418819991986
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -146.1602991739613
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -151.3954329083907
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -146.57057431525084
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -151.39930056233737
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -147.14148368821463
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -151.41556406027107
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -144.57802682105086
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -151.43144438328594
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -144.54267628251827
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -151.45418819991986
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -144.7389070095707
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -151.3954329083907
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -144.8862812385283
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -151.39930056233737
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -145.12141284543569
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -151.41556406027107
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -144.30736985172197
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -151.43144438328594
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -144.28560579761174
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -151.45418819991986
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -144.38556795971823
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -151.3954329083907
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -144.43475595624852
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -151.39930056233737
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -144.49383396149284
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -151.41556406027107
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -144.29279801767473
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -151.43144438328594
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -144.27358612579715
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -151.45418819991986
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -144.35596103819452
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -151.3954329083907
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -144.3869080954613
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -151.39930056233737
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -144.41254691771988
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -151.41556406027107
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -144.3532459981964
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -151.43144438328594
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -144.33518835254503
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -151.45418819991986
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -144.41128482609415
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -151.3954329083907
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -144.43544896087144
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -151.39930056233737
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -144.44741727621215
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -151.41556406027107
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -144.43883060763486
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -151.43144438328594
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -144.42147174906012
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -151.45418819991986
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -144.49623330063136
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -151.3954329083907
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -144.51929251741328
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -151.39930056233737
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -144.525630071945
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -151.41556406027107
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -147.57086425504727
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -150.75670858818108
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -147.39861549246461
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -150.7243659350539
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -148.27100583693903
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -150.89264831593724
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -148.7621926873169
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -150.9819987467362
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -149.2993805273443
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -151.06997610572768
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -145.37583487082685
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -150.75670858818108
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -145.28126614914294
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -150.7243659350539
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -145.79407050900002
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -150.89264831593724
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -146.15582588485134
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -150.9819987467362
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -146.66877362587942
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -151.06997610572768
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -145.02163079363197
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -150.75670858818108
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -144.9719335434626
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -150.7243659350539
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -145.18179279262495
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -150.89264831593724
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -145.27042320161615
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -150.9819987467362
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -145.37614948629567
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -151.06997610572768
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -145.25090441994163
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -150.75670858818108
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -145.19951990215102
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -150.7243659350539
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -145.4155803702795
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -150.89264831593724
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -145.4935268064125
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -150.9819987467362
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -145.54340217936812
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -151.06997610572768
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -145.49183296085454
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -150.75670858818108
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -145.44125841754246
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -150.7243659350539
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -145.66408822740956
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -150.89264831593724
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -145.76008030440866
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -150.9819987467362
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -145.84649198504712
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -151.06997610572768
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -145.69239950293877
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -150.75670858818108
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -145.64672888925045
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -150.7243659350539
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -145.85012756997756
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -150.89264831593724
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -145.94151170582842
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -150.9819987467362
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -146.0303597830195
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -151.06997610572768
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -145.8640541207246
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -150.75670858818108
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -145.8239500952544
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -150.7243659350539
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -146.00237198171024
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -150.89264831593724
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -146.08252010155582
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -150.9819987467362
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -146.1611654504484
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -151.06997610572768
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -147.52313566287205
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -150.66127931760343
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -147.33675132418497
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -150.59148589850898
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -148.2638180208219
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -150.90466355627578
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -148.7763282090174
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -151.04133241899103
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -149.33646556563406
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -151.16528970036626
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -146.06015246078485
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -150.66127931760343
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -145.98553135125667
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -150.59148589850898
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -146.35234638815976
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -150.90466355627578
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -146.59367377301245
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -151.04133241899103
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -146.95938296790598
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -151.16528970036626
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -146.5702188080764
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -150.66127931760343
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -146.5167210904509
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -150.59148589850898
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -146.69654425306297
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -150.90466355627578
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -146.70696605656704
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -151.04133241899103
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -146.6564823678602
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -151.16528970036626
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -147.25342022418326
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -150.66127931760343
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -147.182757745668
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -150.59148589850898
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -147.47756013520976
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -150.90466355627578
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -147.57753526630017
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -151.04133241899103
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -147.62205953353197
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -151.16528970036626
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -147.69099739696654
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -150.66127931760343
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -147.62114925193964
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -150.59148589850898
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -147.93759603775425
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -150.90466355627578
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -148.08491434258607
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -151.04133241899103
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -148.22653066859993
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -151.16528970036626
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -147.98392216163097
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -150.66127931760343
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -147.92361636364706
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -150.59148589850898
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -148.2028018740413
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -150.90466355627578
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -148.343515606199
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -151.04133241899103
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -148.49585627940567
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -151.16528970036626
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -148.20441959446754
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -150.66127931760343
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -148.15472534890984
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -150.59148589850898
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -148.38481485557116
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -150.90466355627578
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -148.50351028783726
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -151.04133241899103
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -148.63851113958117
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -151.16528970036626
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -147.9379818645634
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -150.89818877700753
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -147.761392919434
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -150.81020908845792
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -148.63289740184342
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -151.184846168101
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -149.11487299268344
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -151.33479640715743
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -149.64803871217717
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -151.4651963039593
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -147.36009433451875
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -150.89818877700753
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -147.31903552399143
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -150.81020908845792
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -147.47113107388594
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -151.184846168101
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -147.5481865981669
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -151.33479640715743
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -147.70847958448212
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -151.4651963039593
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -148.69497183489753
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -150.89818877700753
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -148.64296873232306
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -150.81020908845792
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -148.77871940853265
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -151.184846168101
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -148.7138272826398
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -151.33479640715743
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -148.5138008628248
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -151.4651963039593
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -149.72002132979668
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -150.89818877700753
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -149.63721582683704
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -150.81020908845792
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -149.98729362652182
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -151.184846168101
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -150.1093565446663
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -151.33479640715743
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -150.16175949662744
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -151.4651963039593
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -150.2681870807703
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -150.89818877700753
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -150.18735957500974
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -150.81020908845792
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -150.56442712889574
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -151.184846168101
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -150.75229917170424
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -151.33479640715743
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -150.9442138178228
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -151.4651963039593
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -150.59556750588837
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -150.89818877700753
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -150.5284933445347
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -150.81020908845792
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -150.8510806513224
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -151.184846168101
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -151.0274380552662
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -151.33479640715743
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -151.22972074959108
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -151.4651963039593
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -150.825060172311
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -150.89818877700753
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -150.77269206948296
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -150.81020908845792
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -151.02707459444503
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -151.184846168101
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -151.1728365004164
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -151.33479640715743
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -151.35068590750862
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -151.4651963039593
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -148.6143534180618
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -151.3030003123825
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -148.46462738737205
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -151.21221458920172
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -149.20388288415157
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -151.58668876840872
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -149.62084775368902
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -151.72857774332533
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -150.09481656557782
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -151.84880826298246
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -148.98163653333322
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -151.3030003123825
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -148.97936739859816
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -151.21221458920172
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -148.8926467135198
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -151.58668876840872
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -148.7892724508603
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -151.72857774332533
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -148.71800445564253
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -151.84880826298246
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -151.0174323205083
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -151.3030003123825
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -150.96847573205935
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -151.21221458920172
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -151.06591656473344
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -151.58668876840872
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -150.9431126147393
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -151.72857774332533
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -150.62307042603672
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -151.84880826298246
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -152.24965376686174
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -151.3030003123825
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -152.15978510328912
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -151.21221458920172
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -152.5485750256476
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -151.58668876840872
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -152.69427888226505
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -151.72857774332533
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -152.76936856286702
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -151.84880826298246
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -152.82764395620165
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -151.3030003123825
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -152.7416741013484
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -151.21221458920172
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -153.15353805470366
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -151.58668876840872
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -153.37071049700018
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -151.72857774332533
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -153.60461394738778
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -151.84880826298246
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -153.14357321775603
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -151.3030003123825
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -153.07439563564282
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -151.21221458920172
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -153.4182294078347
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -151.58668876840872
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -153.6172165424063
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -151.72857774332533
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -153.8533645433383
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -151.84880826298246
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -153.3535495626587
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -151.3030003123825
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -153.30162923157923
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -151.21221458920172
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -153.56586652422794
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -151.58668876840872
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -153.7291980839524
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -151.72857774332533
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -153.93539408779296
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -151.84880826298246
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -149.43263427882206
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -151.78591605339489
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -149.31921717545845
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -151.70129090778806
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -149.8851506065602
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -152.0437037250917
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -150.21959315078675
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -152.16947208298333
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -150.61843585235204
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -152.27479328240355
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -150.72960275679017
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -151.78591605339489
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -150.76457547900773
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -151.70129090778806
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -150.4509767703065
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -152.0437037250917
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -150.17382694461844
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -152.16947208298333
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -149.8720570593258
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -152.27479328240355
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -153.2976994479979
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -151.78591605339489
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -153.25116278572793
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -151.70129090778806
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -153.32643168105682
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -152.0437037250917
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -153.17011321483466
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -152.16947208298333
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -152.77156060489688
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -152.27479328240355
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -154.6111052705449
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -151.78591605339489
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -154.5180730354937
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -151.70129090778806
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -154.93184095484622
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -152.0437037250917
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -155.10155823101402
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -152.16947208298333
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -155.21106190450956
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -152.27479328240355
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -155.1593053195773
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -151.78591605339489
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -155.07267348523862
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -151.70129090778806
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -155.49712594133916
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -152.0437037250917
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -155.7316285402939
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -152.16947208298333
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -155.99623875666444
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -152.27479328240355
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -155.4368233843675
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -151.78591605339489
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -155.36874498827586
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -151.70129090778806
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -155.7157601844176
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -152.0437037250917
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -155.92430924719244
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -152.16947208298333
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -156.17705361039074
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -152.27479328240355
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -155.61356522318516
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -151.78591605339489
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -155.5637080619724
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -151.70129090778806
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -155.82727673078924
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -152.0437037250917
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -155.9983367165668
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -152.16947208298333
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -156.21725642189233
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -152.27479328240355
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -150.32974324593874
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -152.31003617323253
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -150.2557639777052
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -152.23468252923786
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -150.63554287836456
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -152.53725100771217
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -150.88229327201236
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -152.64748319079322
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -151.20124710066628
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -152.73991427846485
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -152.4829959240666
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -152.31003617323253
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -152.54925194387326
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -152.23468252923786
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -152.04422380380015
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -152.53725100771217
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -151.6153673450415
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -152.64748319079322
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -151.10338011751745
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -152.73991427846485
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -155.40304503925557
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -152.31003617323253
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -155.3574582105537
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -152.23468252923786
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -155.42921581084283
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -152.53725100771217
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -155.26437116793747
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -152.64748319079322
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -154.83096783351124
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -152.73991427846485
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -156.69717522164825
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -152.31003617323253
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -156.6041561571113
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -152.23468252923786
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -157.03049268809735
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -152.53725100771217
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -157.222730551971
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -152.64748319079322
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -157.37348649715227
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -152.73991427846485
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -157.1797001443564
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -152.31003617323253
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -157.0960822045486
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -152.23468252923786
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -157.5136917276466
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -152.53725100771217
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -157.7540142244665
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -152.64748319079322
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -158.0372604975925
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -152.73991427846485
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -157.40858220817293
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -152.31003617323253
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -157.3442702855674
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -152.23468252923786
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -157.6781799236076
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -152.53725100771217
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -157.88399231570818
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -152.64748319079322
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -158.1372311949676
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -152.73991427846485
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -157.55050283032242
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -152.31003617323253
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv
+{
+  questionerType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -157.50409496040254
+}
+{
+  questionerType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -152.23468252923786
+}
+undefined
+undefined 1 ./data/input/param_que_synth_6_4_15.csv

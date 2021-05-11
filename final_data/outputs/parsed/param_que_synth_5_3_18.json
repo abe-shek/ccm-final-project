@@ -1,0 +1,8332 @@
+{"data" : [{
+  "questionerType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -157.2532234681354
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -158.1291622215701
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -157.39284308119272
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -158.33076847160714
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -156.81321577622901
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -157.4773259192047
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -156.59564962750875
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -157.13457480427968
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -156.41846582807935
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -156.83272927312348
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -156.23342531011065
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -158.1291622215701
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -156.35654788276997
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -158.33076847160714
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -155.8633877544214
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -157.4773259192047
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -155.71056542569087
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -157.13457480427968
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -155.6309337372074
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -156.83272927312348
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -155.45822501098527
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -158.1291622215701
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -155.5945970512386
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -158.33076847160714
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -155.0121075689226
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -157.4773259192047
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -154.79921886002901
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -157.13457480427968
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -154.66970549193067
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -156.83272927312348
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -155.07762837579713
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -158.1291622215701
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -155.22149390469355
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -158.33076847160714
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -154.5581286378093
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -157.4773259192047
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -154.25194009888872
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -157.13457480427968
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -153.9829012482136
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -156.83272927312348
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -154.99335200785475
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -158.1291622215701
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -155.1305869998359
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -158.33076847160714
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -154.46873622509864
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -157.4773259192047
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -154.11873863682953
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -157.13457480427968
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -153.74913572927002
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -156.83272927312348
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -155.0668721012737
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -158.1291622215701
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -155.18973405144706
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -158.33076847160714
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -154.58792418857794
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -157.4773259192047
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -154.24787406372747
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -157.13457480427968
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -153.8516291093866
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -156.83272927312348
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -155.2021946867684
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -158.1291622215701
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -155.30964128619797
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -158.33076847160714
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -154.78870873064378
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -157.4773259192047
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -154.49013474218526
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -157.13457480427968
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 3,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -154.12236623534102
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 3,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -156.83272927312348
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -151.93507230695616
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -153.37142109297787
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -152.0287380905803
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -153.54584800472458
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -151.68691196826563
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -152.82594643979522
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -151.6047907447004
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -152.55111808953592
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -151.57402210053525
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -152.3163870713979
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -150.47960700771955
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -153.37142109297787
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -150.5729476065211
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -153.54584800472458
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -150.25105695833523
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -152.82594643979522
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -150.2185058994192
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -152.55111808953592
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -150.2954437568706
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -152.3163870713979
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -149.630193527898
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -153.37142109297787
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -149.7530188369014
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -153.54584800472458
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -149.24410719768468
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -152.82594643979522
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -149.0782588829521
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -152.55111808953592
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -149.01207222560512
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -152.3163870713979
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -149.38251713678903
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -153.37142109297787
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -149.51395950715354
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -153.54584800472458
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -148.9137670715359
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -152.82594643979522
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -148.6366642214316
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -152.55111808953592
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -148.3865784244959
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -152.3163870713979
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -149.4440098315937
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -153.37142109297787
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -149.56752256660857
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -153.54584800472458
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -148.98422277467577
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -152.82594643979522
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -148.68118123935358
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -152.55111808953592
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -148.35504722641028
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -152.3163870713979
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -149.61355536444086
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -153.37142109297787
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -149.7246509770688
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -153.54584800472458
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -149.2008834001345
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -152.82594643979522
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -148.91944391589723
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -152.55111808953592
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -148.5937122397574
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -152.3163870713979
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -149.79747173686147
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -153.37142109297787
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -149.89754431202581
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -153.54584800472458
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -149.43880224341433
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -152.82594643979522
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -149.197469741921
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -152.55111808953592
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 4,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -148.9082977962914
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 4,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -152.3163870713979
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -148.47685749422672
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -150.2453453067817
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -148.51206179286578
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -150.362911185202
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -148.4508220878175
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -149.89854016628456
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -148.5125991528175
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -149.7371097988736
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -148.63072705182614
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -149.60721176079045
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -147.05135984860618
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -150.2453453067817
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -147.11624929583905
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -150.362911185202
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -146.9229151492789
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -149.89854016628456
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -146.95573861411486
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -149.7371097988736
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -147.11350051596736
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -149.60721176079045
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -146.64683082914945
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -150.2453453067817
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -146.74476573368267
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -150.362911185202
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -146.32039918466734
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -149.89854016628456
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -146.1561334070082
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -149.7371097988736
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -146.05505053114004
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -149.60721176079045
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -146.8312026048939
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -150.2453453067817
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -146.92392481797128
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -150.362911185202
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -146.48907489370828
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -149.89854016628456
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -146.26449932536698
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -149.7371097988736
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -146.0231440174244
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -149.60721176079045
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -147.14072346858813
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -150.2453453067817
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -147.21848956283904
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -150.362911185202
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -146.8547378732327
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -149.89854016628456
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -146.65929668044163
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -149.7371097988736
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -146.430110925778
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -149.60721176079045
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -147.42036499440522
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -150.2453453067817
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -147.48589667248103
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -150.362911185202
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -147.190584717806
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -149.89854016628456
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -147.03644515900473
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -149.7371097988736
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -146.850876060313
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -149.60721176079045
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -147.64152444086298
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -150.2453453067817
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -147.6988846307572
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -150.362911185202
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -147.45644900536718
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -149.89854016628456
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -147.3400149142274
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -149.7371097988736
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 5,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -147.19750208858318
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 5,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -149.60721176079045
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -146.62510471264082
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -148.438503162497
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -146.6144612595258
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -148.49143307515075
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -146.7623473678638
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -148.30486570290273
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -146.924066374598
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -148.25712146444286
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -147.1435027391826
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -148.22759170223378
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -145.72921130363093
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -148.438503162497
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -145.78613068268407
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -148.49143307515075
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -145.59266345672506
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -148.30486570290273
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -145.595336399181
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -148.25712146444286
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -145.71467714611978
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -148.22759170223378
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -146.19215808214972
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -148.438503162497
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -146.26875017188658
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -148.49143307515075
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -145.88524010566957
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -148.30486570290273
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -145.66758717785083
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -148.25712146444286
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -145.43639997704565
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -148.22759170223378
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -146.9843486983375
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -148.438503162497
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -147.0320874802376
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -148.49143307515075
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -146.78109199681072
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -148.30486570290273
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -146.60855753262553
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -148.25712146444286
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -146.36502669731644
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -148.22759170223378
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -147.5954758486578
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -148.438503162497
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -147.62010239214183
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -148.49143307515075
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -147.50091289180068
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -148.30486570290273
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -147.4213542819438
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -148.25712146444286
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -147.30031943429333
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -148.22759170223378
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -148.01081581265092
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -148.438503162497
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -148.0241126006842
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -148.49143307515075
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -147.97418333678712
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -148.30486570290273
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -147.9481184241045
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -148.25712146444286
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -147.90507502661134
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -148.22759170223378
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -148.29527308363464
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -148.438503162497
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -148.30378569859548
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -148.49143307515075
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -148.28685860554117
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -148.30486570290273
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -148.28769493927788
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -148.25712146444286
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 6,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -148.282188769524
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 6,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -148.22759170223378
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -145.96789429264808
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -147.5781803428277
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -145.93704272541402
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -147.5762495008006
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -146.16778553967822
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -147.6147768360212
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -146.36353491556744
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -147.6509855025659
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -146.61716448574586
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -147.69146874482817
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -146.0054457409089
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -147.5781803428277
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -146.07905116289427
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -147.5762495008006
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -145.7474218162842
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -147.6147768360212
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -145.62675842920385
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -147.6509855025659
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -145.591654710792
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -147.69146874482817
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -147.58856828846916
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -147.5781803428277
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -147.651887503181
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -147.5762495008006
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -147.26337373154968
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -147.6147768360212
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -146.9564961872729
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -147.6509855025659
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -146.53615581692281
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -147.69146874482817
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -149.0346912013961
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -147.5781803428277
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -149.0419346489514
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -147.5762495008006
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -148.9578032371966
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -147.6147768360212
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -148.83516516448748
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -147.6509855025659
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -148.59299571057673
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -147.69146874482817
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -149.93229076758413
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -147.5781803428277
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -149.91122938316084
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -147.5762495008006
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -150.0051873808271
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -147.6147768360212
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -150.03307613463755
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -147.6509855025659
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -150.02173132291742
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -147.69146874482817
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -150.46890328556918
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -147.5781803428277
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -150.44069764306533
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -147.5762495008006
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -150.58707872130125
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -147.6147768360212
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -150.6688395005878
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -147.6509855025659
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -150.75386507046537
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -147.69146874482817
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -150.8123090084432
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -147.5781803428277
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -150.78514777744218
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -147.5762495008006
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -150.93233672442275
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -147.6147768360212
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -151.02236215750042
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -147.6509855025659
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 7,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -151.12810413083756
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 7,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -147.69146874482817
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -146.10613412214093
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -147.3245175213699
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -146.08261466293666
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -147.28637017297174
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -146.26521526903116
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -147.46409408899078
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -146.4299616305194
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -147.54513325583645
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -146.6531620073993
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -147.619438257059
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -147.36344479520145
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -147.3245175213699
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -147.47298953626515
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -147.28637017297174
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -146.8983690954096
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -147.46409408899078
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -146.58353790473643
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -147.54513325583645
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -146.3024976065351
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -147.619438257059
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -150.16407190627194
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -147.3245175213699
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -150.21956853548605
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -147.28637017297174
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -149.80420092399348
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -147.46409408899078
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -149.39763945212152
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -147.54513325583645
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -148.7687981557842
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -147.619438257059
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -152.20741200777402
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -147.3245175213699
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -152.18018451689616
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -147.28637017297174
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -152.24512993416488
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -147.46409408899078
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -152.17622244286247
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -147.54513325583645
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -151.95247424232403
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -147.619438257059
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -153.321323592989
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -147.3245175213699
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -153.2643632496852
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -147.28637017297174
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -153.53349331656466
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -147.46409408899078
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -153.65904944810543
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -147.54513325583645
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -153.75770029422364
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -147.619438257059
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -153.93138489024204
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -147.3245175213699
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -153.87388200735688
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -147.28637017297174
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -154.16588065701373
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -147.46409408899078
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -154.33583593212546
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -147.54513325583645
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -154.53269312090373
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -147.619438257059
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -154.30397310869512
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -147.3245175213699
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -154.25455082598032
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -147.28637017297174
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -154.51033538545303
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -147.46409408899078
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -154.66717541763467
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -147.54513325583645
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 8,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -154.86227119730248
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 8,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -147.619438257059
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -146.73801572251386
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -147.42122337438624
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -146.74479266802547
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -147.36597078876312
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -146.77212330836608
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -147.6013269141993
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -146.85438809611156
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -147.6948522880854
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -146.99701173509283
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -147.7753779177586
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -149.4008197440172
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -147.42122337438624
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -149.55754348312541
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -147.36597078876312
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -148.67920024917055
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -147.6013269141993
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -148.12710725574829
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -147.6948522880854
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -147.54000309101633
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -147.7753779177586
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -153.39730766266598
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -147.42122337438624
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -153.4471580961087
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -147.36597078876312
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -153.0051064319319
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -147.6013269141993
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -152.5084229073967
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -147.6948522880854
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -151.683649877737
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -147.7753779177586
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -155.91943695987518
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -147.42122337438624
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -155.8636611196273
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -147.36597078876312
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -156.0607762568261
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -147.6013269141993
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -156.05088314441952
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -147.6948522880854
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -155.86722855868635
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -147.7753779177586
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -157.15935478976184
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -147.42122337438624
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -157.07582228251846
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -147.36597078876312
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -157.48208982938024
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -147.6013269141993
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -157.6923800060245
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -147.6948522880854
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -157.89519361597874
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -147.7753779177586
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -157.78933104872962
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -147.42122337438624
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -157.71274569830769
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -147.36597078876312
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -158.10656336205878
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -147.6013269141993
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -158.3448566414147
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -147.6948522880854
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -158.63298734611251
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -147.7753779177586
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -158.15813779138864
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -147.42122337438624
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -158.09647910076004
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -147.36597078876312
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -158.41911098815373
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -147.6013269141993
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -158.6240695777147
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -147.6948522880854
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 9,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -158.88692623884842
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 9,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -147.7753779177586
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -147.67207538489703
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -147.70665115156413
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -147.7249535230094
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -147.64840424535439
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -147.52444633326562
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -147.8859098391158
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -147.49022469821506
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -147.97346125011362
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -147.51961293052375
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -148.04620671434452
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -151.84312527747562
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -147.70665115156413
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -152.05078648797289
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -147.64840424535439
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -150.8489617265939
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -147.8859098391158
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -150.0426955155623
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -147.97346125011362
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -149.11989416181666
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -148.04620671434452
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -156.92735878435008
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -147.70665115156413
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -156.97159554824506
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -147.64840424535439
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -156.51684155616994
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -147.8859098391158
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -155.95249426162485
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -147.97346125011362
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -154.96645886408004
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -148.04620671434452
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -159.78174376399835
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -147.70665115156413
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -159.70340254693986
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -147.64840424535439
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -160.01365659845692
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -147.8859098391158
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -160.06562881806596
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -147.97346125011362
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -159.9415741098337
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -148.04620671434452
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -161.06014264965518
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -147.70665115156413
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -160.95874666582455
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -147.64840424535439
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -161.46356164601042
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -147.8859098391158
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -161.74174611777016
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -147.97346125011362
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -162.03561460759806
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -148.04620671434452
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -161.66478699770076
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -147.70665115156413
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -161.5775520626991
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -147.64840424535439
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -162.03399383711078
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -147.8859098391158
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -162.31946596291178
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -147.97346125011362
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -162.67420942140083
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -148.04620671434452
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -162.00361516659885
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -147.70665115156413
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -161.9370011512813
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -147.64840424535439
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -162.2934766289442
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -147.8859098391158
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -162.52845304010955
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -147.97346125011362
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 10,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -162.83577840982943
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 10,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -148.04620671434452
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -148.80272207794516
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -148.09773288088087
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -148.9105519903447
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -148.04395845627488
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -148.44187001740605
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -148.2578686580459
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -148.272261025508
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -148.33356156048038
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -148.17011623505252
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -148.39546662718703
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -154.51163616334648
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -148.09773288088087
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -154.76803922362407
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -148.04395845627488
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -153.25558498399812
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -148.2578686580459
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -152.19947002402446
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -148.33356156048038
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -150.9367453494424
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -148.39546662718703
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -160.51452961695782
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -148.09773288088087
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -160.55187108978814
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -148.04395845627488
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -160.10582369723394
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -148.2578686580459
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -159.5030000081288
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -148.33356156048038
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -158.40316129366383
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -148.39546662718703
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -163.54827463609925
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -148.09773288088087
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -163.4530482683229
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -148.04395845627488
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -163.85629385345732
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -148.2578686580459
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -163.9699112897536
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -148.33356156048038
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -163.9200297459575
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -148.39546662718703
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -164.78941550657368
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -148.09773288088087
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -164.6778159441794
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -148.04395845627488
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -165.2448069988452
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -148.2578686580459
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -165.57255025200783
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -148.33356156048038
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -165.9403050529227
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -148.39546662718703
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -165.33474521708982
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -148.09773288088087
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -165.24360757468375
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -148.04395845627488
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -165.7286316572763
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -148.2578686580459
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -166.04063502046526
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -148.33356156048038
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -166.436837317788
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -148.39546662718703
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -165.62629504455154
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -148.09773288088087
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -165.5598766083022
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -148.04395845627488
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -165.92386174115146
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -148.2578686580459
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -166.17167215178299
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -148.33356156048038
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 11,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -166.50045384134157
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 11,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -148.39546662718703
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -150.07494122871617
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -148.56190811749835
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -150.24128786400772
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -148.51470921607932
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -149.487759007331
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -148.70081441775596
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -149.17424215407036
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -148.76612569008125
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -148.93170421053713
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -148.81973683173737
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -157.28512952362215
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -148.56190811749835
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -157.58392448225624
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -148.51470921607932
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -155.7965067241201
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -148.70081441775596
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -154.51022066546633
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -148.76612569008125
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -152.92247356576087
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -148.81973683173737
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -163.99912075008697
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -148.56190811749835
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -164.02758736965094
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -148.51470921607932
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -163.61435130256783
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -148.70081441775596
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -163.00413467355918
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -148.76612569008125
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -161.8429232315165
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -148.81973683173737
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -167.06705504867452
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -148.56190811749835
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -166.95991924667956
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -148.51470921607932
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -167.43703279689734
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -148.70081441775596
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -167.60991149891106
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -148.76612569008125
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -167.6436344360522
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -148.81973683173737
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -168.20974086594566
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -148.56190811749835
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -168.09423386490428
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -148.51470921607932
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -168.69211013986865
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -148.70081441775596
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -169.0523963205423
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -148.76612569008125
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -169.4767203668464
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -148.81973683173737
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -168.67247938633358
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -148.56190811749835
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -168.58264129485687
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -148.51470921607932
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -169.06839488789157
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -148.70081441775596
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -169.3890160574503
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -148.76612569008125
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -169.80465436120372
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -148.81973683173737
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -168.90773373552165
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -148.56190811749835
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -168.84513348250942
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -148.51470921607932
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -169.19599282207633
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -148.70081441775596
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -169.44172990193252
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -148.76612569008125
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 12,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -169.77200103322184
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 12,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -148.81973683173737
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -151.45596315809607
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -149.09090600626635
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -151.68094867261775
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -149.04937286001424
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -150.64098906499518
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -149.2140653638995
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -150.18141696652333
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -149.27304048084244
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -149.79528066095483
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -149.3223419956393
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -160.07390415278775
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -149.09090600626635
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -160.40626127290497
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -149.04937286001424
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -158.39351145698805
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -149.2140653638995
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -156.90688001084524
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -149.27304048084244
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -155.0225537547762
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -149.3223419956393
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -167.27427324035025
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -149.09090600626635
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -167.29171028678746
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -149.04937286001424
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -166.93460384134002
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -149.2140653638995
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -166.34655074241752
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -149.27304048084244
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -165.1755278163961
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -149.3223419956393
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -170.24900125071647
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -149.09090600626635
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -170.13402266022126
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -149.04937286001424
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -170.66848256636217
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -149.2140653638995
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -170.8971743730294
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -149.27304048084244
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -171.019550061017
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -149.3223419956393
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -171.24769683016345
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -149.09090600626635
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -171.13310383998257
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -149.04937286001424
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -171.737354750933
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -149.2140653638995
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -172.11637048801714
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -149.27304048084244
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -172.58248136053405
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -149.3223419956393
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -171.6141952785217
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -149.09090600626635
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -171.52946814334942
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -149.04937286001424
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -171.99494722973483
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -149.2140653638995
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -172.31047739307786
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -149.27304048084244
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -172.72882829514046
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -149.3223419956393
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -171.7908332323438
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -149.09090600626635
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -171.73457000933863
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -149.04937286001424
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -172.05697696060182
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -149.2140653638995
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -172.28916446599322
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -149.27304048084244
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 13,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -172.60590376718486
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 13,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -149.3223419956393
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -152.91969366241347
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -149.68365841729002
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -153.201335426458
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -149.64583832388917
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -151.88263148701458
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -149.79815604449863
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -151.2788368230364
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -149.85469789593776
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -150.74947093986202
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -149.90307043893273
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -162.8073684379622
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -149.68365841729002
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -163.16329383772072
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -149.64583832388917
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -160.98195228654586
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -149.79815604449863
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -159.33090376336838
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -149.85469789593776
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -157.18757425296627
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -149.90307043893273
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -170.27176471373704
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -149.68365841729002
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -170.27621166724137
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -149.64583832388917
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -169.9954584236758
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -149.79815604449863
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -169.45533633397696
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -149.85469789593776
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -168.3211287587054
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -149.90307043893273
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -173.05109827822534
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -149.68365841729002
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -172.93134152027312
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -149.64583832388917
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -173.5101071829384
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -149.79815604449863
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -173.79083805688055
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -149.85469789593776
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -174.00330080674624
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -149.90307043893273
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -173.87649324981695
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -149.68365841729002
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -173.76613291088452
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -149.64583832388917
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -174.35972176915286
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -149.79815604449863
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -174.74763024205194
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -149.85469789593776
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -175.24441038845058
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -149.90307043893273
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -174.14154669184862
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -149.68365841729002
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -174.06442594195636
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -149.64583832388917
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -174.49576234836408
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -149.79815604449863
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -174.79722734600625
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -149.85469789593776
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -175.2074658741799
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -149.90307043893273
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -174.26204934164844
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -149.68365841729002
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -174.21370954770717
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -149.64583832388917
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -174.49766561476312
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -149.79815604449863
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -174.7088247545374
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -149.85469789593776
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 14,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -175.00261191887688
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 14,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -149.90307043893273
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -154.44104840388377
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -150.33837728498548
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -154.77603574415
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -150.30238656308825
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -153.19233145011987
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -150.4500811764378
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -152.44893113692123
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -150.50698096896528
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -151.77930914192692
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -150.55664135390384
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -165.42983140522534
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -150.33837728498548
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -165.79913141895167
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -150.30238656308825
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -163.50794454813158
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -150.4500811764378
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -161.73139481554443
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -150.50698096896528
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -159.37229036407092
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -150.55664135390384
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -172.95490307939423
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -150.33837728498548
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -172.9448279272652
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -150.30238656308825
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -172.75607078557175
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -150.4500811764378
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -172.28436674767278
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -150.50698096896528
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -171.22588010301044
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -150.55664135390384
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -175.46643218823425
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -150.33837728498548
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -175.343968078499
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -150.30238656308825
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -175.95763571822175
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -150.4500811764378
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -176.28659485774435
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -150.50698096896528
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -176.58748452227786
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -150.55664135390384
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -176.10489306052108
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -150.33837728498548
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -176.00066311123595
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -150.30238656308825
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -176.5737010002832
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -150.4500811764378
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -176.96448338572623
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -150.50698096896528
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -177.48440093640107
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -150.55664135390384
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -176.2701717025366
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -150.33837728498548
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -176.2019337372975
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -150.30238656308825
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -176.59198400680103
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -150.4500811764378
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -176.87480545542323
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -150.50698096896528
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -177.27138117641053
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -150.55664135390384
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -176.33993804671132
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -150.33837728498548
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -176.30025907636656
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -150.30238656308825
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -176.54087435722684
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -150.4500811764378
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -176.7273777178213
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -150.50698096896528
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 15,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -176.99392353030308
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 15,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -150.55664135390384
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -155.99524957408138
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -151.0504076467525
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -156.37936233426532
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -151.0148512687165
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -154.54876468696344
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -151.16322151250742
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -153.67255603765815
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -151.2221023090102
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -152.86778384158924
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -151.2742147190221
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -167.89956535287553
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -151.0504076467525
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -168.27257682351149
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -151.0148512687165
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -165.92831148424315
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -151.16322151250742
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -164.06562413890566
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -151.2221023090102
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -161.53672758885074
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -151.2742147190221
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -175.31359390386186
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -151.0504076467525
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -175.28803706097906
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -151.0148512687165
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -175.20145539011386
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -151.16322151250742
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -174.81249095294893
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -151.2221023090102
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -173.8591255017238
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -151.2742147190221
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -177.5155275480991
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -151.0504076467525
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -177.39155717023453
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -151.0148512687165
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -178.0338978575408
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -151.16322151250742
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -178.40725852577603
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -151.2221023090102
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -178.79227395403782
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -151.2742147190221
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -177.9668723449497
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -151.0504076467525
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -177.86947778249495
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -151.0148512687165
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -178.4179927842296
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -151.16322151250742
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -178.80869139306466
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -151.2221023090102
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -179.34705137763478
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -151.2742147190221
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -178.03887899703332
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -151.0504076467525
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -177.97978486158237
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -151.0148512687165
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -178.3269301818272
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -151.16322151250742
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -178.58998289050848
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -151.2221023090102
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -178.9713017614939
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -151.2742147190221
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -178.0645567870899
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -151.0504076467525
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -178.03355869217935
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -151.0148512687165
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -178.2302527352912
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -151.16322151250742
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -178.39159841539663
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -151.2221023090102
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 16,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -178.63054941956403
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 16,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -151.2742147190221
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -157.55869357958676
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -151.81262252054566
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -157.98705588371166
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -151.7766365650831
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -155.93099042277382
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -151.928686229452
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -154.93056639561814
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -151.9902698136378
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -153.9975757168953
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -152.04524560242052
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -170.18846343348366
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -151.81262252054566
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -170.55662563626407
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -151.7766365650831
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -168.21083268820453
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -151.928686229452
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -166.2996517393488
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -151.9902698136378
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -163.64716606950734
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -152.04524560242052
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -177.35903550668624
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -151.81262252054566
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -177.31766583086122
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -151.7766365650831
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -177.33776125702576
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -151.928686229452
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -177.0394800209887
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -151.9902698136378
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -176.21037719934685
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -152.04524560242052
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -179.23707051139345
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -151.81262252054566
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -179.11213217820062
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -151.7766365650831
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -179.77929348415572
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -151.928686229452
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -180.1931791837429
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -151.9902698136378
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -180.65596825898157
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -152.04524560242052
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -179.51093291758247
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -151.81262252054566
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -179.42021632529807
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -151.7766365650831
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -179.94442451513243
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -151.928686229452
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -180.33415936708818
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -151.9902698136378
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -180.88816204618396
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -152.04524560242052
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -179.49880126123747
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -151.81262252054566
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -179.44838743906385
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -151.7766365650831
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -179.75486319162542
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -151.928686229452
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -179.99929880920448
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -151.9902698136378
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -180.36623908739784
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -152.04524560242052
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -179.4870110734778
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -151.81262252054566
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -179.4641940537695
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -151.7766365650831
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -179.61946544984596
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -151.928686229452
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -179.7572736649157
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -151.9902698136378
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 17,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -179.97078083340506
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 17,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -152.04524560242052
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -159.10988941899853
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -152.61648456375366
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -159.57716996943432
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -152.57963191532255
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -157.31953053237262
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -152.73665311424512
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -156.20495035511823
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -152.80106742071612
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -155.15222894724425
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -152.8588511194546
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -172.2812573644857
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -152.61648456375366
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -172.63752867878688
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -152.57963191532255
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -170.33404690076748
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -152.73665311424512
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -168.40847328735651
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -152.80106742071612
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -165.67658039328256
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -152.8588511194546
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -179.11753062552003
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -152.61648456375366
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -179.06060599833015
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -152.57963191532255
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -179.18671688216682
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -152.73665311424512
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -178.98120061435105
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -152.80106742071612
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -178.2856118527589
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -152.8588511194546
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -180.67871350789534
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -152.61648456375366
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -180.55291420104157
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -152.57963191532255
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -181.2425685116322
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -152.73665311424512
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -181.69306516214505
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -152.80106742071612
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -182.22595258495838
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -152.8588511194546
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -180.79044125175076
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -152.61648456375366
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -180.70573006515227
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -152.57963191532255
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -181.20828769082866
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -152.73665311424512
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -181.59733613417802
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -152.80106742071612
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -182.16524219172985
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -152.8588511194546
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -180.70402908843525
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -152.61648456375366
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -180.66141274726604
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -152.57963191532255
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -180.93162318700828
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -152.73665311424512
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -181.15978163114687
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -152.80106742071612
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -181.51441837437847
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -152.8588511194546
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -180.660570477393
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -152.61648456375366
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -180.64513172114565
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -152.57963191532255
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -180.76324918531427
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -152.73665311424512
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -180.88028351324493
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -152.80106742071612
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 18,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -181.0717229895192
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 18,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -152.8588511194546
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -160.6300639931866
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 1,
+  "beta": 0.5,
+  "likelihood": -153.4530004983033
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -161.13067063023286
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 1,
+  "beta": 0.1,
+  "likelihood": -153.41513888614912
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -158.69697782834265
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 1,
+  "beta": 1.5,
+  "likelihood": -153.57730721165316
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -157.47943405911388
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 1,
+  "beta": 2,
+  "likelihood": -153.644335264521
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -156.31675230507878
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 1,
+  "beta": 2.5,
+  "likelihood": -153.70461877048402
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -174.17405571155493
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 2,
+  "beta": 0.5,
+  "likelihood": -153.4530004983033
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -174.51314556008165
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 2,
+  "beta": 0.1,
+  "likelihood": -153.41513888614912
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -172.28650843658346
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 2,
+  "beta": 1.5,
+  "likelihood": -153.57730721165316
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -170.37569566087183
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 2,
+  "beta": 2,
+  "likelihood": -153.644335264521
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -167.60464671321
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 2,
+  "beta": 2.5,
+  "likelihood": -153.70461877048402
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -180.62406022566816
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 3,
+  "beta": 0.5,
+  "likelihood": -153.4530004983033
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -180.55231194632032
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 3,
+  "beta": 0.1,
+  "likelihood": -153.41513888614912
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -180.7796982845586
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 3,
+  "beta": 1.5,
+  "likelihood": -153.57730721165316
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -180.66428316934253
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 3,
+  "beta": 2,
+  "likelihood": -153.644335264521
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -180.1029636925248
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 3,
+  "beta": 2.5,
+  "likelihood": -153.70461877048402
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -181.88941965950943
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 4,
+  "beta": 0.5,
+  "likelihood": -153.4530004983033
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -181.76264157796354
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 4,
+  "beta": 0.1,
+  "likelihood": -153.41513888614912
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -182.4732606120604
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 4,
+  "beta": 1.5,
+  "likelihood": -153.57730721165316
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -182.95647304969486
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 4,
+  "beta": 2,
+  "likelihood": -153.644335264521
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -183.55118417403654
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 4,
+  "beta": 2.5,
+  "likelihood": -153.70461877048402
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -181.85648238590719
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 5,
+  "beta": 0.5,
+  "likelihood": -153.4530004983033
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -181.77688184435812
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 5,
+  "beta": 0.1,
+  "likelihood": -153.41513888614912
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -182.26145936956635
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 5,
+  "beta": 1.5,
+  "likelihood": -153.57730721165316
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -182.6505548987337
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 5,
+  "beta": 2,
+  "likelihood": -153.644335264521
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -183.23108386854295
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 5,
+  "beta": 2.5,
+  "likelihood": -153.70461877048402
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -181.70504721258015
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 6,
+  "beta": 0.5,
+  "likelihood": -153.4530004983033
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -181.66918182887005
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 6,
+  "beta": 0.1,
+  "likelihood": -153.41513888614912
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -181.90833527490568
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 6,
+  "beta": 1.5,
+  "likelihood": -153.57730721165316
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -182.12292496390853
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 6,
+  "beta": 2,
+  "likelihood": -153.644335264521
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -182.46763060292628
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 6,
+  "beta": 2.5,
+  "likelihood": -153.70461877048402
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -181.63454645347707
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 7,
+  "beta": 0.5,
+  "likelihood": -153.4530004983033
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -181.62556695236594
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 7,
+  "beta": 0.1,
+  "likelihood": -153.41513888614912
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -181.7114731440081
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 7,
+  "beta": 1.5,
+  "likelihood": -153.57730721165316
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -181.8108751569924
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 7,
+  "beta": 2,
+  "likelihood": -153.644335264521
+},
+{
+  "questionerType": "pragmatic",
+  "alpha_q": 19,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -181.9839168513472
+},
+{
+  "questionerType": "explicit",
+  "alpha_q": 19,
+  "alpha_a": 7,
+  "beta": 2.5,
+  "likelihood": -153.70461877048402
+}
+
+]}

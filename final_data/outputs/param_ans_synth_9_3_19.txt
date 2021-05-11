@@ -1,0 +1,9520 @@
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -Infinity
+}
+undefined
+1 undefined ./data/input/good_runs/param_ans_synth_9_3_19.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -Infinity
+}
+undefined
