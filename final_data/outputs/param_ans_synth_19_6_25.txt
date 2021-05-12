@@ -1,0 +1,9520 @@
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -146.51796326719338
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -184.94245460573657
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -144.39915836797738
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -180.0136103579562
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -162.92826751088023
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -211.436247237278
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -179.11850310944513
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -233.68135102475446
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -201.4462535148911
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -261.8891072534063
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -123.54380134601446
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -195.35917781858566
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -121.57845669599023
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -180.9995405144378
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -174.61661241834594
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -295.22914618605415
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -233.72965585687314
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -372.7624533877209
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -309.6184690304172
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -458.31346681912794
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -109.37380263156216
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -211.436247237278
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -109.55483517291944
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -182.1432577629999
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -207.73826794945253
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -414.90572048223044
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -320.87115426582915
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -547.231758697065
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -451.1596811973893
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -682.7761605106717
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -102.12060022229412
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -233.68135102475446
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -105.39619970280248
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -183.454364645986
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -252.9454574980086
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -547.231758697065
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -419.7221670918896
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -728.1675908020835
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -599.4162894676674
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -910.022697388829
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -99.76254275546667
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -261.8891072534063
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -106.17460439104632
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -184.94245460573657
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -304.3168143698496
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -682.7761605106717
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -522.2327341545491
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -910.022697388829
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -748.8873984030505
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -1137.5018633092266
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -100.72190994367816
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -295.22914618605415
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -109.88190662297637
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -186.61700981500928
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -358.8903609536662
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -819.061685872398
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -625.9022530394899
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -1092.003072058987
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -898.5899835354782
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -1365.000152951043
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -103.92832232005571
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -332.5619763134395
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -115.3414105114485
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -188.48728941062092
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -415.20341564497744
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -955.5137672769399
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -729.9561198065958
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -1274.000415763497
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 3,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -1048.3394811239266
+}
+{
+  answererType: 'explicit',
+  alpha_q: 3,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -1592.5000125549986
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -142.6890713540564
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -184.94245460573657
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -140.55942480204007
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -180.0136103579562
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -159.1363987453138
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -211.436247237278
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -175.34716531779515
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -233.68135102475446
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -197.69337661643348
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -261.8891072534063
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -116.96634456198468
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -195.35917781858566
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -115.03767653246787
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -180.9995405144378
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -167.68800136973343
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -295.22914618605415
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -226.57207539060528
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -372.7624533877209
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -302.3146396896964
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -458.31346681912794
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -100.82098004041218
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -211.436247237278
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -101.10534502242442
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -182.1432577629999
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -197.48196471162268
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -414.90572048223044
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -309.99775141535025
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -547.231758697065
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -440.0923820128984
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -682.7761605106717
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -91.86871776643173
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -233.68135102475446
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -95.20293561496968
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -183.454364645986
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -239.0145161096978
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -547.231758697065
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -405.032200505069
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -728.1675908020835
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -584.5987706913411
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -910.022697388829
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -87.75183493581949
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -261.8891072534063
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -94.04386467511827
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -184.94245460573657
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -286.5483582493346
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -682.7761605106717
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -503.7579194198719
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -910.022697388829
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -730.3457397873749
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -1137.5018633092266
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -86.77645603489204
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -295.22914618605415
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -95.55621061090811
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -186.61700981500928
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -337.25179609443796
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -819.061685872398
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -603.6787599262419
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -1092.003072058987
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -876.3344167332986
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -1365.000152951043
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -87.87343956288062
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -332.5619763134395
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -98.61546161934616
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -188.48728941062092
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -389.7117359005746
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -955.5137672769399
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -704.0046300935618
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -1274.000415763497
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 4,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -1022.373145754127
+}
+{
+  answererType: 'explicit',
+  alpha_q: 4,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -1592.5000125549986
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -139.53906270609494
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -184.94245460573657
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -137.39640841798575
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -180.0136103579562
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -156.02999056210462
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -211.436247237278
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -172.26455822288614
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -233.68135102475446
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -194.63212523206687
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -261.8891072534063
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -111.7790660758993
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -195.35917781858566
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -109.88089622269584
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -180.9995405144378
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -162.16420458893492
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -295.22914618605415
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -220.81958058277237
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -372.7624533877209
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -296.4140509345483
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -458.31346681912794
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -94.37010958311951
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -211.436247237278
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -94.73787705893429
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -182.1432577629999
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -189.39181704149374
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -414.90572048223044
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -301.2510479739251
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -547.231758697065
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -431.1329667558509
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -682.7761605106717
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -84.43278671913738
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -233.68135102475446
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -87.79096366072868
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -183.454364645986
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -228.03303980888174
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -547.231758697065
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -393.17290579071147
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -728.1675908020835
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -572.587129600765
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -910.022697388829
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -79.32771336975188
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -261.8891072534063
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -85.46269718085901
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -184.94245460573657
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -272.4895410792288
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -682.7761605106717
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -488.80692506379006
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -910.022697388829
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -715.3080616220559
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -1137.5018633092266
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -77.2892809110767
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -295.22914618605415
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -85.65380043658377
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -186.61700981500928
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -320.04555656405137
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -819.061685872398
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -585.6712544786521
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -1092.003072058987
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -858.2821188987854
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -1365.000152951043
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -77.25599809146865
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -332.5619763134395
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -87.28484814988309
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -188.48728941062092
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -369.3455629341869
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -955.5137672769399
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -682.9636335842556
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -1274.000415763497
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 5,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -1001.3100659502927
+}
+{
+  answererType: 'explicit',
+  alpha_q: 5,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -1592.5000125549986
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -137.00525961840702
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -184.94245460573657
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -134.84849072158875
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -180.0136103579562
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -153.542742028112
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -211.436247237278
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -169.80247565725657
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -233.68135102475446
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -192.19271287020678
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -261.8891072534063
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -107.7282999027357
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -195.35917781858566
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -105.85326064361797
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -180.9995405144378
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -157.8297724845749
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -295.22914618605415
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -216.28788601119874
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -372.7624533877209
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -291.7537399174554
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -458.31346681912794
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -89.5071862186079
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -211.436247237278
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -89.94230180872044
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -182.1432577629999
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -183.11883355835408
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -414.90572048223044
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -294.3722979642119
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -547.231758697065
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -424.0533552234046
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -682.7761605106717
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -79.03546810291446
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -233.68135102475446
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -82.41161676942292
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -183.454364645986
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -219.55637681330816
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -547.231758697065
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -383.827617112601
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -728.1675908020835
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -563.0868816420669
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -910.022697388829
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -73.45826623161385
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -261.8891072534063
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -79.46919523048571
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -184.94245460573657
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -261.63142386174474
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -682.7761605106717
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -477.0028220075754
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -910.022697388829
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -703.4096593257699
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -1137.5018633092266
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -70.95550600920879
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -295.22914618605415
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -79.00019785125177
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -186.61700981500928
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -306.71639323584844
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -819.061685872398
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -571.4372973969246
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -1092.003072058987
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -843.9964641823219
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -1365.000152951043
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -70.45719300373125
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -332.5619763134395
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -79.94956516997712
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -188.48728941062092
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -353.50896964706453
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -955.5137672769399
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -666.3215288963156
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -1274.000415763497
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 6,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -984.6411234039285
+}
+{
+  answererType: 'explicit',
+  alpha_q: 6,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -1592.5000125549986
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -134.96744129707275
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -184.94245460573657
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -132.79801937016555
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -180.0136103579562
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -151.5462007682753
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -211.436247237278
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -167.8281260280809
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -233.68135102475446
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -190.2384245179844
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -261.8891072534063
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -104.53483025868418
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -195.35917781858566
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -102.6803438610129
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -180.9995405144378
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -154.39443355530312
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -295.22914618605415
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -212.68382428966532
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -372.7624533877209
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -288.03906555541784
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -458.31346681912794
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -85.7836540869062
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -211.436247237278
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -86.27829468413803
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -182.1432577629999
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -178.2002917023134
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -414.90572048223044
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -288.9108178988289
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -547.231758697065
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -418.40817236572354
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -682.7761605106717
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -75.05259468118304
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -233.68135102475446
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -78.45305094034524
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -183.454364645986
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -212.9459148096319
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -547.231758697065
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -376.396134468221
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -728.1675908020835
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -555.5053705418437
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -910.022697388829
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -69.30704417841412
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -261.8891072534063
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -75.24085670416969
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -184.94245460573657
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -253.16898748559638
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -682.7761605106717
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -467.5998743586363
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -910.022697388829
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -693.9107319957296
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -1137.5018633092266
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -66.66633639194852
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -295.22914618605415
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -74.50217130368607
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -186.61700981500928
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -296.3064071370221
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -819.061685872398
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -560.0859318641242
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -1092.003072058987
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -832.590146717318
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -1365.000152951043
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -66.0345453433693
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -332.5619763134395
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -75.18467531313948
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -188.48728941062092
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -341.1016687960542
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -955.5137672769399
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -653.0413351482435
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -1274.000415763497
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 7,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -971.3312911186031
+}
+{
+  answererType: 'explicit',
+  alpha_q: 7,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -1592.5000125549986
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -133.31179480999475
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -184.94245460573657
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -131.13200464839633
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -180.0136103579562
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -149.92428011653848
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -211.436247237278
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -166.22435764339966
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -233.68135102475446
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -188.6511396835615
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -261.8891072534063
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -101.9791677634623
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -195.35917781858566
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -100.14380779797733
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -180.9995405144378
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -151.62943145891012
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -295.22914618605415
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -209.77213092855322
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -372.7624533877209
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -285.0304825656065
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -458.31346681912794
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -82.88097355289062
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -211.436247237278
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -83.4274248452914
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -182.1432577629999
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -174.28040926276336
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -414.90572048223044
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -284.503776778368
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -547.231758697065
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -413.833254327877
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -682.7761605106717
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -72.05493964885873
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -233.68135102475446
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -75.47938518222007
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -183.454364645986
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -207.7056742449973
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -547.231758697065
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -370.3899597093275
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -728.1675908020835
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -549.3562212545593
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -910.022697388829
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -66.3040788855014
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -261.8891072534063
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -72.18585391765421
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -184.94245460573657
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -246.46656702306637
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -682.7761605106717
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -459.9875289900386
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -910.022697388829
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -686.2035118360176
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -1137.5018633092266
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -63.68185185342028
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -295.22914618605415
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -71.37383967034245
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -186.61700981500928
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -288.04761459828273
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -819.061685872398
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -550.8859064697214
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -1092.003072058987
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -823.3340392754226
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -1365.000152951043
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -63.0613880922288
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -332.5619763134395
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -71.98251665305307
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -188.48728941062092
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -331.2311102637517
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -955.5137672769399
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -642.2711846422078
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -1274.000415763497
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 8,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -960.530010548255
+}
+{
+  answererType: 'explicit',
+  alpha_q: 8,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -1592.5000125549986
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -131.95069227029524
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -184.94245460573657
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -129.76262076205154
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -180.0136103579562
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -148.59011981582256
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -211.436247237278
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -164.90472007158024
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -233.68135102475446
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -187.34471565620203
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -261.8891072534063
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -99.9056621493268
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -195.35917781858566
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -98.08768274659403
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -180.9995405144378
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -149.37317977302075
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -295.22914618605415
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -207.38634381076085
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -372.7624533877209
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -282.5584195054895
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -458.31346681912794
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -80.58301024585722
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -211.436247237278
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -81.17242282385021
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -182.1432577629999
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -171.11062885455618
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -414.90572048223044
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -280.89517088936543
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -547.231758697065
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -410.0710093850547
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -682.7761605106717
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -69.75795089749063
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -233.68135102475446
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -73.19959032183102
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -183.454364645986
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -203.4887478209629
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -547.231758697065
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -365.46380484740456
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -728.1675908020835
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -544.2952124375151
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -910.022697388829
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -64.08390466152419
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -261.8891072534063
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -69.92091088510928
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -184.94245460573657
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -241.07743854328913
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -682.7761605106717
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -453.73372795859143
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -910.022697388829
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -679.8577932271673
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -1137.5018633092266
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -61.55019522329856
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -295.22914618605415
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -69.12821538968996
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -186.61700981500928
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -281.3974035751474
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -819.061685872398
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -543.3195383494206
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -1092.003072058987
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -815.7120183096972
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -1365.000152951043
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -61.001884141175864
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -332.5619763134395
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -69.74963720948642
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -188.48728941062092
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -323.2638538889303
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -955.5137672769399
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -633.4079629012338
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -1274.000415763497
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 9,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -951.6352015837396
+}
+{
+  answererType: 'explicit',
+  alpha_q: 9,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -1592.5000125549986
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -130.81951450999625
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -184.94245460573657
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -128.62486006743154
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -180.0136103579562
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -147.48032410821023
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -211.436247237278
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -163.80641630360546
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -233.68135102475446
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -186.2568400894602
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -261.8891072534063
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -98.20363943510606
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -195.35917781858566
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -96.401180747256
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -180.9995405144378
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -147.5099731089733
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -295.22914618605415
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -205.40727381984325
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -372.7624533877209
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -280.5016015316591
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -458.31346681912794
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -78.73975585659439
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -211.436247237278
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -79.36367042523509
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -182.1432577629999
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -168.51405150006832
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -414.90572048223044
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -277.90223041084795
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -547.231758697065
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -406.9374766189636
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -682.7761605106717
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -67.96985129882394
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -233.68135102475446
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -71.4202544619729
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -183.454364645986
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -200.04885321634995
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -547.231758697065
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -361.3711485255275
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -728.1675908020835
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -540.0765200711801
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -910.022697388829
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -62.41063811050467
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -261.8891072534063
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -68.20296502552311
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -184.94245460573657
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -236.6840477735411
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -682.7761605106717
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -448.5298739919546
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -910.022697388829
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -674.5663372264569
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -1137.5018633092266
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -59.99308978739287
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -295.22914618605415
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -67.47106815100548
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -186.61700981500928
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -275.9686524438795
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -819.061685872398
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -537.0170103862339
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -1092.003072058987
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -809.3554853105439
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -1365.000152951043
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -59.538883916956756
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -332.5619763134395
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -68.14235996991044
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -188.48728941062092
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -316.7460754875649
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -955.5137672769399
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -626.0208278049511
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -1274.000415763497
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 10,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -944.2168814747906
+}
+{
+  answererType: 'explicit',
+  alpha_q: 10,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -1592.5000125549986
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -129.87000506023833
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -184.94245460573657
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -127.67014254076669
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -180.0136103579562
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -146.5476337715252
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -211.436247237278
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -162.8826810142516
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -233.68135102475446
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -185.34116530992358
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -261.8891072534063
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -96.79190179308898
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -195.35917781858566
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -95.00335560139726
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -180.9995405144378
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -145.95417774365907
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -295.22914618605415
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -203.74669899956228
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -372.7624533877209
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -278.7703111010889
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -458.31346681912794
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -77.2435038734616
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -211.436247237278
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -77.89494990289825
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -182.1432577629999
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -166.3607966556876
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -414.90572048223044
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -275.39009467243704
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -547.231758697065
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -404.2967130339162
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -682.7761605106717
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -66.55762638896339
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -233.68135102475446
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -70.00971825524536
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -183.454364645986
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -197.2061560030035
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -547.231758697065
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -357.9300526128722
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -728.1675908020835
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -536.5184470459866
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -910.022697388829
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -61.12746137468168
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -261.8891072534063
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -66.87416966033655
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -184.94245460573657
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -233.05470155971167
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -682.7761605106717
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -444.1480118656264
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -910.022697388829
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -670.1020160291804
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -1137.5018633092266
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -58.832523135028644
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -295.22914618605415
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -66.2189753702769
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -186.61700981500928
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -271.47814483384684
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -819.061685872398
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -531.7049837432046
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -1092.003072058987
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -803.9919375618686
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -1365.000152951043
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -58.47540953946912
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -332.5619763134395
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -66.95294237787914
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -188.48728941062092
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -311.34428653172887
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -955.5137672769399
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -619.7912528193397
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -1274.000415763497
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 11,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -937.9571627513866
+}
+{
+  answererType: 'explicit',
+  alpha_q: 11,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -1592.5000125549986
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -129.0653774492908
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -184.94245460573657
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -126.86143863762099
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -180.0136103579562
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -145.75602505545103
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -211.436247237278
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -162.0978846477211
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -233.68135102475446
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -184.5624106387198
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -261.8891072534063
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -95.60926579594465
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -195.35917781858566
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -93.83341313789715
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -180.9995405144378
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -144.64096517079108
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -295.22914618605415
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -202.33781768157596
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -372.7624533877209
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -277.2966032138599
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -458.31346681912794
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -76.01494490239088
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -211.436247237278
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -76.68869948058827
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -182.1432577629999
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -164.55360180135762
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -414.90572048223044
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -273.25700633190496
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -547.231758697065
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -402.0458455804468
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -682.7761605106717
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -65.42673593923662
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -233.68135102475446
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -68.87570201924463
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -183.454364645986
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -194.82695070393513
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -547.231758697065
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -355.00316070896406
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -728.1675908020835
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -533.483427482383
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -910.022697388829
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -60.127110015243645
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -261.8891072534063
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -65.82843928545562
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -184.94245460573657
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -230.017511886928
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -682.7761605106717
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -440.41580562542225
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -910.022697388829
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -666.2928149768287
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -1137.5018633092266
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -57.950786315423926
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -295.22914618605415
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -65.25295496707798
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -186.61700981500928
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -267.7154707438762
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -819.061685872398
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -527.1766052635903
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -1092.003072058987
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -799.4149725593686
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -1365.000152951043
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -57.684920190750276
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -332.5619763134395
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -66.05044025295642
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -188.48728941062092
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -306.80986159329234
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -955.5137672769399
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -614.4780570965171
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -1274.000415763497
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 12,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -932.6152587512087
+}
+{
+  answererType: 'explicit',
+  alpha_q: 12,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -1592.5000125549986
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -128.37717988343962
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -184.94245460573657
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -126.17010637340147
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -180.0136103579562
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -145.0776618579438
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -211.436247237278
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -161.42452433509044
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -233.68135102475446
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -183.8933790911185
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -261.8891072534063
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -94.60888726772068
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -195.35917781858566
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -92.84486706715637
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -180.9995405144378
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -143.5207020236792
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -295.22914618605415
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -201.1294845639706
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -372.7624533877209
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -276.0284339855603
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -458.31346681912794
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -74.99478880009414
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -211.436247237278
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -75.68715555373348
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -182.1432577629999
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -163.0189321880103
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -414.90572048223044
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -271.4253534146076
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -547.231758697065
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -400.1061278010669
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -682.7761605106717
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -64.50884261965156
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -233.68135102475446
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -67.95194698376507
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -183.454364645986
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -192.8109182791943
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -547.231758697065
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -352.48563366194276
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -728.1675908020835
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -530.8660908678752
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -910.022697388829
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -59.33469544918656
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -261.8891072534063
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -64.99234235982406
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -184.94245460573657
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -227.44385764840285
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -682.7761605106717
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -437.2015109047208
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -910.022697388829
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -663.0069275090239
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -1137.5018633092266
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -57.26828878881993
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -295.22914618605415
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -64.49332336156981
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -186.61700981500928
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -264.5231172244106
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -819.061685872398
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -523.2735569780881
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -1092.003072058987
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -795.4664110383378
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -1365.000152951043
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -57.08440547504046
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -332.5619763134395
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -65.34978691438734
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -188.48728941062092
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -302.9562666520682
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -955.5137672769399
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -609.896521468926
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -1274.000415763497
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 13,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -928.0066305629904
+}
+{
+  answererType: 'explicit',
+  alpha_q: 13,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -1592.5000125549986
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -127.78323152830002
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -184.94245460573657
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -125.57380638070705
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -180.0136103579562
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -144.49089137051598
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -211.436247237278
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -160.84124317944435
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -233.68135102475446
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -183.31299180529092
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -261.8891072534063
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -93.75460611385024
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -195.35917781858566
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -92.00181673840939
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -180.9995405144378
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -142.55521510841928
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -295.22914618605415
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -200.08237694723567
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -372.7624533877209
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -274.9257741634229
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -458.31346681912794
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -74.13833385954548
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -211.436247237278
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -74.84676306865154
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -182.1432577629999
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -161.70097038080868
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -414.90572048223044
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -269.8356998562487
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -547.231758697065
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -398.4170331685542
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -682.7761605106717
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -63.75400757485988
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -233.68135102475446
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -67.19004687549634
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -183.454364645986
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -191.0824653283595
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -547.231758697065
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -350.2971280229562
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -728.1675908020835
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -528.5853938669557
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -910.022697388829
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -58.69720883290858
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -261.8891072534063
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -64.31392762042314
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -184.94245460573657
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -225.2370668697842
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -682.7761605106717
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -434.4040111391618
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -910.022697388829
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -660.1429388099006
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -1137.5018633092266
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -56.73039203641789
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -295.22914618605415
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -63.885433090211855
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -186.61700981500928
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -261.7826966292239
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -819.061685872398
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -519.8741842385654
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -1092.003072058987
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -792.0245280261929
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -1365.000152951043
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -56.618558877365246
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -332.5619763134395
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -64.79441123730115
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -188.48728941062092
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -299.64311757288954
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -955.5137672769399
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -605.9046024175321
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -1274.000415763497
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 14,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -923.9892610037617
+}
+{
+  answererType: 'explicit',
+  alpha_q: 14,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -1592.5000125549986
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -127.2661718982812
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -184.94245460573657
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -125.0550402440856
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -180.0136103579562
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -143.9788216926146
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -211.436247237278
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -160.33141754611313
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -233.68135102475446
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -182.8048804306334
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -261.8891072534063
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -93.01839469359332
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -195.35917781858566
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -91.2763890972182
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -180.9995405144378
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -141.71509475694685
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -295.22914618605415
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -199.16622271134543
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -372.7624533877209
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -273.9578028297829
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -458.31346681912794
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -73.41170388926197
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -211.436247237278
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -74.13442251760507
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -182.1432577629999
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -160.55726784082128
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -414.90572048223044
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -268.44247112584196
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -547.231758697065
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -396.9319943630396
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -682.7761605106717
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -63.125460087960576
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -233.68135102475446
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -66.55420535966402
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -183.454364645986
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -189.58448828898372
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -547.231758697065
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -348.37600057886465
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -728.1675908020835
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -526.5789473022123
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -910.022697388829
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -58.1767529153262
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -261.8891072534063
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -63.75584656441708
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -184.94245460573657
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -223.32426893274044
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -682.7761605106717
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -431.9456182611287
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -910.022697388829
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -657.622749685854
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -1137.5018633092266
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -56.29914139912138
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -295.22914618605415
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -63.391102067249236
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -186.61700981500928
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -259.4049675078977
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -819.061685872398
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -516.884920080615
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -1092.003072058987
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -788.9955702688045
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -1365.000152951043
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -56.250014514644604
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -332.5619763134395
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -64.34590470696038
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -188.48728941062092
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -296.7644971596296
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -955.5137672769399
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -602.3929789823877
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -1274.000415763497
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 15,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -920.4537621441061
+}
+{
+  answererType: 'explicit',
+  alpha_q: 15,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -1592.5000125549986
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -126.81238280780155
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -184.94245460573657
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -124.60006768400656
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -180.0136103579562
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -143.52825427341534
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -211.436247237278
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -159.88209185015273
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -233.68135102475446
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -182.3563219950483
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -261.8891072534063
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -92.37847144788597
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -195.35917781858566
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -90.64687157854594
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -180.9995405144378
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -140.97765321587053
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -295.22914618605415
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -198.3576958775717
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -372.7624533877209
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -273.1007744922399
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -458.31346681912794
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -72.78912178949122
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -211.436247237278
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -73.52483762173468
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -182.1432577629999
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -159.5554805361896
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -414.90572048223044
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -267.2106871991387
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -547.231758697065
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -395.61516569986213
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -682.7761605106717
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -62.595952531919956
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -233.68135102475446
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -66.01770639559192
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -183.454364645986
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -188.2737379584308
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -547.231758697065
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -346.674915925997
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -728.1675908020835
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -524.7987026971028
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -910.022697388829
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -57.74600095522548
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -261.8891072534063
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -63.290907374796994
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -184.94245460573657
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -221.65036314005079
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -682.7761605106717
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -429.7666056859509
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -910.022697388829
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -655.3861943503274
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -1137.5018633092266
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -55.94788674646523
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -295.22914618605415
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -62.98322647381764
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -186.61700981500928
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -257.3224335641783
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -819.061685872398
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -514.2337643567793
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -1092.003072058987
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -786.3073035135542
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -1365.000152951043
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -55.95318012975282
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -332.5619763134395
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -63.97767652818919
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -188.48728941062092
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -294.2402313095295
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -955.5137672769399
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -599.2774798573889
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -1274.000415763497
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 16,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -917.3158499030895
+}
+{
+  answererType: 'explicit',
+  alpha_q: 16,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -1592.5000125549986
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -126.41115962718739
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -184.94245460573657
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -124.19807605651248
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -180.0136103579562
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -143.12885789222008
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -211.436247237278
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -159.48315215416326
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -233.68135102475446
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -181.95741108372567
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -261.8891072534063
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -91.8178622221956
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -195.35917781858566
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -90.09629921903723
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -180.9995405144378
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -140.32534719725456
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -295.22914618605415
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -197.63878589918014
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -372.7624533877209
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -272.3363626436256
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -458.31346681912794
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -72.25088590979946
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -211.436247237278
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -72.9985767065516
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -182.1432577629999
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -158.67088169912066
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -414.90572048223044
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -266.11344024388467
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -547.231758697065
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -394.43890870041355
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -682.7761605106717
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -62.145159667340444
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -233.68135102475446
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -65.56045035282894
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -183.454364645986
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -187.11732570839575
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -547.231758697065
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -345.1574505377918
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -728.1675908020835
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -523.2075984919044
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -910.022697388829
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -57.38507552170672
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -261.8891072534063
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -62.89909252550079
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -184.94245460573657
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -220.17349631833136
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -682.7761605106717
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -427.8209705312815
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -910.022697388829
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -653.3868530833042
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -1137.5018633092266
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -55.657709042001564
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -295.22914618605415
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -62.642286576519105
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -186.61700981500928
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -255.48379747533147
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -819.061685872398
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -511.8652190767432
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -1092.003072058987
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -783.9039911583428
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -1365.000152951043
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -55.71028172966533
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -332.5619763134395
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -63.67097210988786
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -188.48728941062092
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -292.0093312233832
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -955.5137672769399
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -596.4931949095918
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -1274.000415763497
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 17,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -914.5104875264792
+}
+{
+  answererType: 'explicit',
+  alpha_q: 17,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -1592.5000125549986
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -126.05406400574641
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -184.94245460573657
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -123.84053245410806
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -180.0136103579562
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -142.7725217730896
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -211.436247237278
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -159.12667855542637
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -233.68135102475446
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -181.60041106995322
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -261.8891072534063
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -91.3232889452857
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -195.35917781858566
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -89.61136705235732
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -180.9995405144378
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -139.74455372833012
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -295.22914618605415
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -196.995528977923
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -372.7624533877209
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -271.6503679045996
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -458.31346681912794
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -71.78185287841865
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -211.436247237278
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -72.54062934957068
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -182.1432577629999
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -157.88446259712973
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -414.90572048223044
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -265.12994018916044
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -547.231758697065
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -393.38183090494
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -682.7761605106717
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -61.75780133772433
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -233.68135102475446
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -65.16719371151915
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -183.454364645986
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -186.09008264805652
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -547.231758697065
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -343.7954572500845
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -728.1675908020835
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -521.776940896103
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -910.022697388829
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -57.07937496603248
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -261.8891072534063
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -62.56550748901812
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -184.94245460573657
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -218.86166032691204
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -682.7761605106717
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -426.0731359748052
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -910.022697388829
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -651.5887799005857
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -1137.5018633092266
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -55.415015760856555
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -295.22914618605415
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -62.354028214193555
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -186.61700981500928
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -253.84979329354871
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -819.061685872398
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -509.73633922464205
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -1092.003072058987
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -781.7424691183165
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -1365.000152951043
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -55.50879322807659
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -332.5619763134395
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -63.41232617496331
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -188.48728941062092
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -290.0250598969865
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -955.5137672769399
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -593.9898778119425
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -1274.000415763497
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 18,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -911.9873071944991
+}
+{
+  answererType: 'explicit',
+  alpha_q: 18,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -1592.5000125549986
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -125.73441598334941
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 1,
+  beta: 0.5,
+  likelihood: -184.94245460573657
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -123.52067542007943
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 1,
+  beta: 0.1,
+  likelihood: -180.0136103579562
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -142.45284822325803
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 1,
+  beta: 1.5,
+  likelihood: -211.436247237278
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -158.806437721272
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 1,
+  beta: 2,
+  likelihood: -233.68135102475446
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -181.27924638718264
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 1,
+  beta: 2.5,
+  likelihood: -261.8891072534063
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -90.88430919834413
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 2,
+  beta: 0.5,
+  likelihood: -195.35917781858566
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -89.18158833719856
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 2,
+  beta: 0.1,
+  likelihood: -180.9995405144378
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -139.22462354795698
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 2,
+  beta: 1.5,
+  likelihood: -295.22914618605415
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -196.41702506589732
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 2,
+  beta: 2,
+  likelihood: -372.7624533877209
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -271.03171473384657
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 2,
+  beta: 2.5,
+  likelihood: -458.31346681912794
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -71.37029789076146
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 3,
+  beta: 0.5,
+  likelihood: -211.436247237278
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -72.1393229580468
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 3,
+  beta: 0.1,
+  likelihood: -182.1432577629999
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -157.18148836432835
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 3,
+  beta: 1.5,
+  likelihood: -414.90572048223044
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -264.24400655132416
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 3,
+  beta: 2,
+  likelihood: -547.231758697065
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -392.42726264554005
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 3,
+  beta: 2.5,
+  likelihood: -682.7761605106717
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -61.42228142622303
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 4,
+  beta: 0.5,
+  likelihood: -233.68135102475446
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -64.82627463734046
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 4,
+  beta: 0.1,
+  likelihood: -183.454364645986
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -185.17256979944858
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 4,
+  beta: 1.5,
+  likelihood: -547.231758697065
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -342.5670282148106
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 4,
+  beta: 2,
+  likelihood: -728.1675908020835
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -520.4843671195904
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 4,
+  beta: 2.5,
+  likelihood: -910.022697388829
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -56.81804985283483
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 5,
+  beta: 0.5,
+  likelihood: -261.8891072534063
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -62.27894661882354
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 5,
+  beta: 0.1,
+  likelihood: -184.94245460573657
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -217.69013792283488
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 5,
+  beta: 1.5,
+  likelihood: -682.7761605106717
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -424.49539599682646
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 5,
+  beta: 2,
+  likelihood: -910.022697388829
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -649.963956171107
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 5,
+  beta: 2.5,
+  likelihood: -1137.5018633092266
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -55.20990885566232
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 6,
+  beta: 0.5,
+  likelihood: -295.22914618605415
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -62.10789721975791
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 6,
+  beta: 0.1,
+  likelihood: -186.61700981500928
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -252.3900613506636
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 6,
+  beta: 1.5,
+  likelihood: -819.061685872398
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -507.813666721504
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 6,
+  beta: 2,
+  likelihood: -1092.003072058987
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -779.7890906696019
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 6,
+  beta: 2.5,
+  likelihood: -1365.000152951043
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -55.33974615725341
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 7,
+  beta: 0.5,
+  likelihood: -332.5619763134395
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -63.19190258780876
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 7,
+  beta: 0.1,
+  likelihood: -188.48728941062092
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -288.2512311071992
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 7,
+  beta: 1.5,
+  likelihood: -955.5137672769399
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -591.7283724290404
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 7,
+  beta: 2,
+  likelihood: -1274.000415763497
+}
+undefined
+1 undefined ./data/input/param_ans_synth_19_6_25.csv
+{
+  answererType: 'pragmatic',
+  alpha_q: 19,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -909.7070460700035
+}
+{
+  answererType: 'explicit',
+  alpha_q: 19,
+  alpha_a: 7,
+  beta: 2.5,
+  likelihood: -1592.5000125549986
+}
+undefined
