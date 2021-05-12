@@ -3,8330 +3,8330 @@
   "alpha_q": 3,
   "alpha_a": 1,
   "beta": 0.5,
-  "likelihood": -154.61818309448572
+  "likelihood": -158.81519212470351
 },
 {
   "questionerType": "explicit",
   "alpha_q": 3,
   "alpha_a": 1,
   "beta": 0.5,
-  "likelihood": -155.61322969710108
+  "likelihood": -160.12985791263625
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 3,
   "alpha_a": 1,
   "beta": 0.1,
-  "likelihood": -154.75429677522993
+  "likelihood": -158.89469335062253
 },
 {
   "questionerType": "explicit",
   "alpha_q": 3,
   "alpha_a": 1,
   "beta": 0.1,
-  "likelihood": -155.83011818422105
+  "likelihood": -160.3016370139077
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 3,
   "alpha_a": 1,
   "beta": 1.5,
-  "likelihood": -154.19241471735265
+  "likelihood": -158.58481742881452
 },
 {
   "questionerType": "explicit",
   "alpha_q": 3,
   "alpha_a": 1,
   "beta": 1.5,
-  "likelihood": -154.92217408691985
+  "likelihood": -159.57586978422245
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 3,
   "alpha_a": 1,
   "beta": 2,
-  "likelihood": -153.98417843478356
+  "likelihood": -158.48805865709315
 },
 {
   "questionerType": "explicit",
   "alpha_q": 3,
   "alpha_a": 1,
   "beta": 2,
-  "likelihood": -154.5657251174166
+  "likelihood": -159.2855316165852
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 3,
   "alpha_a": 1,
   "beta": 2.5,
-  "likelihood": -153.81628949364554
+  "likelihood": -158.42420380039394
 },
 {
   "questionerType": "explicit",
   "alpha_q": 3,
   "alpha_a": 1,
   "beta": 2.5,
-  "likelihood": -154.25625819832388
+  "likelihood": -159.03046366223603
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 3,
   "alpha_a": 2,
   "beta": 0.5,
-  "likelihood": -153.405164786905
+  "likelihood": -157.186745365001
 },
 {
   "questionerType": "explicit",
   "alpha_q": 3,
   "alpha_a": 2,
   "beta": 0.5,
-  "likelihood": -155.61322969710108
+  "likelihood": -160.12985791263625
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 3,
   "alpha_a": 2,
   "beta": 0.1,
-  "likelihood": -153.5040686880451
+  "likelihood": -157.2366987197618
 },
 {
   "questionerType": "explicit",
   "alpha_q": 3,
   "alpha_a": 2,
   "beta": 0.1,
-  "likelihood": -155.83011818422105
+  "likelihood": -160.3016370139077
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 3,
   "alpha_a": 2,
   "beta": 1.5,
-  "likelihood": -153.12349622911898
+  "likelihood": -157.097335361262
 },
 {
   "questionerType": "explicit",
   "alpha_q": 3,
   "alpha_a": 2,
   "beta": 1.5,
-  "likelihood": -154.92217408691985
+  "likelihood": -159.57586978422245
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 3,
   "alpha_a": 2,
   "beta": 2,
-  "likelihood": -153.02187773450345
+  "likelihood": -157.12914824862824
 },
 {
   "questionerType": "explicit",
   "alpha_q": 3,
   "alpha_a": 2,
   "beta": 2,
-  "likelihood": -154.5657251174166
+  "likelihood": -159.2855316165852
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 3,
   "alpha_a": 2,
   "beta": 2.5,
-  "likelihood": -152.98735328310406
+  "likelihood": -157.24344219302137
 },
 {
   "questionerType": "explicit",
   "alpha_q": 3,
   "alpha_a": 2,
   "beta": 2.5,
-  "likelihood": -154.25625819832388
+  "likelihood": -159.03046366223603
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 3,
   "alpha_a": 3,
   "beta": 0.5,
-  "likelihood": -152.36660906465306
+  "likelihood": -155.8198672583067
 },
 {
   "questionerType": "explicit",
   "alpha_q": 3,
   "alpha_a": 3,
   "beta": 0.5,
-  "likelihood": -155.61322969710108
+  "likelihood": -160.12985791263625
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 3,
   "alpha_a": 3,
   "beta": 0.1,
-  "likelihood": -152.46533262763205
+  "likelihood": -155.89152900272188
 },
 {
   "questionerType": "explicit",
   "alpha_q": 3,
   "alpha_a": 3,
   "beta": 0.1,
-  "likelihood": -155.83011818422105
+  "likelihood": -160.3016370139077
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 3,
   "alpha_a": 3,
   "beta": 1.5,
-  "likelihood": -152.07377497532318
+  "likelihood": -155.6386972960061
 },
 {
   "questionerType": "explicit",
   "alpha_q": 3,
   "alpha_a": 3,
   "beta": 1.5,
-  "likelihood": -154.92217408691985
+  "likelihood": -159.57586978422245
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 3,
   "alpha_a": 3,
   "beta": 2,
-  "likelihood": -151.96498119389108
+  "likelihood": -155.61847805237718
 },
 {
   "questionerType": "explicit",
   "alpha_q": 3,
   "alpha_a": 3,
   "beta": 2,
-  "likelihood": -154.5657251174166
+  "likelihood": -159.2855316165852
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 3,
   "alpha_a": 3,
   "beta": 2.5,
-  "likelihood": -151.94103161927274
+  "likelihood": -155.7133043599726
 },
 {
   "questionerType": "explicit",
   "alpha_q": 3,
   "alpha_a": 3,
   "beta": 2.5,
-  "likelihood": -154.25625819832388
+  "likelihood": -159.03046366223603
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 3,
   "alpha_a": 4,
   "beta": 0.5,
-  "likelihood": -151.6784194047272
+  "likelihood": -154.97853108104647
 },
 {
   "questionerType": "explicit",
   "alpha_q": 3,
   "alpha_a": 4,
   "beta": 0.5,
-  "likelihood": -155.61322969710108
+  "likelihood": -160.12985791263625
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 3,
   "alpha_a": 4,
   "beta": 0.1,
-  "likelihood": -151.78292029025891
+  "likelihood": -155.07157525992767
 },
 {
   "questionerType": "explicit",
   "alpha_q": 3,
   "alpha_a": 4,
   "beta": 0.1,
-  "likelihood": -155.83011818422105
+  "likelihood": -160.3016370139077
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 3,
   "alpha_a": 4,
   "beta": 1.5,
-  "likelihood": -151.3344339765216
+  "likelihood": -154.6743004970594
 },
 {
   "questionerType": "explicit",
   "alpha_q": 3,
   "alpha_a": 4,
   "beta": 1.5,
-  "likelihood": -154.92217408691985
+  "likelihood": -159.57586978422245
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 3,
   "alpha_a": 4,
   "beta": 2,
-  "likelihood": -151.1654826883634
+  "likelihood": -154.53271275235764
 },
 {
   "questionerType": "explicit",
   "alpha_q": 3,
   "alpha_a": 4,
   "beta": 2,
-  "likelihood": -154.5657251174166
+  "likelihood": -159.2855316165852
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 3,
   "alpha_a": 4,
   "beta": 2.5,
-  "likelihood": -151.0585451199194
+  "likelihood": -154.46539449325493
 },
 {
   "questionerType": "explicit",
   "alpha_q": 3,
   "alpha_a": 4,
   "beta": 2.5,
-  "likelihood": -154.25625819832388
+  "likelihood": -159.03046366223603
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 3,
   "alpha_a": 5,
   "beta": 0.5,
-  "likelihood": -151.2827947504894
+  "likelihood": -154.54634314491807
 },
 {
   "questionerType": "explicit",
   "alpha_q": 3,
   "alpha_a": 5,
   "beta": 0.5,
-  "likelihood": -155.61322969710108
+  "likelihood": -160.12985791263625
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 3,
   "alpha_a": 5,
   "beta": 0.1,
-  "likelihood": -151.3865782552392
+  "likelihood": -154.6446812678553
 },
 {
   "questionerType": "explicit",
   "alpha_q": 3,
   "alpha_a": 5,
   "beta": 0.1,
-  "likelihood": -155.83011818422105
+  "likelihood": -160.3016370139077
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 3,
   "alpha_a": 5,
   "beta": 1.5,
-  "likelihood": -150.91654378819567
+  "likelihood": -154.19003846024873
 },
 {
   "questionerType": "explicit",
   "alpha_q": 3,
   "alpha_a": 5,
   "beta": 1.5,
-  "likelihood": -154.92217408691985
+  "likelihood": -159.57586978422245
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 3,
   "alpha_a": 5,
   "beta": 2,
-  "likelihood": -150.70252212823416
+  "likelihood": -153.97343743631913
 },
 {
   "questionerType": "explicit",
   "alpha_q": 3,
   "alpha_a": 5,
   "beta": 2,
-  "likelihood": -154.5657251174166
+  "likelihood": -159.2855316165852
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 3,
   "alpha_a": 5,
   "beta": 2.5,
-  "likelihood": -150.5117629687134
+  "likelihood": -153.77337761302203
 },
 {
   "questionerType": "explicit",
   "alpha_q": 3,
   "alpha_a": 5,
   "beta": 2.5,
-  "likelihood": -154.25625819832388
+  "likelihood": -159.03046366223603
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 3,
   "alpha_a": 6,
   "beta": 0.5,
-  "likelihood": -151.0723215977239
+  "likelihood": -154.346685072014
 },
 {
   "questionerType": "explicit",
   "alpha_q": 3,
   "alpha_a": 6,
   "beta": 0.5,
-  "likelihood": -155.61322969710108
+  "likelihood": -160.12985791263625
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 3,
   "alpha_a": 6,
   "beta": 0.1,
-  "likelihood": -151.16969809322813
+  "likelihood": -154.4398309135595
 },
 {
   "questionerType": "explicit",
   "alpha_q": 3,
   "alpha_a": 6,
   "beta": 0.1,
-  "likelihood": -155.83011818422105
+  "likelihood": -160.3016370139077
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 3,
   "alpha_a": 6,
   "beta": 1.5,
-  "likelihood": -150.7182469436668
+  "likelihood": -153.99672607394228
 },
 {
   "questionerType": "explicit",
   "alpha_q": 3,
   "alpha_a": 6,
   "beta": 1.5,
-  "likelihood": -154.92217408691985
+  "likelihood": -159.57586978422245
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 3,
   "alpha_a": 6,
   "beta": 2,
-  "likelihood": -150.4916384145356
+  "likelihood": -153.76119101820575
 },
 {
   "questionerType": "explicit",
   "alpha_q": 3,
   "alpha_a": 6,
   "beta": 2,
-  "likelihood": -154.5657251174166
+  "likelihood": -159.2855316165852
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 3,
   "alpha_a": 6,
   "beta": 2.5,
-  "likelihood": -150.2551258314349
+  "likelihood": -153.50252692321106
 },
 {
   "questionerType": "explicit",
   "alpha_q": 3,
   "alpha_a": 6,
   "beta": 2.5,
-  "likelihood": -154.25625819832388
+  "likelihood": -159.03046366223603
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 3,
   "alpha_a": 7,
   "beta": 0.5,
-  "likelihood": -150.96503770017816
+  "likelihood": -154.26215318295652
 },
 {
   "questionerType": "explicit",
   "alpha_q": 3,
   "alpha_a": 7,
   "beta": 0.5,
-  "likelihood": -155.61322969710108
+  "likelihood": -160.12985791263625
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 3,
   "alpha_a": 7,
   "beta": 0.1,
-  "likelihood": -151.05389786316374
+  "likelihood": -154.3463425550804
 },
 {
   "questionerType": "explicit",
   "alpha_q": 3,
   "alpha_a": 7,
   "beta": 0.1,
-  "likelihood": -155.83011818422105
+  "likelihood": -160.3016370139077
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 3,
   "alpha_a": 7,
   "beta": 1.5,
-  "likelihood": -150.64346375656092
+  "likelihood": -153.94689041081796
 },
 {
   "questionerType": "explicit",
   "alpha_q": 3,
   "alpha_a": 7,
   "beta": 1.5,
-  "likelihood": -154.92217408691985
+  "likelihood": -159.57586978422245
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 3,
   "alpha_a": 7,
   "beta": 2,
-  "likelihood": -150.43062791042826
+  "likelihood": -153.72723893096713
 },
 {
   "questionerType": "explicit",
   "alpha_q": 3,
   "alpha_a": 7,
   "beta": 2,
-  "likelihood": -154.5657251174166
+  "likelihood": -159.2855316165852
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 3,
   "alpha_a": 7,
   "beta": 2.5,
-  "likelihood": -150.1890896331443
+  "likelihood": -153.46569703342874
 },
 {
   "questionerType": "explicit",
   "alpha_q": 3,
   "alpha_a": 7,
   "beta": 2.5,
-  "likelihood": -154.25625819832388
+  "likelihood": -159.03046366223603
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 4,
   "alpha_a": 1,
   "beta": 0.5,
-  "likelihood": -149.51697543661638
+  "likelihood": -153.70690272237286
 },
 {
   "questionerType": "explicit",
   "alpha_q": 4,
   "alpha_a": 1,
   "beta": 0.5,
-  "likelihood": -151.23498242140974
+  "likelihood": -155.80617101367605
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 4,
   "alpha_a": 1,
   "beta": 0.1,
-  "likelihood": -149.5593912891322
+  "likelihood": -153.7209624657173
 },
 {
   "questionerType": "explicit",
   "alpha_q": 4,
   "alpha_a": 1,
   "beta": 0.1,
-  "likelihood": -151.38712214406632
+  "likelihood": -155.94898420638538
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 4,
   "alpha_a": 1,
   "beta": 1.5,
-  "likelihood": -149.4535950784248
+  "likelihood": -153.73520979286533
 },
 {
   "questionerType": "explicit",
   "alpha_q": 4,
   "alpha_a": 1,
   "beta": 1.5,
-  "likelihood": -150.78301450553792
+  "likelihood": -155.36320129364557
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 4,
   "alpha_a": 1,
   "beta": 2,
-  "likelihood": -149.4818005496944
+  "likelihood": -153.81167738102025
 },
 {
   "questionerType": "explicit",
   "alpha_q": 4,
   "alpha_a": 1,
   "beta": 2,
-  "likelihood": -150.57158895050216
+  "likelihood": -155.14253169697446
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 4,
   "alpha_a": 1,
   "beta": 2.5,
-  "likelihood": -149.55684169722397
+  "likelihood": -153.92922468465252
 },
 {
   "questionerType": "explicit",
   "alpha_q": 4,
   "alpha_a": 1,
   "beta": 2.5,
-  "likelihood": -150.40158596906858
+  "likelihood": -154.9557055765535
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 4,
   "alpha_a": 2,
   "beta": 0.5,
-  "likelihood": -147.64961166900773
+  "likelihood": -151.31164808244134
 },
 {
   "questionerType": "explicit",
   "alpha_q": 4,
   "alpha_a": 2,
   "beta": 0.5,
-  "likelihood": -151.23498242140974
+  "likelihood": -155.80617101367605
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 4,
   "alpha_a": 2,
   "beta": 0.1,
-  "likelihood": -147.6627051343761
+  "likelihood": -151.3040972533295
 },
 {
   "questionerType": "explicit",
   "alpha_q": 4,
   "alpha_a": 2,
   "beta": 0.1,
-  "likelihood": -151.38712214406632
+  "likelihood": -155.94898420638538
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 4,
   "alpha_a": 2,
   "beta": 1.5,
-  "likelihood": -147.71845722304636
+  "likelihood": -151.4710186821788
 },
 {
   "questionerType": "explicit",
   "alpha_q": 4,
   "alpha_a": 2,
   "beta": 1.5,
-  "likelihood": -150.78301450553792
+  "likelihood": -155.36320129364557
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 4,
   "alpha_a": 2,
   "beta": 2,
-  "likelihood": -147.86842621219952
+  "likelihood": -151.69562478759124
 },
 {
   "questionerType": "explicit",
   "alpha_q": 4,
   "alpha_a": 2,
   "beta": 2,
-  "likelihood": -150.57158895050216
+  "likelihood": -155.14253169697446
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 4,
   "alpha_a": 2,
   "beta": 2.5,
-  "likelihood": -148.1216703991147
+  "likelihood": -152.04506735394057
 },
 {
   "questionerType": "explicit",
   "alpha_q": 4,
   "alpha_a": 2,
   "beta": 2.5,
-  "likelihood": -150.40158596906858
+  "likelihood": -154.9557055765535
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 4,
   "alpha_a": 3,
   "beta": 0.5,
-  "likelihood": -146.2698715026063
+  "likelihood": -149.5523139191035
 },
 {
   "questionerType": "explicit",
   "alpha_q": 4,
   "alpha_a": 3,
   "beta": 0.5,
-  "likelihood": -151.23498242140974
+  "likelihood": -155.80617101367605
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 4,
   "alpha_a": 3,
   "beta": 0.1,
-  "likelihood": -146.30071164203048
+  "likelihood": -149.58747533577304
 },
 {
   "questionerType": "explicit",
   "alpha_q": 4,
   "alpha_a": 3,
   "beta": 0.1,
-  "likelihood": -151.38712214406632
+  "likelihood": -155.94898420638538
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 4,
   "alpha_a": 3,
   "beta": 1.5,
-  "likelihood": -146.25008675267213
+  "likelihood": -149.525026367157
 },
 {
   "questionerType": "explicit",
   "alpha_q": 4,
   "alpha_a": 3,
   "beta": 1.5,
-  "likelihood": -150.78301450553792
+  "likelihood": -155.36320129364557
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 4,
   "alpha_a": 3,
   "beta": 2,
-  "likelihood": -146.33538251249385
+  "likelihood": -149.6236184182197
 },
 {
   "questionerType": "explicit",
   "alpha_q": 4,
   "alpha_a": 3,
   "beta": 2,
-  "likelihood": -150.57158895050216
+  "likelihood": -155.14253169697446
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 4,
   "alpha_a": 3,
   "beta": 2.5,
-  "likelihood": -146.53830340975838
+  "likelihood": -149.8722127417863
 },
 {
   "questionerType": "explicit",
   "alpha_q": 4,
   "alpha_a": 3,
   "beta": 2.5,
-  "likelihood": -150.40158596906858
+  "likelihood": -154.9557055765535
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 4,
   "alpha_a": 4,
   "beta": 0.5,
-  "likelihood": -145.4711742854774
+  "likelihood": -148.6169074623576
 },
 {
   "questionerType": "explicit",
   "alpha_q": 4,
   "alpha_a": 4,
   "beta": 0.5,
-  "likelihood": -151.23498242140974
+  "likelihood": -155.80617101367605
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 4,
   "alpha_a": 4,
   "beta": 0.1,
-  "likelihood": -145.51687316961613
+  "likelihood": -148.68208479698592
 },
 {
   "questionerType": "explicit",
   "alpha_q": 4,
   "alpha_a": 4,
   "beta": 0.1,
-  "likelihood": -151.38712214406632
+  "likelihood": -155.94898420638538
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 4,
   "alpha_a": 4,
   "beta": 1.5,
-  "likelihood": -145.35834241299452
+  "likelihood": -148.42233928918043
 },
 {
   "questionerType": "explicit",
   "alpha_q": 4,
   "alpha_a": 4,
   "beta": 1.5,
-  "likelihood": -150.78301450553792
+  "likelihood": -155.36320129364557
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 4,
   "alpha_a": 4,
   "beta": 2,
-  "likelihood": -145.345109325076
+  "likelihood": -148.35440057160326
 },
 {
   "questionerType": "explicit",
   "alpha_q": 4,
   "alpha_a": 4,
   "beta": 2,
-  "likelihood": -150.57158895050216
+  "likelihood": -155.14253169697446
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 4,
   "alpha_a": 4,
   "beta": 2.5,
-  "likelihood": -145.40680723604106
+  "likelihood": -148.36764361934465
 },
 {
   "questionerType": "explicit",
   "alpha_q": 4,
   "alpha_a": 4,
   "beta": 2.5,
-  "likelihood": -150.40158596906858
+  "likelihood": -154.9557055765535
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 4,
   "alpha_a": 5,
   "beta": 0.5,
-  "likelihood": -145.04888596054164
+  "likelihood": -148.19594231520617
 },
 {
   "questionerType": "explicit",
   "alpha_q": 4,
   "alpha_a": 5,
   "beta": 0.5,
-  "likelihood": -151.23498242140974
+  "likelihood": -155.80617101367605
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 4,
   "alpha_a": 5,
   "beta": 0.1,
-  "likelihood": -145.09852079839433
+  "likelihood": -148.2695498432416
 },
 {
   "questionerType": "explicit",
   "alpha_q": 4,
   "alpha_a": 5,
   "beta": 0.1,
-  "likelihood": -151.38712214406632
+  "likelihood": -155.94898420638538
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 4,
   "alpha_a": 5,
   "beta": 1.5,
-  "likelihood": -144.89785987682566
+  "likelihood": -147.9377260675944
 },
 {
   "questionerType": "explicit",
   "alpha_q": 4,
   "alpha_a": 5,
   "beta": 1.5,
-  "likelihood": -150.78301450553792
+  "likelihood": -155.36320129364557
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 4,
   "alpha_a": 5,
   "beta": 2,
-  "likelihood": -144.82966221728782
+  "likelihood": -147.7862296375265
 },
 {
   "questionerType": "explicit",
   "alpha_q": 4,
   "alpha_a": 5,
   "beta": 2,
-  "likelihood": -150.57158895050216
+  "likelihood": -155.14253169697446
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 4,
   "alpha_a": 5,
   "beta": 2.5,
-  "likelihood": -144.79294972843292
+  "likelihood": -147.65266606834413
 },
 {
   "questionerType": "explicit",
   "alpha_q": 4,
   "alpha_a": 5,
   "beta": 2.5,
-  "likelihood": -150.40158596906858
+  "likelihood": -154.9557055765535
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 4,
   "alpha_a": 6,
   "beta": 0.5,
-  "likelihood": -144.8300298613965
+  "likelihood": -148.0250918046441
 },
 {
   "questionerType": "explicit",
   "alpha_q": 4,
   "alpha_a": 6,
   "beta": 0.5,
-  "likelihood": -151.23498242140974
+  "likelihood": -155.80617101367605
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 4,
   "alpha_a": 6,
   "beta": 0.1,
-  "likelihood": -144.87760627517724
+  "likelihood": -148.09660134361556
 },
 {
   "questionerType": "explicit",
   "alpha_q": 4,
   "alpha_a": 6,
   "beta": 0.1,
-  "likelihood": -151.38712214406632
+  "likelihood": -155.94898420638538
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 4,
   "alpha_a": 6,
   "beta": 1.5,
-  "likelihood": -144.67877251231585
+  "likelihood": -147.76416262987615
 },
 {
   "questionerType": "explicit",
   "alpha_q": 4,
   "alpha_a": 6,
   "beta": 1.5,
-  "likelihood": -150.78301450553792
+  "likelihood": -155.36320129364557
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 4,
   "alpha_a": 6,
   "beta": 2,
-  "likelihood": -144.5955259210295
+  "likelihood": -147.5909169713211
 },
 {
   "questionerType": "explicit",
   "alpha_q": 4,
   "alpha_a": 6,
   "beta": 2,
-  "likelihood": -150.57158895050216
+  "likelihood": -155.14253169697446
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 4,
   "alpha_a": 6,
   "beta": 2.5,
-  "likelihood": -144.5170646380107
+  "likelihood": -147.39992749131662
 },
 {
   "questionerType": "explicit",
   "alpha_q": 4,
   "alpha_a": 6,
   "beta": 2.5,
-  "likelihood": -150.40158596906858
+  "likelihood": -154.9557055765535
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 4,
   "alpha_a": 7,
   "beta": 0.5,
-  "likelihood": -144.71501441894844
+  "likelihood": -147.96509188674028
 },
 {
   "questionerType": "explicit",
   "alpha_q": 4,
   "alpha_a": 7,
   "beta": 0.5,
-  "likelihood": -151.23498242140974
+  "likelihood": -155.80617101367605
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 4,
   "alpha_a": 7,
   "beta": 0.1,
-  "likelihood": -144.75890012642495
+  "likelihood": -148.03122679277632
 },
 {
   "questionerType": "explicit",
   "alpha_q": 4,
   "alpha_a": 7,
   "beta": 0.1,
-  "likelihood": -151.38712214406632
+  "likelihood": -155.94898420638538
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 4,
   "alpha_a": 7,
   "beta": 1.5,
-  "likelihood": -144.58003046165476
+  "likelihood": -147.72705787742473
 },
 {
   "questionerType": "explicit",
   "alpha_q": 4,
   "alpha_a": 7,
   "beta": 1.5,
-  "likelihood": -150.78301450553792
+  "likelihood": -155.36320129364557
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 4,
   "alpha_a": 7,
   "beta": 2,
-  "likelihood": -144.50450157927165
+  "likelihood": -147.56380472734077
 },
 {
   "questionerType": "explicit",
   "alpha_q": 4,
   "alpha_a": 7,
   "beta": 2,
-  "likelihood": -150.57158895050216
+  "likelihood": -155.14253169697446
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 4,
   "alpha_a": 7,
   "beta": 2.5,
-  "likelihood": -144.42328067393174
+  "likelihood": -147.36666485204952
 },
 {
   "questionerType": "explicit",
   "alpha_q": 4,
   "alpha_a": 7,
   "beta": 2.5,
-  "likelihood": -150.40158596906858
+  "likelihood": -154.9557055765535
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 5,
   "alpha_a": 1,
   "beta": 0.5,
-  "likelihood": -146.87346839498537
+  "likelihood": -150.29788499929896
 },
 {
   "questionerType": "explicit",
   "alpha_q": 5,
   "alpha_a": 1,
   "beta": 0.5,
-  "likelihood": -149.0569649175557
+  "likelihood": -153.0012288986005
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 5,
   "alpha_a": 1,
   "beta": 0.1,
-  "likelihood": -146.80226779518787
+  "likelihood": -150.2337374533701
 },
 {
   "questionerType": "explicit",
   "alpha_q": 5,
   "alpha_a": 1,
   "beta": 0.1,
-  "likelihood": -149.10381825089183
+  "likelihood": -153.08775921663917
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 5,
   "alpha_a": 1,
   "beta": 1.5,
-  "likelihood": -147.2231954014379
+  "likelihood": -150.61768213198863
 },
 {
   "questionerType": "explicit",
   "alpha_q": 5,
   "alpha_a": 1,
   "beta": 1.5,
-  "likelihood": -148.96785618870445
+  "likelihood": -152.75441537405004
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 5,
   "alpha_a": 1,
   "beta": 2,
-  "likelihood": -147.5046102069783
+  "likelihood": -150.8787839654988
 },
 {
   "questionerType": "explicit",
   "alpha_q": 5,
   "alpha_a": 1,
   "beta": 2,
-  "likelihood": -148.9606406968218
+  "likelihood": -152.64549456056758
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 5,
   "alpha_a": 1,
   "beta": 2.5,
-  "likelihood": -147.83077914813336
+  "likelihood": -151.1842762270797
 },
 {
   "questionerType": "explicit",
   "alpha_q": 5,
   "alpha_a": 1,
   "beta": 2.5,
-  "likelihood": -148.9778427770879
+  "likelihood": -152.56191118616445
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 5,
   "alpha_a": 2,
   "beta": 0.5,
-  "likelihood": -144.8026445709889
+  "likelihood": -147.53933566158065
 },
 {
   "questionerType": "explicit",
   "alpha_q": 5,
   "alpha_a": 2,
   "beta": 0.5,
-  "likelihood": -149.0569649175557
+  "likelihood": -153.0012288986005
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 5,
   "alpha_a": 2,
   "beta": 0.1,
-  "likelihood": -144.73078145728562
+  "likelihood": -147.47753810052285
 },
 {
   "questionerType": "explicit",
   "alpha_q": 5,
   "alpha_a": 2,
   "beta": 0.1,
-  "likelihood": -149.10381825089183
+  "likelihood": -153.08775921663917
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 5,
   "alpha_a": 2,
   "beta": 1.5,
-  "likelihood": -145.17954095735055
+  "likelihood": -147.90267850584615
 },
 {
   "questionerType": "explicit",
   "alpha_q": 5,
   "alpha_a": 2,
   "beta": 1.5,
-  "likelihood": -148.96785618870445
+  "likelihood": -152.75441537405004
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 5,
   "alpha_a": 2,
   "beta": 2,
-  "likelihood": -145.52672184775156
+  "likelihood": -148.2676989797581
 },
 {
   "questionerType": "explicit",
   "alpha_q": 5,
   "alpha_a": 2,
   "beta": 2,
-  "likelihood": -148.9606406968218
+  "likelihood": -152.64549456056758
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 5,
   "alpha_a": 2,
   "beta": 2.5,
-  "likelihood": -145.9963963341056
+  "likelihood": -148.78447485048477
 },
 {
   "questionerType": "explicit",
   "alpha_q": 5,
   "alpha_a": 2,
   "beta": 2.5,
-  "likelihood": -148.9778427770879
+  "likelihood": -152.56191118616445
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 5,
   "alpha_a": 3,
   "beta": 0.5,
-  "likelihood": -143.596702412519
+  "likelihood": -145.88390698208585
 },
 {
   "questionerType": "explicit",
   "alpha_q": 5,
   "alpha_a": 3,
   "beta": 0.5,
-  "likelihood": -149.0569649175557
+  "likelihood": -153.0012288986005
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 5,
   "alpha_a": 3,
   "beta": 0.1,
-  "likelihood": -143.55879298610884
+  "likelihood": -145.87797913559206
 },
 {
   "questionerType": "explicit",
   "alpha_q": 5,
   "alpha_a": 3,
   "beta": 0.1,
-  "likelihood": -149.10381825089183
+  "likelihood": -153.08775921663917
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 5,
   "alpha_a": 3,
   "beta": 1.5,
-  "likelihood": -143.80014446964725
+  "likelihood": -145.98483397096575
 },
 {
   "questionerType": "explicit",
   "alpha_q": 5,
   "alpha_a": 3,
   "beta": 1.5,
-  "likelihood": -148.96785618870445
+  "likelihood": -152.75441537405004
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 5,
   "alpha_a": 3,
   "beta": 2,
-  "likelihood": -144.0005133629255
+  "likelihood": -146.14302039409023
 },
 {
   "questionerType": "explicit",
   "alpha_q": 5,
   "alpha_a": 3,
   "beta": 2,
-  "likelihood": -148.9606406968218
+  "likelihood": -152.64549456056758
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 5,
   "alpha_a": 3,
   "beta": 2.5,
-  "likelihood": -144.3051769175573
+  "likelihood": -146.4386183958314
 },
 {
   "questionerType": "explicit",
   "alpha_q": 5,
   "alpha_a": 3,
   "beta": 2.5,
-  "likelihood": -148.9778427770879
+  "likelihood": -152.56191118616445
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 5,
   "alpha_a": 4,
   "beta": 0.5,
-  "likelihood": -143.06091215414517
+  "likelihood": -145.1789637817792
 },
 {
   "questionerType": "explicit",
   "alpha_q": 5,
   "alpha_a": 4,
   "beta": 0.5,
-  "likelihood": -149.0569649175557
+  "likelihood": -153.0012288986005
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 5,
   "alpha_a": 4,
   "beta": 0.1,
-  "likelihood": -143.0363622443458
+  "likelihood": -145.19890332743213
 },
 {
   "questionerType": "explicit",
   "alpha_q": 5,
   "alpha_a": 4,
   "beta": 0.1,
-  "likelihood": -149.10381825089183
+  "likelihood": -153.08775921663917
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 5,
   "alpha_a": 4,
   "beta": 1.5,
-  "likelihood": -143.17633353372364
+  "likelihood": -145.13224862614817
 },
 {
   "questionerType": "explicit",
   "alpha_q": 5,
   "alpha_a": 4,
   "beta": 1.5,
-  "likelihood": -148.96785618870445
+  "likelihood": -152.75441537405004
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 5,
   "alpha_a": 4,
   "beta": 2,
-  "likelihood": -143.27437700918912
+  "likelihood": -145.13429005975988
 },
 {
   "questionerType": "explicit",
   "alpha_q": 5,
   "alpha_a": 4,
   "beta": 2,
-  "likelihood": -148.9606406968218
+  "likelihood": -152.64549456056758
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 5,
   "alpha_a": 4,
   "beta": 2.5,
-  "likelihood": -143.4129914964923
+  "likelihood": -145.18802838258864
 },
 {
   "questionerType": "explicit",
   "alpha_q": 5,
   "alpha_a": 4,
   "beta": 2.5,
-  "likelihood": -148.9778427770879
+  "likelihood": -152.56191118616445
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 5,
   "alpha_a": 5,
   "beta": 0.5,
-  "likelihood": -142.8356628644543
+  "likelihood": -144.917054174182
 },
 {
   "questionerType": "explicit",
   "alpha_q": 5,
   "alpha_a": 5,
   "beta": 0.5,
-  "likelihood": -149.0569649175557
+  "likelihood": -153.0012288986005
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 5,
   "alpha_a": 5,
   "beta": 0.1,
-  "likelihood": -142.81184168228555
+  "likelihood": -144.9430365445233
 },
 {
   "questionerType": "explicit",
   "alpha_q": 5,
   "alpha_a": 5,
   "beta": 0.1,
-  "likelihood": -149.10381825089183
+  "likelihood": -153.08775921663917
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 5,
   "alpha_a": 5,
   "beta": 1.5,
-  "likelihood": -142.93481194673183
+  "likelihood": -144.8273410711507
 },
 {
   "questionerType": "explicit",
   "alpha_q": 5,
   "alpha_a": 5,
   "beta": 1.5,
-  "likelihood": -148.96785618870445
+  "likelihood": -152.75441537405004
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 5,
   "alpha_a": 5,
   "beta": 2,
-  "likelihood": -143.00289881661985
+  "likelihood": -144.77309015336763
 },
 {
   "questionerType": "explicit",
   "alpha_q": 5,
   "alpha_a": 5,
   "beta": 2,
-  "likelihood": -148.9606406968218
+  "likelihood": -152.64549456056758
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 5,
   "alpha_a": 5,
   "beta": 2.5,
-  "likelihood": -143.07817440516766
+  "likelihood": -144.72514459994864
 },
 {
   "questionerType": "explicit",
   "alpha_q": 5,
   "alpha_a": 5,
   "beta": 2.5,
-  "likelihood": -148.9778427770879
+  "likelihood": -152.56191118616445
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 5,
   "alpha_a": 6,
   "beta": 0.5,
-  "likelihood": -142.742094716808
+  "likelihood": -144.8350565556958
 },
 {
   "questionerType": "explicit",
   "alpha_q": 5,
   "alpha_a": 6,
   "beta": 0.5,
-  "likelihood": -149.0569649175557
+  "likelihood": -153.0012288986005
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 5,
   "alpha_a": 6,
   "beta": 0.1,
-  "likelihood": -142.71573284523285
+  "likelihood": -144.86035815604922
 },
 {
   "questionerType": "explicit",
   "alpha_q": 5,
   "alpha_a": 6,
   "beta": 0.1,
-  "likelihood": -149.10381825089183
+  "likelihood": -153.08775921663917
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 5,
   "alpha_a": 6,
   "beta": 1.5,
-  "likelihood": -142.84936647764147
+  "likelihood": -144.7426894250342
 },
 {
   "questionerType": "explicit",
   "alpha_q": 5,
   "alpha_a": 6,
   "beta": 1.5,
-  "likelihood": -148.96785618870445
+  "likelihood": -152.75441537405004
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 5,
   "alpha_a": 6,
   "beta": 2,
-  "likelihood": -142.91907830326318
+  "likelihood": -144.674851396948
 },
 {
   "questionerType": "explicit",
   "alpha_q": 5,
   "alpha_a": 6,
   "beta": 2,
-  "likelihood": -148.9606406968218
+  "likelihood": -152.64549456056758
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 5,
   "alpha_a": 6,
   "beta": 2.5,
-  "likelihood": -142.98712189967782
+  "likelihood": -144.5914941769457
 },
 {
   "questionerType": "explicit",
   "alpha_q": 5,
   "alpha_a": 6,
   "beta": 2.5,
-  "likelihood": -148.9778427770879
+  "likelihood": -152.56191118616445
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 5,
   "alpha_a": 7,
   "beta": 0.5,
-  "likelihood": -142.7050942306113
+  "likelihood": -144.82795360682465
 },
 {
   "questionerType": "explicit",
   "alpha_q": 5,
   "alpha_a": 7,
   "beta": 0.5,
-  "likelihood": -149.0569649175557
+  "likelihood": -153.0012288986005
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 5,
   "alpha_a": 7,
   "beta": 0.1,
-  "likelihood": -142.67668170709877
+  "likelihood": -144.85057143266312
 },
 {
   "questionerType": "explicit",
   "alpha_q": 5,
   "alpha_a": 7,
   "beta": 0.1,
-  "likelihood": -149.10381825089183
+  "likelihood": -153.08775921663917
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 5,
   "alpha_a": 7,
   "beta": 1.5,
-  "likelihood": -142.82230304154325
+  "likelihood": -144.74865684571196
 },
 {
   "questionerType": "explicit",
   "alpha_q": 5,
   "alpha_a": 7,
   "beta": 1.5,
-  "likelihood": -148.96785618870445
+  "likelihood": -152.75441537405004
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 5,
   "alpha_a": 7,
   "beta": 2,
-  "likelihood": -142.90084158243903
+  "likelihood": -144.68654685247947
 },
 {
   "questionerType": "explicit",
   "alpha_q": 5,
   "alpha_a": 7,
   "beta": 2,
-  "likelihood": -148.9606406968218
+  "likelihood": -152.64549456056758
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 5,
   "alpha_a": 7,
   "beta": 2.5,
-  "likelihood": -142.98064378846342
+  "likelihood": -144.59817343277385
 },
 {
   "questionerType": "explicit",
   "alpha_q": 5,
   "alpha_a": 7,
   "beta": 2.5,
-  "likelihood": -148.9778427770879
+  "likelihood": -152.56191118616445
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 6,
   "alpha_a": 1,
   "beta": 0.5,
-  "likelihood": -146.24771076985752
+  "likelihood": -148.37393457278964
 },
 {
   "questionerType": "explicit",
   "alpha_q": 6,
   "alpha_a": 1,
   "beta": 0.5,
-  "likelihood": -148.5947746250171
+  "likelihood": -151.43144438328594
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 6,
   "alpha_a": 1,
   "beta": 0.1,
-  "likelihood": -146.08124696215395
+  "likelihood": -148.2433312302268
 },
 {
   "questionerType": "explicit",
   "alpha_q": 6,
   "alpha_a": 1,
   "beta": 0.1,
-  "likelihood": -148.5305221232469
+  "likelihood": -151.45418819991986
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 6,
   "alpha_a": 1,
   "beta": 1.5,
-  "likelihood": -146.92791766339909
+  "likelihood": -148.93170252209774
 },
 {
   "questionerType": "explicit",
   "alpha_q": 6,
   "alpha_a": 1,
   "beta": 1.5,
-  "likelihood": -148.8686037265136
+  "likelihood": -151.3954329083907
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 6,
   "alpha_a": 1,
   "beta": 2,
-  "likelihood": -147.4025255023987
+  "likelihood": -149.33852515940595
 },
 {
   "questionerType": "explicit",
   "alpha_q": 6,
   "alpha_a": 1,
   "beta": 2,
-  "likelihood": -149.05266815775786
+  "likelihood": -151.39930056233737
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 6,
   "alpha_a": 1,
   "beta": 2.5,
-  "likelihood": -147.91562841315812
+  "likelihood": -149.79068752390896
 },
 {
   "questionerType": "explicit",
   "alpha_q": 6,
   "alpha_a": 1,
   "beta": 2.5,
-  "likelihood": -149.23729547289608
+  "likelihood": -151.41556406027107
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 6,
   "alpha_a": 2,
   "beta": 0.5,
-  "likelihood": -144.43380153886795
+  "likelihood": -145.708813331096
 },
 {
   "questionerType": "explicit",
   "alpha_q": 6,
   "alpha_a": 2,
   "beta": 0.5,
-  "likelihood": -148.5947746250171
+  "likelihood": -151.43144438328594
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 6,
   "alpha_a": 2,
   "beta": 0.1,
-  "likelihood": -144.3118281745217
+  "likelihood": -145.61658069007674
 },
 {
   "questionerType": "explicit",
   "alpha_q": 6,
   "alpha_a": 2,
   "beta": 0.1,
-  "likelihood": -148.5305221232469
+  "likelihood": -151.45418819991986
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 6,
   "alpha_a": 2,
   "beta": 1.5,
-  "likelihood": -144.96165596956163
+  "likelihood": -146.1602991739613
 },
 {
   "questionerType": "explicit",
   "alpha_q": 6,
   "alpha_a": 2,
   "beta": 1.5,
-  "likelihood": -148.8686037265136
+  "likelihood": -151.3954329083907
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 6,
   "alpha_a": 2,
   "beta": 2,
-  "likelihood": -145.38652048256367
+  "likelihood": -146.57057431525084
 },
 {
   "questionerType": "explicit",
   "alpha_q": 6,
   "alpha_a": 2,
   "beta": 2,
-  "likelihood": -149.05266815775786
+  "likelihood": -151.39930056233737
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 6,
   "alpha_a": 2,
   "beta": 2.5,
-  "likelihood": -145.9371758171976
+  "likelihood": -147.14148368821463
 },
 {
   "questionerType": "explicit",
   "alpha_q": 6,
   "alpha_a": 2,
   "beta": 2.5,
-  "likelihood": -149.23729547289608
+  "likelihood": -151.41556406027107
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 6,
   "alpha_a": 3,
   "beta": 0.5,
-  "likelihood": -143.83537321576168
+  "likelihood": -144.57802682105086
 },
 {
   "questionerType": "explicit",
   "alpha_q": 6,
   "alpha_a": 3,
   "beta": 0.5,
-  "likelihood": -148.5947746250171
+  "likelihood": -151.43144438328594
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 6,
   "alpha_a": 3,
   "beta": 0.1,
-  "likelihood": -143.75715823626706
+  "likelihood": -144.54267628251827
 },
 {
   "questionerType": "explicit",
   "alpha_q": 6,
   "alpha_a": 3,
   "beta": 0.1,
-  "likelihood": -148.5305221232469
+  "likelihood": -151.45418819991986
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 6,
   "alpha_a": 3,
   "beta": 1.5,
-  "likelihood": -144.12613239340354
+  "likelihood": -144.7389070095707
 },
 {
   "questionerType": "explicit",
   "alpha_q": 6,
   "alpha_a": 3,
   "beta": 1.5,
-  "likelihood": -148.8686037265136
+  "likelihood": -151.3954329083907
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 6,
   "alpha_a": 3,
   "beta": 2,
-  "likelihood": -144.32663941614092
+  "likelihood": -144.8862812385283
 },
 {
   "questionerType": "explicit",
   "alpha_q": 6,
   "alpha_a": 3,
   "beta": 2,
-  "likelihood": -149.05266815775786
+  "likelihood": -151.39930056233737
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 6,
   "alpha_a": 3,
   "beta": 2.5,
-  "likelihood": -144.58262208174006
+  "likelihood": -145.12141284543569
 },
 {
   "questionerType": "explicit",
   "alpha_q": 6,
   "alpha_a": 3,
   "beta": 2.5,
-  "likelihood": -149.23729547289608
+  "likelihood": -151.41556406027107
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 6,
   "alpha_a": 4,
   "beta": 0.5,
-  "likelihood": -143.83362586253426
+  "likelihood": -144.30736985172197
 },
 {
   "questionerType": "explicit",
   "alpha_q": 6,
   "alpha_a": 4,
   "beta": 0.5,
-  "likelihood": -148.5947746250171
+  "likelihood": -151.43144438328594
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 6,
   "alpha_a": 4,
   "beta": 0.1,
-  "likelihood": -143.75973255502208
+  "likelihood": -144.28560579761174
 },
 {
   "questionerType": "explicit",
   "alpha_q": 6,
   "alpha_a": 4,
   "beta": 0.1,
-  "likelihood": -148.5305221232469
+  "likelihood": -151.45418819991986
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 6,
   "alpha_a": 4,
   "beta": 1.5,
-  "likelihood": -144.08029916460183
+  "likelihood": -144.38556795971823
 },
 {
   "questionerType": "explicit",
   "alpha_q": 6,
   "alpha_a": 4,
   "beta": 1.5,
-  "likelihood": -148.8686037265136
+  "likelihood": -151.3954329083907
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 6,
   "alpha_a": 4,
   "beta": 2,
-  "likelihood": -144.2117813511991
+  "likelihood": -144.43475595624852
 },
 {
   "questionerType": "explicit",
   "alpha_q": 6,
   "alpha_a": 4,
   "beta": 2,
-  "likelihood": -149.05266815775786
+  "likelihood": -151.39930056233737
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 6,
   "alpha_a": 4,
   "beta": 2.5,
-  "likelihood": -144.3272327680594
+  "likelihood": -144.49383396149284
 },
 {
   "questionerType": "explicit",
   "alpha_q": 6,
   "alpha_a": 4,
   "beta": 2.5,
-  "likelihood": -149.23729547289608
+  "likelihood": -151.41556406027107
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 6,
   "alpha_a": 5,
   "beta": 0.5,
-  "likelihood": -143.96669940438497
+  "likelihood": -144.29279801767473
 },
 {
   "questionerType": "explicit",
   "alpha_q": 6,
   "alpha_a": 5,
   "beta": 0.5,
-  "likelihood": -148.5947746250171
+  "likelihood": -151.43144438328594
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 6,
   "alpha_a": 5,
   "beta": 0.1,
-  "likelihood": -143.88823847541698
+  "likelihood": -144.27358612579715
 },
 {
   "questionerType": "explicit",
   "alpha_q": 6,
   "alpha_a": 5,
   "beta": 0.1,
-  "likelihood": -148.5305221232469
+  "likelihood": -151.45418819991986
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 6,
   "alpha_a": 5,
   "beta": 1.5,
-  "likelihood": -144.23196193967257
+  "likelihood": -144.35596103819452
 },
 {
   "questionerType": "explicit",
   "alpha_q": 6,
   "alpha_a": 5,
   "beta": 1.5,
-  "likelihood": -148.8686037265136
+  "likelihood": -151.3954329083907
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 6,
   "alpha_a": 5,
   "beta": 2,
-  "likelihood": -144.37568424699182
+  "likelihood": -144.3869080954613
 },
 {
   "questionerType": "explicit",
   "alpha_q": 6,
   "alpha_a": 5,
   "beta": 2,
-  "likelihood": -149.05266815775786
+  "likelihood": -151.39930056233737
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 6,
   "alpha_a": 5,
   "beta": 2.5,
-  "likelihood": -144.49517910196641
+  "likelihood": -144.41254691771988
 },
 {
   "questionerType": "explicit",
   "alpha_q": 6,
   "alpha_a": 5,
   "beta": 2.5,
-  "likelihood": -149.23729547289608
+  "likelihood": -151.41556406027107
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 6,
   "alpha_a": 6,
   "beta": 0.5,
-  "likelihood": -144.1037024025424
+  "likelihood": -144.3532459981964
 },
 {
   "questionerType": "explicit",
   "alpha_q": 6,
   "alpha_a": 6,
   "beta": 0.5,
-  "likelihood": -148.5947746250171
+  "likelihood": -151.43144438328594
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 6,
   "alpha_a": 6,
   "beta": 0.1,
-  "likelihood": -144.02311658358215
+  "likelihood": -144.33518835254503
 },
 {
   "questionerType": "explicit",
   "alpha_q": 6,
   "alpha_a": 6,
   "beta": 0.1,
-  "likelihood": -148.5305221232469
+  "likelihood": -151.45418819991986
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 6,
   "alpha_a": 6,
   "beta": 1.5,
-  "likelihood": -144.38195516402328
+  "likelihood": -144.41128482609415
 },
 {
   "questionerType": "explicit",
   "alpha_q": 6,
   "alpha_a": 6,
   "beta": 1.5,
-  "likelihood": -148.8686037265136
+  "likelihood": -151.3954329083907
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 6,
   "alpha_a": 6,
   "beta": 2,
-  "likelihood": -144.54425505570222
+  "likelihood": -144.43544896087144
 },
 {
   "questionerType": "explicit",
   "alpha_q": 6,
   "alpha_a": 6,
   "beta": 2,
-  "likelihood": -149.05266815775786
+  "likelihood": -151.39930056233737
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 6,
   "alpha_a": 6,
   "beta": 2.5,
-  "likelihood": -144.69755520594117
+  "likelihood": -144.44741727621215
 },
 {
   "questionerType": "explicit",
   "alpha_q": 6,
   "alpha_a": 6,
   "beta": 2.5,
-  "likelihood": -149.23729547289608
+  "likelihood": -151.41556406027107
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 6,
   "alpha_a": 7,
   "beta": 0.5,
-  "likelihood": -144.2197648679372
+  "likelihood": -144.43883060763486
 },
 {
   "questionerType": "explicit",
   "alpha_q": 6,
   "alpha_a": 7,
   "beta": 0.5,
-  "likelihood": -148.5947746250171
+  "likelihood": -151.43144438328594
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 6,
   "alpha_a": 7,
   "beta": 0.1,
-  "likelihood": -144.1406061541442
+  "likelihood": -144.42147174906012
 },
 {
   "questionerType": "explicit",
   "alpha_q": 6,
   "alpha_a": 7,
   "beta": 0.1,
-  "likelihood": -148.5305221232469
+  "likelihood": -151.45418819991986
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 6,
   "alpha_a": 7,
   "beta": 1.5,
-  "likelihood": -144.49268046076028
+  "likelihood": -144.49623330063136
 },
 {
   "questionerType": "explicit",
   "alpha_q": 6,
   "alpha_a": 7,
   "beta": 1.5,
-  "likelihood": -148.8686037265136
+  "likelihood": -151.3954329083907
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 6,
   "alpha_a": 7,
   "beta": 2,
-  "likelihood": -144.658335801846
+  "likelihood": -144.51929251741328
 },
 {
   "questionerType": "explicit",
   "alpha_q": 6,
   "alpha_a": 7,
   "beta": 2,
-  "likelihood": -149.05266815775786
+  "likelihood": -151.39930056233737
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 6,
   "alpha_a": 7,
   "beta": 2.5,
-  "likelihood": -144.8313899612095
+  "likelihood": -144.525630071945
 },
 {
   "questionerType": "explicit",
   "alpha_q": 6,
   "alpha_a": 7,
   "beta": 2.5,
-  "likelihood": -149.23729547289608
+  "likelihood": -151.41556406027107
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 7,
   "alpha_a": 1,
   "beta": 0.5,
-  "likelihood": -146.98937624773214
+  "likelihood": -147.57086425504727
 },
 {
   "questionerType": "explicit",
   "alpha_q": 7,
   "alpha_a": 1,
   "beta": 0.5,
-  "likelihood": -149.2670577730861
+  "likelihood": -150.75670858818108
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 7,
   "alpha_a": 1,
   "beta": 0.1,
-  "likelihood": -146.76667274313743
+  "likelihood": -147.39861549246461
 },
 {
   "questionerType": "explicit",
   "alpha_q": 7,
   "alpha_a": 1,
   "beta": 0.1,
-  "likelihood": -149.11429861785214
+  "likelihood": -150.7243659350539
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 7,
   "alpha_a": 1,
   "beta": 1.5,
-  "likelihood": -147.85108837761595
+  "likelihood": -148.27100583693903
 },
 {
   "questionerType": "explicit",
   "alpha_q": 7,
   "alpha_a": 1,
   "beta": 1.5,
-  "likelihood": -149.81029501117354
+  "likelihood": -150.89264831593724
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 7,
   "alpha_a": 1,
   "beta": 2,
-  "likelihood": -148.42379635105524
+  "likelihood": -148.7621926873169
 },
 {
   "questionerType": "explicit",
   "alpha_q": 7,
   "alpha_a": 1,
   "beta": 2,
-  "likelihood": -150.12336992215862
+  "likelihood": -150.9819987467362
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 7,
   "alpha_a": 1,
   "beta": 2.5,
-  "likelihood": -149.02817700089423
+  "likelihood": -149.2993805273443
 },
 {
   "questionerType": "explicit",
   "alpha_q": 7,
   "alpha_a": 1,
   "beta": 2.5,
-  "likelihood": -150.4128444183223
+  "likelihood": -151.06997610572768
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 7,
   "alpha_a": 2,
   "beta": 0.5,
-  "likelihood": -145.77635048069837
+  "likelihood": -145.37583487082685
 },
 {
   "questionerType": "explicit",
   "alpha_q": 7,
   "alpha_a": 2,
   "beta": 0.5,
-  "likelihood": -149.2670577730861
+  "likelihood": -150.75670858818108
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 7,
   "alpha_a": 2,
   "beta": 0.1,
-  "likelihood": -145.64783425799098
+  "likelihood": -145.28126614914294
 },
 {
   "questionerType": "explicit",
   "alpha_q": 7,
   "alpha_a": 2,
   "beta": 0.1,
-  "likelihood": -149.11429861785214
+  "likelihood": -150.7243659350539
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 7,
   "alpha_a": 2,
   "beta": 1.5,
-  "likelihood": -146.27916199759278
+  "likelihood": -145.79407050900002
 },
 {
   "questionerType": "explicit",
   "alpha_q": 7,
   "alpha_a": 2,
   "beta": 1.5,
-  "likelihood": -149.81029501117354
+  "likelihood": -150.89264831593724
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 7,
   "alpha_a": 2,
   "beta": 2,
-  "likelihood": -146.65661934080805
+  "likelihood": -146.15582588485134
 },
 {
   "questionerType": "explicit",
   "alpha_q": 7,
   "alpha_a": 2,
   "beta": 2,
-  "likelihood": -150.12336992215862
+  "likelihood": -150.9819987467362
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 7,
   "alpha_a": 2,
   "beta": 2.5,
-  "likelihood": -147.14754415895555
+  "likelihood": -146.66877362587942
 },
 {
   "questionerType": "explicit",
   "alpha_q": 7,
   "alpha_a": 2,
   "beta": 2.5,
-  "likelihood": -150.4128444183223
+  "likelihood": -151.06997610572768
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 7,
   "alpha_a": 3,
   "beta": 0.5,
-  "likelihood": -146.04867243701275
+  "likelihood": -145.02163079363197
 },
 {
   "questionerType": "explicit",
   "alpha_q": 7,
   "alpha_a": 3,
   "beta": 0.5,
-  "likelihood": -149.2670577730861
+  "likelihood": -150.75670858818108
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 7,
   "alpha_a": 3,
   "beta": 0.1,
-  "likelihood": -145.962594900525
+  "likelihood": -144.9719335434626
 },
 {
   "questionerType": "explicit",
   "alpha_q": 7,
   "alpha_a": 3,
   "beta": 0.1,
-  "likelihood": -149.11429861785214
+  "likelihood": -150.7243659350539
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 7,
   "alpha_a": 3,
   "beta": 1.5,
-  "likelihood": -146.30027855217853
+  "likelihood": -145.18179279262495
 },
 {
   "questionerType": "explicit",
   "alpha_q": 7,
   "alpha_a": 3,
   "beta": 1.5,
-  "likelihood": -149.81029501117354
+  "likelihood": -150.89264831593724
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 7,
   "alpha_a": 3,
   "beta": 2,
-  "likelihood": -146.4095457300307
+  "likelihood": -145.27042320161615
 },
 {
   "questionerType": "explicit",
   "alpha_q": 7,
   "alpha_a": 3,
   "beta": 2,
-  "likelihood": -150.12336992215862
+  "likelihood": -150.9819987467362
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 7,
   "alpha_a": 3,
   "beta": 2.5,
-  "likelihood": -146.50207803526104
+  "likelihood": -145.37614948629567
 },
 {
   "questionerType": "explicit",
   "alpha_q": 7,
   "alpha_a": 3,
   "beta": 2.5,
-  "likelihood": -150.4128444183223
+  "likelihood": -151.06997610572768
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 7,
   "alpha_a": 4,
   "beta": 0.5,
-  "likelihood": -146.6939257159539
+  "likelihood": -145.25090441994163
 },
 {
   "questionerType": "explicit",
   "alpha_q": 7,
   "alpha_a": 4,
   "beta": 0.5,
-  "likelihood": -149.2670577730861
+  "likelihood": -150.75670858818108
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 7,
   "alpha_a": 4,
   "beta": 0.1,
-  "likelihood": -146.5983843148454
+  "likelihood": -145.19951990215102
 },
 {
   "questionerType": "explicit",
   "alpha_q": 7,
   "alpha_a": 4,
   "beta": 0.1,
-  "likelihood": -149.11429861785214
+  "likelihood": -150.7243659350539
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 7,
   "alpha_a": 4,
   "beta": 1.5,
-  "likelihood": -146.97697698182114
+  "likelihood": -145.4155803702795
 },
 {
   "questionerType": "explicit",
   "alpha_q": 7,
   "alpha_a": 4,
   "beta": 1.5,
-  "likelihood": -149.81029501117354
+  "likelihood": -150.89264831593724
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 7,
   "alpha_a": 4,
   "beta": 2,
-  "likelihood": -147.08668592795738
+  "likelihood": -145.4935268064125
 },
 {
   "questionerType": "explicit",
   "alpha_q": 7,
   "alpha_a": 4,
   "beta": 2,
-  "likelihood": -150.12336992215862
+  "likelihood": -150.9819987467362
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 7,
   "alpha_a": 4,
   "beta": 2.5,
-  "likelihood": -147.12116386894647
+  "likelihood": -145.54340217936812
 },
 {
   "questionerType": "explicit",
   "alpha_q": 7,
   "alpha_a": 4,
   "beta": 2.5,
-  "likelihood": -150.4128444183223
+  "likelihood": -151.06997610572768
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 7,
   "alpha_a": 5,
   "beta": 0.5,
-  "likelihood": -147.22110736523192
+  "likelihood": -145.49183296085454
 },
 {
   "questionerType": "explicit",
   "alpha_q": 7,
   "alpha_a": 5,
   "beta": 0.5,
-  "likelihood": -149.2670577730861
+  "likelihood": -150.75670858818108
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 7,
   "alpha_a": 5,
   "beta": 0.1,
-  "likelihood": -147.11732325652474
+  "likelihood": -145.44125841754246
 },
 {
   "questionerType": "explicit",
   "alpha_q": 7,
   "alpha_a": 5,
   "beta": 0.1,
-  "likelihood": -149.11429861785214
+  "likelihood": -150.7243659350539
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 7,
   "alpha_a": 5,
   "beta": 1.5,
-  "likelihood": -147.55770095121173
+  "likelihood": -145.66408822740956
 },
 {
   "questionerType": "explicit",
   "alpha_q": 7,
   "alpha_a": 5,
   "beta": 1.5,
-  "likelihood": -149.81029501117354
+  "likelihood": -150.89264831593724
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 7,
   "alpha_a": 5,
   "beta": 2,
-  "likelihood": -147.72937111240057
+  "likelihood": -145.76008030440866
 },
 {
   "questionerType": "explicit",
   "alpha_q": 7,
   "alpha_a": 5,
   "beta": 2,
-  "likelihood": -150.12336992215862
+  "likelihood": -150.9819987467362
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 7,
   "alpha_a": 5,
   "beta": 2.5,
-  "likelihood": -147.85480032595254
+  "likelihood": -145.84649198504712
 },
 {
   "questionerType": "explicit",
   "alpha_q": 7,
   "alpha_a": 5,
   "beta": 2.5,
-  "likelihood": -150.4128444183223
+  "likelihood": -151.06997610572768
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 7,
   "alpha_a": 6,
   "beta": 0.5,
-  "likelihood": -147.59609490906288
+  "likelihood": -145.69239950293877
 },
 {
   "questionerType": "explicit",
   "alpha_q": 7,
   "alpha_a": 6,
   "beta": 0.5,
-  "likelihood": -149.2670577730861
+  "likelihood": -150.75670858818108
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 7,
   "alpha_a": 6,
   "beta": 0.1,
-  "likelihood": -147.49407965251547
+  "likelihood": -145.64672888925045
 },
 {
   "questionerType": "explicit",
   "alpha_q": 7,
   "alpha_a": 6,
   "beta": 0.1,
-  "likelihood": -149.11429861785214
+  "likelihood": -150.7243659350539
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 7,
   "alpha_a": 6,
   "beta": 1.5,
-  "likelihood": -147.93968812135893
+  "likelihood": -145.85012756997756
 },
 {
   "questionerType": "explicit",
   "alpha_q": 7,
   "alpha_a": 6,
   "beta": 1.5,
-  "likelihood": -149.81029501117354
+  "likelihood": -150.89264831593724
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 7,
   "alpha_a": 6,
   "beta": 2,
-  "likelihood": -148.14113861424806
+  "likelihood": -145.94151170582842
 },
 {
   "questionerType": "explicit",
   "alpha_q": 7,
   "alpha_a": 6,
   "beta": 2,
-  "likelihood": -150.12336992215862
+  "likelihood": -150.9819987467362
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 7,
   "alpha_a": 6,
   "beta": 2.5,
-  "likelihood": -148.33698289601574
+  "likelihood": -146.0303597830195
 },
 {
   "questionerType": "explicit",
   "alpha_q": 7,
   "alpha_a": 6,
   "beta": 2.5,
-  "likelihood": -150.4128444183223
+  "likelihood": -151.06997610572768
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 7,
   "alpha_a": 7,
   "beta": 0.5,
-  "likelihood": -147.86576306573613
+  "likelihood": -145.8640541207246
 },
 {
   "questionerType": "explicit",
   "alpha_q": 7,
   "alpha_a": 7,
   "beta": 0.5,
-  "likelihood": -149.2670577730861
+  "likelihood": -150.75670858818108
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 7,
   "alpha_a": 7,
   "beta": 0.1,
-  "likelihood": -147.77166583788988
+  "likelihood": -145.8239500952544
 },
 {
   "questionerType": "explicit",
   "alpha_q": 7,
   "alpha_a": 7,
   "beta": 0.1,
-  "likelihood": -149.11429861785214
+  "likelihood": -150.7243659350539
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 7,
   "alpha_a": 7,
   "beta": 1.5,
-  "likelihood": -148.17913515105042
+  "likelihood": -146.00237198171024
 },
 {
   "questionerType": "explicit",
   "alpha_q": 7,
   "alpha_a": 7,
   "beta": 1.5,
-  "likelihood": -149.81029501117354
+  "likelihood": -150.89264831593724
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 7,
   "alpha_a": 7,
   "beta": 2,
-  "likelihood": -148.37189436702354
+  "likelihood": -146.08252010155582
 },
 {
   "questionerType": "explicit",
   "alpha_q": 7,
   "alpha_a": 7,
   "beta": 2,
-  "likelihood": -150.12336992215862
+  "likelihood": -150.9819987467362
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 7,
   "alpha_a": 7,
   "beta": 2.5,
-  "likelihood": -148.58593452758916
+  "likelihood": -146.1611654504484
 },
 {
   "questionerType": "explicit",
   "alpha_q": 7,
   "alpha_a": 7,
   "beta": 2.5,
-  "likelihood": -150.4128444183223
+  "likelihood": -151.06997610572768
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 8,
   "alpha_a": 1,
   "beta": 0.5,
-  "likelihood": -148.48452593733873
+  "likelihood": -147.52313566287205
 },
 {
   "questionerType": "explicit",
   "alpha_q": 8,
   "alpha_a": 1,
   "beta": 0.5,
-  "likelihood": -150.53954277993137
+  "likelihood": -150.66127931760343
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 8,
   "alpha_a": 1,
   "beta": 0.1,
-  "likelihood": -148.24916952795817
+  "likelihood": -147.33675132418497
 },
 {
   "questionerType": "explicit",
   "alpha_q": 8,
   "alpha_a": 1,
   "beta": 0.1,
-  "likelihood": -150.33580470785748
+  "likelihood": -150.59148589850898
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 8,
   "alpha_a": 1,
   "beta": 1.5,
-  "likelihood": -149.36860951848323
+  "likelihood": -148.2638180208219
 },
 {
   "questionerType": "explicit",
   "alpha_q": 8,
   "alpha_a": 1,
   "beta": 1.5,
-  "likelihood": -151.21736360513302
+  "likelihood": -150.90466355627578
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 8,
   "alpha_a": 1,
   "beta": 2,
-  "likelihood": -149.94241223884725
+  "likelihood": -148.7763282090174
 },
 {
   "questionerType": "explicit",
   "alpha_q": 8,
   "alpha_a": 1,
   "beta": 2,
-  "likelihood": -151.58112049067577
+  "likelihood": -151.04133241899103
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 8,
   "alpha_a": 1,
   "beta": 2.5,
-  "likelihood": -150.5434038566168
+  "likelihood": -149.33646556563406
 },
 {
   "questionerType": "explicit",
   "alpha_q": 8,
   "alpha_a": 1,
   "beta": 2.5,
-  "likelihood": -151.90292315759405
+  "likelihood": -151.16528970036626
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 8,
   "alpha_a": 2,
   "beta": 0.5,
-  "likelihood": -148.0936693073128
+  "likelihood": -146.06015246078485
 },
 {
   "questionerType": "explicit",
   "alpha_q": 8,
   "alpha_a": 2,
   "beta": 0.5,
-  "likelihood": -150.53954277993137
+  "likelihood": -150.66127931760343
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 8,
   "alpha_a": 2,
   "beta": 0.1,
-  "likelihood": -147.9954161934935
+  "likelihood": -145.98553135125667
 },
 {
   "questionerType": "explicit",
   "alpha_q": 8,
   "alpha_a": 2,
   "beta": 0.1,
-  "likelihood": -150.33580470785748
+  "likelihood": -150.59148589850898
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 8,
   "alpha_a": 2,
   "beta": 1.5,
-  "likelihood": -148.4274857102476
+  "likelihood": -146.35234638815976
 },
 {
   "questionerType": "explicit",
   "alpha_q": 8,
   "alpha_a": 2,
   "beta": 1.5,
-  "likelihood": -151.21736360513302
+  "likelihood": -150.90466355627578
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 8,
   "alpha_a": 2,
   "beta": 2,
-  "likelihood": -148.65599280585172
+  "likelihood": -146.59367377301245
 },
 {
   "questionerType": "explicit",
   "alpha_q": 8,
   "alpha_a": 2,
   "beta": 2,
-  "likelihood": -151.58112049067577
+  "likelihood": -151.04133241899103
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 8,
   "alpha_a": 2,
   "beta": 2.5,
-  "likelihood": -148.9706249801921
+  "likelihood": -146.95938296790598
 },
 {
   "questionerType": "explicit",
   "alpha_q": 8,
   "alpha_a": 2,
   "beta": 2.5,
-  "likelihood": -151.90292315759405
+  "likelihood": -151.16528970036626
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 8,
   "alpha_a": 3,
   "beta": 0.5,
-  "likelihood": -149.33845004632198
+  "likelihood": -146.5702188080764
 },
 {
   "questionerType": "explicit",
   "alpha_q": 8,
   "alpha_a": 3,
   "beta": 0.5,
-  "likelihood": -150.53954277993137
+  "likelihood": -150.66127931760343
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 8,
   "alpha_a": 3,
   "beta": 0.1,
-  "likelihood": -149.26754725409097
+  "likelihood": -146.5167210904509
 },
 {
   "questionerType": "explicit",
   "alpha_q": 8,
   "alpha_a": 3,
   "beta": 0.1,
-  "likelihood": -150.33580470785748
+  "likelihood": -150.59148589850898
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 8,
   "alpha_a": 3,
   "beta": 1.5,
-  "likelihood": -149.4711979812053
+  "likelihood": -146.69654425306297
 },
 {
   "questionerType": "explicit",
   "alpha_q": 8,
   "alpha_a": 3,
   "beta": 1.5,
-  "likelihood": -151.21736360513302
+  "likelihood": -150.90466355627578
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 8,
   "alpha_a": 3,
   "beta": 2,
-  "likelihood": -149.4377491950345
+  "likelihood": -146.70696605656704
 },
 {
   "questionerType": "explicit",
   "alpha_q": 8,
   "alpha_a": 3,
   "beta": 2,
-  "likelihood": -151.58112049067577
+  "likelihood": -151.04133241899103
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 8,
   "alpha_a": 3,
   "beta": 2.5,
-  "likelihood": -149.30290123097504
+  "likelihood": -146.6564823678602
 },
 {
   "questionerType": "explicit",
   "alpha_q": 8,
   "alpha_a": 3,
   "beta": 2.5,
-  "likelihood": -151.90292315759405
+  "likelihood": -151.16528970036626
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 8,
   "alpha_a": 4,
   "beta": 0.5,
-  "likelihood": -150.6036058651258
+  "likelihood": -147.25342022418326
 },
 {
   "questionerType": "explicit",
   "alpha_q": 8,
   "alpha_a": 4,
   "beta": 0.5,
-  "likelihood": -150.53954277993137
+  "likelihood": -150.66127931760343
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 8,
   "alpha_a": 4,
   "beta": 0.1,
-  "likelihood": -150.50587443369525
+  "likelihood": -147.182757745668
 },
 {
   "questionerType": "explicit",
   "alpha_q": 8,
   "alpha_a": 4,
   "beta": 0.1,
-  "likelihood": -150.33580470785748
+  "likelihood": -150.59148589850898
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 8,
   "alpha_a": 4,
   "beta": 1.5,
-  "likelihood": -150.8672321906823
+  "likelihood": -147.47756013520976
 },
 {
   "questionerType": "explicit",
   "alpha_q": 8,
   "alpha_a": 4,
   "beta": 1.5,
-  "likelihood": -151.21736360513302
+  "likelihood": -150.90466355627578
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 8,
   "alpha_a": 4,
   "beta": 2,
-  "likelihood": -150.93201882295034
+  "likelihood": -147.57753526630017
 },
 {
   "questionerType": "explicit",
   "alpha_q": 8,
   "alpha_a": 4,
   "beta": 2,
-  "likelihood": -151.58112049067577
+  "likelihood": -151.04133241899103
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 8,
   "alpha_a": 4,
   "beta": 2.5,
-  "likelihood": -150.8703086054571
+  "likelihood": -147.62205953353197
 },
 {
   "questionerType": "explicit",
   "alpha_q": 8,
   "alpha_a": 4,
   "beta": 2.5,
-  "likelihood": -151.90292315759405
+  "likelihood": -151.16528970036626
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 8,
   "alpha_a": 5,
   "beta": 0.5,
-  "likelihood": -151.458846393864
+  "likelihood": -147.69099739696654
 },
 {
   "questionerType": "explicit",
   "alpha_q": 8,
   "alpha_a": 5,
   "beta": 0.5,
-  "likelihood": -150.53954277993137
+  "likelihood": -150.66127931760343
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 8,
   "alpha_a": 5,
   "beta": 0.1,
-  "likelihood": -151.35032180667142
+  "likelihood": -147.62114925193964
 },
 {
   "questionerType": "explicit",
   "alpha_q": 8,
   "alpha_a": 5,
   "beta": 0.1,
-  "likelihood": -150.33580470785748
+  "likelihood": -150.59148589850898
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 8,
   "alpha_a": 5,
   "beta": 1.5,
-  "likelihood": -151.80897555101808
+  "likelihood": -147.93759603775425
 },
 {
   "questionerType": "explicit",
   "alpha_q": 8,
   "alpha_a": 5,
   "beta": 1.5,
-  "likelihood": -151.21736360513302
+  "likelihood": -150.90466355627578
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 8,
   "alpha_a": 5,
   "beta": 2,
-  "likelihood": -151.9858240784381
+  "likelihood": -148.08491434258607
 },
 {
   "questionerType": "explicit",
   "alpha_q": 8,
   "alpha_a": 5,
   "beta": 2,
-  "likelihood": -151.58112049067577
+  "likelihood": -151.04133241899103
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 8,
   "alpha_a": 5,
   "beta": 2.5,
-  "likelihood": -152.1065037324872
+  "likelihood": -148.22653066859993
 },
 {
   "questionerType": "explicit",
   "alpha_q": 8,
   "alpha_a": 5,
   "beta": 2.5,
-  "likelihood": -151.90292315759405
+  "likelihood": -151.16528970036626
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 8,
   "alpha_a": 6,
   "beta": 0.5,
-  "likelihood": -152.0097752874998
+  "likelihood": -147.98392216163097
 },
 {
   "questionerType": "explicit",
   "alpha_q": 8,
   "alpha_a": 6,
   "beta": 0.5,
-  "likelihood": -150.53954277993137
+  "likelihood": -150.66127931760343
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 8,
   "alpha_a": 6,
   "beta": 0.1,
-  "likelihood": -151.90815489070218
+  "likelihood": -147.92361636364706
 },
 {
   "questionerType": "explicit",
   "alpha_q": 8,
   "alpha_a": 6,
   "beta": 0.1,
-  "likelihood": -150.33580470785748
+  "likelihood": -150.59148589850898
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 8,
   "alpha_a": 6,
   "beta": 1.5,
-  "likelihood": -152.35692910881468
+  "likelihood": -148.2028018740413
 },
 {
   "questionerType": "explicit",
   "alpha_q": 8,
   "alpha_a": 6,
   "beta": 1.5,
-  "likelihood": -151.21736360513302
+  "likelihood": -150.90466355627578
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 8,
   "alpha_a": 6,
   "beta": 2,
-  "likelihood": -152.57013179205552
+  "likelihood": -148.343515606199
 },
 {
   "questionerType": "explicit",
   "alpha_q": 8,
   "alpha_a": 6,
   "beta": 2,
-  "likelihood": -151.58112049067577
+  "likelihood": -151.04133241899103
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 8,
   "alpha_a": 6,
   "beta": 2.5,
-  "likelihood": -152.78847776551132
+  "likelihood": -148.49585627940567
 },
 {
   "questionerType": "explicit",
   "alpha_q": 8,
   "alpha_a": 6,
   "beta": 2.5,
-  "likelihood": -151.90292315759405
+  "likelihood": -151.16528970036626
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 8,
   "alpha_a": 7,
   "beta": 0.5,
-  "likelihood": -152.38559742860414
+  "likelihood": -148.20441959446754
 },
 {
   "questionerType": "explicit",
   "alpha_q": 8,
   "alpha_a": 7,
   "beta": 0.5,
-  "likelihood": -150.53954277993137
+  "likelihood": -150.66127931760343
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 8,
   "alpha_a": 7,
   "beta": 0.1,
-  "likelihood": -152.29876002647023
+  "likelihood": -148.15472534890984
 },
 {
   "questionerType": "explicit",
   "alpha_q": 8,
   "alpha_a": 7,
   "beta": 0.1,
-  "likelihood": -150.33580470785748
+  "likelihood": -150.59148589850898
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 8,
   "alpha_a": 7,
   "beta": 1.5,
-  "likelihood": -152.6782845558755
+  "likelihood": -148.38481485557116
 },
 {
   "questionerType": "explicit",
   "alpha_q": 8,
   "alpha_a": 7,
   "beta": 1.5,
-  "likelihood": -151.21736360513302
+  "likelihood": -150.90466355627578
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 8,
   "alpha_a": 7,
   "beta": 2,
-  "likelihood": -152.87058535854766
+  "likelihood": -148.50351028783726
 },
 {
   "questionerType": "explicit",
   "alpha_q": 8,
   "alpha_a": 7,
   "beta": 2,
-  "likelihood": -151.58112049067577
+  "likelihood": -151.04133241899103
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 8,
   "alpha_a": 7,
   "beta": 2.5,
-  "likelihood": -153.10125792805408
+  "likelihood": -148.63851113958117
 },
 {
   "questionerType": "explicit",
   "alpha_q": 8,
   "alpha_a": 7,
   "beta": 2.5,
-  "likelihood": -151.90292315759405
+  "likelihood": -151.16528970036626
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 9,
   "alpha_a": 1,
   "beta": 0.5,
-  "likelihood": -150.2743452989216
+  "likelihood": -147.9379818645634
 },
 {
   "questionerType": "explicit",
   "alpha_q": 9,
   "alpha_a": 1,
   "beta": 0.5,
-  "likelihood": -152.00976515597827
+  "likelihood": -150.89818877700753
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 9,
   "alpha_a": 1,
   "beta": 0.1,
-  "likelihood": -150.06383814424035
+  "likelihood": -147.761392919434
 },
 {
   "questionerType": "explicit",
   "alpha_q": 9,
   "alpha_a": 1,
   "beta": 0.1,
-  "likelihood": -151.7932956949341
+  "likelihood": -150.81020908845792
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 9,
   "alpha_a": 1,
   "beta": 1.5,
-  "likelihood": -151.0493977219474
+  "likelihood": -148.63289740184342
 },
 {
   "questionerType": "explicit",
   "alpha_q": 9,
   "alpha_a": 1,
   "beta": 1.5,
-  "likelihood": -152.69677320580092
+  "likelihood": -151.184846168101
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 9,
   "alpha_a": 1,
   "beta": 2,
-  "likelihood": -151.54827422996405
+  "likelihood": -149.11487299268344
 },
 {
   "questionerType": "explicit",
   "alpha_q": 9,
   "alpha_a": 1,
   "beta": 2,
-  "likelihood": -153.0460544566065
+  "likelihood": -151.33479640715743
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 9,
   "alpha_a": 1,
   "beta": 2.5,
-  "likelihood": -152.07467417162613
+  "likelihood": -149.64803871217717
 },
 {
   "questionerType": "explicit",
   "alpha_q": 9,
   "alpha_a": 1,
   "beta": 2.5,
-  "likelihood": -153.34452376036185
+  "likelihood": -151.4651963039593
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 9,
   "alpha_a": 2,
   "beta": 0.5,
-  "likelihood": -150.82985745448457
+  "likelihood": -147.36009433451875
 },
 {
   "questionerType": "explicit",
   "alpha_q": 9,
   "alpha_a": 2,
   "beta": 0.5,
-  "likelihood": -152.00976515597827
+  "likelihood": -150.89818877700753
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 9,
   "alpha_a": 2,
   "beta": 0.1,
-  "likelihood": -150.78646532834819
+  "likelihood": -147.31903552399143
 },
 {
   "questionerType": "explicit",
   "alpha_q": 9,
   "alpha_a": 2,
   "beta": 0.1,
-  "likelihood": -151.7932956949341
+  "likelihood": -150.81020908845792
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 9,
   "alpha_a": 2,
   "beta": 1.5,
-  "likelihood": -150.90167169958139
+  "likelihood": -147.47113107388594
 },
 {
   "questionerType": "explicit",
   "alpha_q": 9,
   "alpha_a": 2,
   "beta": 1.5,
-  "likelihood": -152.69677320580092
+  "likelihood": -151.184846168101
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 9,
   "alpha_a": 2,
   "beta": 2,
-  "likelihood": -150.91598885493016
+  "likelihood": -147.5481865981669
 },
 {
   "questionerType": "explicit",
   "alpha_q": 9,
   "alpha_a": 2,
   "beta": 2,
-  "likelihood": -153.0460544566065
+  "likelihood": -151.33479640715743
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 9,
   "alpha_a": 2,
   "beta": 2.5,
-  "likelihood": -150.97707680617123
+  "likelihood": -147.70847958448212
 },
 {
   "questionerType": "explicit",
   "alpha_q": 9,
   "alpha_a": 2,
   "beta": 2.5,
-  "likelihood": -153.34452376036185
+  "likelihood": -151.4651963039593
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 9,
   "alpha_a": 3,
   "beta": 0.5,
-  "likelihood": -153.02388699744972
+  "likelihood": -148.69497183489753
 },
 {
   "questionerType": "explicit",
   "alpha_q": 9,
   "alpha_a": 3,
   "beta": 0.5,
-  "likelihood": -152.00976515597827
+  "likelihood": -150.89818877700753
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 9,
   "alpha_a": 3,
   "beta": 0.1,
-  "likelihood": -152.98032761328452
+  "likelihood": -148.64296873232306
 },
 {
   "questionerType": "explicit",
   "alpha_q": 9,
   "alpha_a": 3,
   "beta": 0.1,
-  "likelihood": -151.7932956949341
+  "likelihood": -150.81020908845792
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 9,
   "alpha_a": 3,
   "beta": 1.5,
-  "likelihood": -153.00461321240473
+  "likelihood": -148.77871940853265
 },
 {
   "questionerType": "explicit",
   "alpha_q": 9,
   "alpha_a": 3,
   "beta": 1.5,
-  "likelihood": -152.69677320580092
+  "likelihood": -151.184846168101
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 9,
   "alpha_a": 3,
   "beta": 2,
-  "likelihood": -152.81426157950676
+  "likelihood": -148.7138272826398
 },
 {
   "questionerType": "explicit",
   "alpha_q": 9,
   "alpha_a": 3,
   "beta": 2,
-  "likelihood": -153.0460544566065
+  "likelihood": -151.33479640715743
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 9,
   "alpha_a": 3,
   "beta": 2.5,
-  "likelihood": -152.436806480703
+  "likelihood": -148.5138008628248
 },
 {
   "questionerType": "explicit",
   "alpha_q": 9,
   "alpha_a": 3,
   "beta": 2.5,
-  "likelihood": -153.34452376036185
+  "likelihood": -151.4651963039593
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 9,
   "alpha_a": 4,
   "beta": 0.5,
-  "likelihood": -154.79394205492383
+  "likelihood": -149.72002132979668
 },
 {
   "questionerType": "explicit",
   "alpha_q": 9,
   "alpha_a": 4,
   "beta": 0.5,
-  "likelihood": -152.00976515597827
+  "likelihood": -150.89818877700753
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 9,
   "alpha_a": 4,
   "beta": 0.1,
-  "likelihood": -154.70455924618057
+  "likelihood": -149.63721582683704
 },
 {
   "questionerType": "explicit",
   "alpha_q": 9,
   "alpha_a": 4,
   "beta": 0.1,
-  "likelihood": -151.7932956949341
+  "likelihood": -150.81020908845792
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 9,
   "alpha_a": 4,
   "beta": 1.5,
-  "likelihood": -155.01467532437624
+  "likelihood": -149.98729362652182
 },
 {
   "questionerType": "explicit",
   "alpha_q": 9,
   "alpha_a": 4,
   "beta": 1.5,
-  "likelihood": -152.69677320580092
+  "likelihood": -151.184846168101
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 9,
   "alpha_a": 4,
   "beta": 2,
-  "likelihood": -155.03316255217766
+  "likelihood": -150.1093565446663
 },
 {
   "questionerType": "explicit",
   "alpha_q": 9,
   "alpha_a": 4,
   "beta": 2,
-  "likelihood": -153.0460544566065
+  "likelihood": -151.33479640715743
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 9,
   "alpha_a": 4,
   "beta": 2.5,
-  "likelihood": -154.88776941347874
+  "likelihood": -150.16175949662744
 },
 {
   "questionerType": "explicit",
   "alpha_q": 9,
   "alpha_a": 4,
   "beta": 2.5,
-  "likelihood": -153.34452376036185
+  "likelihood": -151.4651963039593
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 9,
   "alpha_a": 5,
   "beta": 0.5,
-  "likelihood": -155.86726776422103
+  "likelihood": -150.2681870807703
 },
 {
   "questionerType": "explicit",
   "alpha_q": 9,
   "alpha_a": 5,
   "beta": 0.5,
-  "likelihood": -152.00976515597827
+  "likelihood": -150.89818877700753
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 9,
   "alpha_a": 5,
   "beta": 0.1,
-  "likelihood": -155.76474280849843
+  "likelihood": -150.18735957500974
 },
 {
   "questionerType": "explicit",
   "alpha_q": 9,
   "alpha_a": 5,
   "beta": 0.1,
-  "likelihood": -151.7932956949341
+  "likelihood": -150.81020908845792
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 9,
   "alpha_a": 5,
   "beta": 1.5,
-  "likelihood": -156.20352272012772
+  "likelihood": -150.56442712889574
 },
 {
   "questionerType": "explicit",
   "alpha_q": 9,
   "alpha_a": 5,
   "beta": 1.5,
-  "likelihood": -152.69677320580092
+  "likelihood": -151.184846168101
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 9,
   "alpha_a": 5,
   "beta": 2,
-  "likelihood": -156.377016536425
+  "likelihood": -150.75229917170424
 },
 {
   "questionerType": "explicit",
   "alpha_q": 9,
   "alpha_a": 5,
   "beta": 2,
-  "likelihood": -153.0460544566065
+  "likelihood": -151.33479640715743
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 9,
   "alpha_a": 5,
   "beta": 2.5,
-  "likelihood": -156.49380627984843
+  "likelihood": -150.9442138178228
 },
 {
   "questionerType": "explicit",
   "alpha_q": 9,
   "alpha_a": 5,
   "beta": 2.5,
-  "likelihood": -153.34452376036185
+  "likelihood": -151.4651963039593
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 9,
   "alpha_a": 6,
   "beta": 0.5,
-  "likelihood": -156.5130097596783
+  "likelihood": -150.59556750588837
 },
 {
   "questionerType": "explicit",
   "alpha_q": 9,
   "alpha_a": 6,
   "beta": 0.5,
-  "likelihood": -152.00976515597827
+  "likelihood": -150.89818877700753
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 9,
   "alpha_a": 6,
   "beta": 0.1,
-  "likelihood": -156.4214506852614
+  "likelihood": -150.5284933445347
 },
 {
   "questionerType": "explicit",
   "alpha_q": 9,
   "alpha_a": 6,
   "beta": 0.1,
-  "likelihood": -151.7932956949341
+  "likelihood": -150.81020908845792
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 9,
   "alpha_a": 6,
   "beta": 1.5,
-  "likelihood": -156.83877705222454
+  "likelihood": -150.8510806513224
 },
 {
   "questionerType": "explicit",
   "alpha_q": 9,
   "alpha_a": 6,
   "beta": 1.5,
-  "likelihood": -152.69677320580092
+  "likelihood": -151.184846168101
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 9,
   "alpha_a": 6,
   "beta": 2,
-  "likelihood": -157.0523429589541
+  "likelihood": -151.0274380552662
 },
 {
   "questionerType": "explicit",
   "alpha_q": 9,
   "alpha_a": 6,
   "beta": 2,
-  "likelihood": -153.0460544566065
+  "likelihood": -151.33479640715743
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 9,
   "alpha_a": 6,
   "beta": 2.5,
-  "likelihood": -157.2829409931147
+  "likelihood": -151.22972074959108
 },
 {
   "questionerType": "explicit",
   "alpha_q": 9,
   "alpha_a": 6,
   "beta": 2.5,
-  "likelihood": -153.34452376036185
+  "likelihood": -151.4651963039593
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 9,
   "alpha_a": 7,
   "beta": 0.5,
-  "likelihood": -156.9373519714402
+  "likelihood": -150.825060172311
 },
 {
   "questionerType": "explicit",
   "alpha_q": 9,
   "alpha_a": 7,
   "beta": 0.5,
-  "likelihood": -152.00976515597827
+  "likelihood": -150.89818877700753
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 9,
   "alpha_a": 7,
   "beta": 0.1,
-  "likelihood": -156.8656893147236
+  "likelihood": -150.77269206948296
 },
 {
   "questionerType": "explicit",
   "alpha_q": 9,
   "alpha_a": 7,
   "beta": 0.1,
-  "likelihood": -151.7932956949341
+  "likelihood": -150.81020908845792
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 9,
   "alpha_a": 7,
   "beta": 1.5,
-  "likelihood": -157.19234600466288
+  "likelihood": -151.02707459444503
 },
 {
   "questionerType": "explicit",
   "alpha_q": 9,
   "alpha_a": 7,
   "beta": 1.5,
-  "likelihood": -152.69677320580092
+  "likelihood": -151.184846168101
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 9,
   "alpha_a": 7,
   "beta": 2,
-  "likelihood": -157.37708655090663
+  "likelihood": -151.1728365004164
 },
 {
   "questionerType": "explicit",
   "alpha_q": 9,
   "alpha_a": 7,
   "beta": 2,
-  "likelihood": -153.0460544566065
+  "likelihood": -151.33479640715743
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 9,
   "alpha_a": 7,
   "beta": 2.5,
-  "likelihood": -157.6145430554149
+  "likelihood": -151.35068590750862
 },
 {
   "questionerType": "explicit",
   "alpha_q": 9,
   "alpha_a": 7,
   "beta": 2.5,
-  "likelihood": -153.34452376036185
+  "likelihood": -151.4651963039593
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 10,
   "alpha_a": 1,
   "beta": 0.5,
-  "likelihood": -152.08195173249115
+  "likelihood": -148.6143534180618
 },
 {
   "questionerType": "explicit",
   "alpha_q": 10,
   "alpha_a": 1,
   "beta": 0.5,
-  "likelihood": -153.43462100737472
+  "likelihood": -151.3030003123825
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 10,
   "alpha_a": 1,
   "beta": 0.1,
-  "likelihood": -151.92149401038736
+  "likelihood": -148.46462738737205
 },
 {
   "questionerType": "explicit",
   "alpha_q": 10,
   "alpha_a": 1,
   "beta": 0.1,
-  "likelihood": -153.23379686864948
+  "likelihood": -151.21221458920172
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 10,
   "alpha_a": 1,
   "beta": 1.5,
-  "likelihood": -152.66501178661454
+  "likelihood": -149.20388288415157
 },
 {
   "questionerType": "explicit",
   "alpha_q": 10,
   "alpha_a": 1,
   "beta": 1.5,
-  "likelihood": -154.0479430321275
+  "likelihood": -151.58668876840872
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 10,
   "alpha_a": 1,
   "beta": 2,
-  "likelihood": -153.0447189221094
+  "likelihood": -149.62084775368902
 },
 {
   "questionerType": "explicit",
   "alpha_q": 10,
   "alpha_a": 1,
   "beta": 2,
-  "likelihood": -154.3462512524125
+  "likelihood": -151.72857774332533
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 10,
   "alpha_a": 1,
   "beta": 2.5,
-  "likelihood": -153.45766403880944
+  "likelihood": -150.09481656557782
 },
 {
   "questionerType": "explicit",
   "alpha_q": 10,
   "alpha_a": 1,
   "beta": 2.5,
-  "likelihood": -154.59421956288
+  "likelihood": -151.84880826298246
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 10,
   "alpha_a": 2,
   "beta": 0.5,
-  "likelihood": -153.63446750270293
+  "likelihood": -148.98163653333322
 },
 {
   "questionerType": "explicit",
   "alpha_q": 10,
   "alpha_a": 2,
   "beta": 0.5,
-  "likelihood": -153.43462100737472
+  "likelihood": -151.3030003123825
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 10,
   "alpha_a": 2,
   "beta": 0.1,
-  "likelihood": -153.65702023597206
+  "likelihood": -148.97936739859816
 },
 {
   "questionerType": "explicit",
   "alpha_q": 10,
   "alpha_a": 2,
   "beta": 0.1,
-  "likelihood": -153.23379686864948
+  "likelihood": -151.21221458920172
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 10,
   "alpha_a": 2,
   "beta": 1.5,
-  "likelihood": -153.40662198732235
+  "likelihood": -148.8926467135198
 },
 {
   "questionerType": "explicit",
   "alpha_q": 10,
   "alpha_a": 2,
   "beta": 1.5,
-  "likelihood": -154.0479430321275
+  "likelihood": -151.58668876840872
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 10,
   "alpha_a": 2,
   "beta": 2,
-  "likelihood": -153.18083291567535
+  "likelihood": -148.7892724508603
 },
 {
   "questionerType": "explicit",
   "alpha_q": 10,
   "alpha_a": 2,
   "beta": 2,
-  "likelihood": -154.3462512524125
+  "likelihood": -151.72857774332533
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 10,
   "alpha_a": 2,
   "beta": 2.5,
-  "likelihood": -152.95431016855784
+  "likelihood": -148.71800445564253
 },
 {
   "questionerType": "explicit",
   "alpha_q": 10,
   "alpha_a": 2,
   "beta": 2.5,
-  "likelihood": -154.59421956288
+  "likelihood": -151.84880826298246
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 10,
   "alpha_a": 3,
   "beta": 0.5,
-  "likelihood": -156.66902260265857
+  "likelihood": -151.0174323205083
 },
 {
   "questionerType": "explicit",
   "alpha_q": 10,
   "alpha_a": 3,
   "beta": 0.5,
-  "likelihood": -153.43462100737472
+  "likelihood": -151.3030003123825
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 10,
   "alpha_a": 3,
   "beta": 0.1,
-  "likelihood": -156.65577083582008
+  "likelihood": -150.96847573205935
 },
 {
   "questionerType": "explicit",
   "alpha_q": 10,
   "alpha_a": 3,
   "beta": 0.1,
-  "likelihood": -153.23379686864948
+  "likelihood": -151.21221458920172
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 10,
   "alpha_a": 3,
   "beta": 1.5,
-  "likelihood": -156.50208005947795
+  "likelihood": -151.06591656473344
 },
 {
   "questionerType": "explicit",
   "alpha_q": 10,
   "alpha_a": 3,
   "beta": 1.5,
-  "likelihood": -154.0479430321275
+  "likelihood": -151.58668876840872
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 10,
   "alpha_a": 3,
   "beta": 2,
-  "likelihood": -156.1700393759917
+  "likelihood": -150.9431126147393
 },
 {
   "questionerType": "explicit",
   "alpha_q": 10,
   "alpha_a": 3,
   "beta": 2,
-  "likelihood": -154.3462512524125
+  "likelihood": -151.72857774332533
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 10,
   "alpha_a": 3,
   "beta": 2.5,
-  "likelihood": -155.57408176856742
+  "likelihood": -150.62307042603672
 },
 {
   "questionerType": "explicit",
   "alpha_q": 10,
   "alpha_a": 3,
   "beta": 2.5,
-  "likelihood": -154.59421956288
+  "likelihood": -151.84880826298246
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 10,
   "alpha_a": 4,
   "beta": 0.5,
-  "likelihood": -158.7924155315281
+  "likelihood": -152.24965376686174
 },
 {
   "questionerType": "explicit",
   "alpha_q": 10,
   "alpha_a": 4,
   "beta": 0.5,
-  "likelihood": -153.43462100737472
+  "likelihood": -151.3030003123825
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 10,
   "alpha_a": 4,
   "beta": 0.1,
-  "likelihood": -158.71538944995697
+  "likelihood": -152.15978510328912
 },
 {
   "questionerType": "explicit",
   "alpha_q": 10,
   "alpha_a": 4,
   "beta": 0.1,
-  "likelihood": -153.23379686864948
+  "likelihood": -151.21221458920172
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 10,
   "alpha_a": 4,
   "beta": 1.5,
-  "likelihood": -158.96751115182738
+  "likelihood": -152.5485750256476
 },
 {
   "questionerType": "explicit",
   "alpha_q": 10,
   "alpha_a": 4,
   "beta": 1.5,
-  "likelihood": -154.0479430321275
+  "likelihood": -151.58668876840872
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 10,
   "alpha_a": 4,
   "beta": 2,
-  "likelihood": -158.95015050610044
+  "likelihood": -152.69427888226505
 },
 {
   "questionerType": "explicit",
   "alpha_q": 10,
   "alpha_a": 4,
   "beta": 2,
-  "likelihood": -154.3462512524125
+  "likelihood": -151.72857774332533
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 10,
   "alpha_a": 4,
   "beta": 2.5,
-  "likelihood": -158.74764268663097
+  "likelihood": -152.76936856286702
 },
 {
   "questionerType": "explicit",
   "alpha_q": 10,
   "alpha_a": 4,
   "beta": 2.5,
-  "likelihood": -154.59421956288
+  "likelihood": -151.84880826298246
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 10,
   "alpha_a": 5,
   "beta": 0.5,
-  "likelihood": -159.97407324949495
+  "likelihood": -152.82764395620165
 },
 {
   "questionerType": "explicit",
   "alpha_q": 10,
   "alpha_a": 5,
   "beta": 0.5,
-  "likelihood": -153.43462100737472
+  "likelihood": -151.3030003123825
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 10,
   "alpha_a": 5,
   "beta": 0.1,
-  "likelihood": -159.8816235926504
+  "likelihood": -152.7416741013484
 },
 {
   "questionerType": "explicit",
   "alpha_q": 10,
   "alpha_a": 5,
   "beta": 0.1,
-  "likelihood": -153.23379686864948
+  "likelihood": -151.21221458920172
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 10,
   "alpha_a": 5,
   "beta": 1.5,
-  "likelihood": -160.28663366068773
+  "likelihood": -153.15353805470366
 },
 {
   "questionerType": "explicit",
   "alpha_q": 10,
   "alpha_a": 5,
   "beta": 1.5,
-  "likelihood": -154.0479430321275
+  "likelihood": -151.58668876840872
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 10,
   "alpha_a": 5,
   "beta": 2,
-  "likelihood": -160.45432173414736
+  "likelihood": -153.37071049700018
 },
 {
   "questionerType": "explicit",
   "alpha_q": 10,
   "alpha_a": 5,
   "beta": 2,
-  "likelihood": -154.3462512524125
+  "likelihood": -151.72857774332533
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 10,
   "alpha_a": 5,
   "beta": 2.5,
-  "likelihood": -160.57069433558166
+  "likelihood": -153.60461394738778
 },
 {
   "questionerType": "explicit",
   "alpha_q": 10,
   "alpha_a": 5,
   "beta": 2.5,
-  "likelihood": -154.59421956288
+  "likelihood": -151.84880826298246
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 10,
   "alpha_a": 6,
   "beta": 0.5,
-  "likelihood": -160.6451174434704
+  "likelihood": -153.14357321775603
 },
 {
   "questionerType": "explicit",
   "alpha_q": 10,
   "alpha_a": 6,
   "beta": 0.5,
-  "likelihood": -153.43462100737472
+  "likelihood": -151.3030003123825
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 10,
   "alpha_a": 6,
   "beta": 0.1,
-  "likelihood": -160.56573700041272
+  "likelihood": -153.07439563564282
 },
 {
   "questionerType": "explicit",
   "alpha_q": 10,
   "alpha_a": 6,
   "beta": 0.1,
-  "likelihood": -153.23379686864948
+  "likelihood": -151.21221458920172
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 10,
   "alpha_a": 6,
   "beta": 1.5,
-  "likelihood": -160.9438397655705
+  "likelihood": -153.4182294078347
 },
 {
   "questionerType": "explicit",
   "alpha_q": 10,
   "alpha_a": 6,
   "beta": 1.5,
-  "likelihood": -154.0479430321275
+  "likelihood": -151.58668876840872
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 10,
   "alpha_a": 6,
   "beta": 2,
-  "likelihood": -161.15284566726075
+  "likelihood": -153.6172165424063
 },
 {
   "questionerType": "explicit",
   "alpha_q": 10,
   "alpha_a": 6,
   "beta": 2,
-  "likelihood": -154.3462512524125
+  "likelihood": -151.72857774332533
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 10,
   "alpha_a": 6,
   "beta": 2.5,
-  "likelihood": -161.38818286681223
+  "likelihood": -153.8533645433383
 },
 {
   "questionerType": "explicit",
   "alpha_q": 10,
   "alpha_a": 6,
   "beta": 2.5,
-  "likelihood": -154.59421956288
+  "likelihood": -151.84880826298246
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 10,
   "alpha_a": 7,
   "beta": 0.5,
-  "likelihood": -161.07154867359483
+  "likelihood": -153.3535495626587
 },
 {
   "questionerType": "explicit",
   "alpha_q": 10,
   "alpha_a": 7,
   "beta": 0.5,
-  "likelihood": -153.43462100737472
+  "likelihood": -151.3030003123825
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 10,
   "alpha_a": 7,
   "beta": 0.1,
-  "likelihood": -161.01468176250455
+  "likelihood": -153.30162923157923
 },
 {
   "questionerType": "explicit",
   "alpha_q": 10,
   "alpha_a": 7,
   "beta": 0.1,
-  "likelihood": -153.23379686864948
+  "likelihood": -151.21221458920172
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 10,
   "alpha_a": 7,
   "beta": 1.5,
-  "likelihood": -161.29248066997434
+  "likelihood": -153.56586652422794
 },
 {
   "questionerType": "explicit",
   "alpha_q": 10,
   "alpha_a": 7,
   "beta": 1.5,
-  "likelihood": -154.0479430321275
+  "likelihood": -151.58668876840872
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 10,
   "alpha_a": 7,
   "beta": 2,
-  "likelihood": -161.4694415659397
+  "likelihood": -153.7291980839524
 },
 {
   "questionerType": "explicit",
   "alpha_q": 10,
   "alpha_a": 7,
   "beta": 2,
-  "likelihood": -154.3462512524125
+  "likelihood": -151.72857774332533
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 10,
   "alpha_a": 7,
   "beta": 2.5,
-  "likelihood": -161.70773070936775
+  "likelihood": -153.93539408779296
 },
 {
   "questionerType": "explicit",
   "alpha_q": 10,
   "alpha_a": 7,
   "beta": 2.5,
-  "likelihood": -154.59421956288
+  "likelihood": -151.84880826298246
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 11,
   "alpha_a": 1,
   "beta": 0.5,
-  "likelihood": -153.78581966738994
+  "likelihood": -149.43263427882206
 },
 {
   "questionerType": "explicit",
   "alpha_q": 11,
   "alpha_a": 1,
   "beta": 0.5,
-  "likelihood": -154.71208495090772
+  "likelihood": -151.78591605339489
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 11,
   "alpha_a": 1,
   "beta": 0.1,
-  "likelihood": -153.6870074397211
+  "likelihood": -149.31921717545845
 },
 {
   "questionerType": "explicit",
   "alpha_q": 11,
   "alpha_a": 1,
   "beta": 0.1,
-  "likelihood": -154.54126339030543
+  "likelihood": -151.70129090778806
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 11,
   "alpha_a": 1,
   "beta": 1.5,
-  "likelihood": -154.14302596714091
+  "likelihood": -149.8851506065602
 },
 {
   "questionerType": "explicit",
   "alpha_q": 11,
   "alpha_a": 1,
   "beta": 1.5,
-  "likelihood": -155.21852139657696
+  "likelihood": -152.0437037250917
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 11,
   "alpha_a": 1,
   "beta": 2,
-  "likelihood": -154.38825519754565
+  "likelihood": -150.21959315078675
 },
 {
   "questionerType": "explicit",
   "alpha_q": 11,
   "alpha_a": 1,
   "beta": 2,
-  "likelihood": -155.45694890372724
+  "likelihood": -152.16947208298333
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 11,
   "alpha_a": 1,
   "beta": 2.5,
-  "likelihood": -154.67602963891986
+  "likelihood": -150.61843585235204
 },
 {
   "questionerType": "explicit",
   "alpha_q": 11,
   "alpha_a": 1,
   "beta": 2.5,
-  "likelihood": -155.65152100093303
+  "likelihood": -152.27479328240355
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 11,
   "alpha_a": 2,
   "beta": 0.5,
-  "likelihood": -156.32891734654638
+  "likelihood": -150.72960275679017
 },
 {
   "questionerType": "explicit",
   "alpha_q": 11,
   "alpha_a": 2,
   "beta": 0.5,
-  "likelihood": -154.71208495090772
+  "likelihood": -151.78591605339489
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 11,
   "alpha_a": 2,
   "beta": 0.1,
-  "likelihood": -156.41656520519916
+  "likelihood": -150.76457547900773
 },
 {
   "questionerType": "explicit",
   "alpha_q": 11,
   "alpha_a": 2,
   "beta": 0.1,
-  "likelihood": -154.54126339030543
+  "likelihood": -151.70129090778806
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 11,
   "alpha_a": 2,
   "beta": 1.5,
-  "likelihood": -155.81085270279746
+  "likelihood": -150.4509767703065
 },
 {
   "questionerType": "explicit",
   "alpha_q": 11,
   "alpha_a": 2,
   "beta": 1.5,
-  "likelihood": -155.21852139657696
+  "likelihood": -152.0437037250917
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 11,
   "alpha_a": 2,
   "beta": 2,
-  "likelihood": -155.35166342036507
+  "likelihood": -150.17382694461844
 },
 {
   "questionerType": "explicit",
   "alpha_q": 11,
   "alpha_a": 2,
   "beta": 2,
-  "likelihood": -155.45694890372724
+  "likelihood": -152.16947208298333
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 11,
   "alpha_a": 2,
   "beta": 2.5,
-  "likelihood": -154.8391676507351
+  "likelihood": -149.8720570593258
 },
 {
   "questionerType": "explicit",
   "alpha_q": 11,
   "alpha_a": 2,
   "beta": 2.5,
-  "likelihood": -155.65152100093303
+  "likelihood": -152.27479328240355
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 11,
   "alpha_a": 3,
   "beta": 0.5,
-  "likelihood": -160.04524943329716
+  "likelihood": -153.2976994479979
 },
 {
   "questionerType": "explicit",
   "alpha_q": 11,
   "alpha_a": 3,
   "beta": 0.5,
-  "likelihood": -154.71208495090772
+  "likelihood": -151.78591605339489
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 11,
   "alpha_a": 3,
   "beta": 0.1,
-  "likelihood": -160.0586516579386
+  "likelihood": -153.25116278572793
 },
 {
   "questionerType": "explicit",
   "alpha_q": 11,
   "alpha_a": 3,
   "beta": 0.1,
-  "likelihood": -154.54126339030543
+  "likelihood": -151.70129090778806
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 11,
   "alpha_a": 3,
   "beta": 1.5,
-  "likelihood": -159.75955653056621
+  "likelihood": -153.32643168105682
 },
 {
   "questionerType": "explicit",
   "alpha_q": 11,
   "alpha_a": 3,
   "beta": 1.5,
-  "likelihood": -155.21852139657696
+  "likelihood": -152.0437037250917
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 11,
   "alpha_a": 3,
   "beta": 2,
-  "likelihood": -159.31901163967765
+  "likelihood": -153.17011321483466
 },
 {
   "questionerType": "explicit",
   "alpha_q": 11,
   "alpha_a": 3,
   "beta": 2,
-  "likelihood": -155.45694890372724
+  "likelihood": -152.16947208298333
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 11,
   "alpha_a": 3,
   "beta": 2.5,
-  "likelihood": -158.55308636634578
+  "likelihood": -152.77156060489688
 },
 {
   "questionerType": "explicit",
   "alpha_q": 11,
   "alpha_a": 3,
   "beta": 2.5,
-  "likelihood": -155.65152100093303
+  "likelihood": -152.27479328240355
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 11,
   "alpha_a": 4,
   "beta": 0.5,
-  "likelihood": -162.3706873592042
+  "likelihood": -154.6111052705449
 },
 {
   "questionerType": "explicit",
   "alpha_q": 11,
   "alpha_a": 4,
   "beta": 0.5,
-  "likelihood": -154.71208495090772
+  "likelihood": -151.78591605339489
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 11,
   "alpha_a": 4,
   "beta": 0.1,
-  "likelihood": -162.3058793240548
+  "likelihood": -154.5180730354937
 },
 {
   "questionerType": "explicit",
   "alpha_q": 11,
   "alpha_a": 4,
   "beta": 0.1,
-  "likelihood": -154.54126339030543
+  "likelihood": -151.70129090778806
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 11,
   "alpha_a": 4,
   "beta": 1.5,
-  "likelihood": -162.50836766600457
+  "likelihood": -154.93184095484622
 },
 {
   "questionerType": "explicit",
   "alpha_q": 11,
   "alpha_a": 4,
   "beta": 1.5,
-  "likelihood": -155.21852139657696
+  "likelihood": -152.0437037250917
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 11,
   "alpha_a": 4,
   "beta": 2,
-  "likelihood": -162.46984506518965
+  "likelihood": -155.10155823101402
 },
 {
   "questionerType": "explicit",
   "alpha_q": 11,
   "alpha_a": 4,
   "beta": 2,
-  "likelihood": -155.45694890372724
+  "likelihood": -152.16947208298333
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 11,
   "alpha_a": 4,
   "beta": 2.5,
-  "likelihood": -162.24006291277055
+  "likelihood": -155.21106190450956
 },
 {
   "questionerType": "explicit",
   "alpha_q": 11,
   "alpha_a": 4,
   "beta": 2.5,
-  "likelihood": -155.65152100093303
+  "likelihood": -152.27479328240355
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 11,
   "alpha_a": 5,
   "beta": 0.5,
-  "likelihood": -163.57271684740357
+  "likelihood": -155.1593053195773
 },
 {
   "questionerType": "explicit",
   "alpha_q": 11,
   "alpha_a": 5,
   "beta": 0.5,
-  "likelihood": -154.71208495090772
+  "likelihood": -151.78591605339489
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 11,
   "alpha_a": 5,
   "beta": 0.1,
-  "likelihood": -163.49081556151023
+  "likelihood": -155.07267348523862
 },
 {
   "questionerType": "explicit",
   "alpha_q": 11,
   "alpha_a": 5,
   "beta": 0.1,
-  "likelihood": -154.54126339030543
+  "likelihood": -151.70129090778806
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 11,
   "alpha_a": 5,
   "beta": 1.5,
-  "likelihood": -163.8598029307834
+  "likelihood": -155.49712594133916
 },
 {
   "questionerType": "explicit",
   "alpha_q": 11,
   "alpha_a": 5,
   "beta": 1.5,
-  "likelihood": -155.21852139657696
+  "likelihood": -152.0437037250917
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 11,
   "alpha_a": 5,
   "beta": 2,
-  "likelihood": -164.0210511008078
+  "likelihood": -155.7316285402939
 },
 {
   "questionerType": "explicit",
   "alpha_q": 11,
   "alpha_a": 5,
   "beta": 2,
-  "likelihood": -155.45694890372724
+  "likelihood": -152.16947208298333
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 11,
   "alpha_a": 5,
   "beta": 2.5,
-  "likelihood": -164.13971527750988
+  "likelihood": -155.99623875666444
 },
 {
   "questionerType": "explicit",
   "alpha_q": 11,
   "alpha_a": 5,
   "beta": 2.5,
-  "likelihood": -155.65152100093303
+  "likelihood": -152.27479328240355
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 11,
   "alpha_a": 6,
   "beta": 0.5,
-  "likelihood": -164.2216522678616
+  "likelihood": -155.4368233843675
 },
 {
   "questionerType": "explicit",
   "alpha_q": 11,
   "alpha_a": 6,
   "beta": 0.5,
-  "likelihood": -154.71208495090772
+  "likelihood": -151.78591605339489
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 11,
   "alpha_a": 6,
   "beta": 0.1,
-  "likelihood": -164.15336365829054
+  "likelihood": -155.36874498827586
 },
 {
   "questionerType": "explicit",
   "alpha_q": 11,
   "alpha_a": 6,
   "beta": 0.1,
-  "likelihood": -154.54126339030543
+  "likelihood": -151.70129090778806
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 11,
   "alpha_a": 6,
   "beta": 1.5,
-  "likelihood": -164.49383230344208
+  "likelihood": -155.7157601844176
 },
 {
   "questionerType": "explicit",
   "alpha_q": 11,
   "alpha_a": 6,
   "beta": 1.5,
-  "likelihood": -155.21852139657696
+  "likelihood": -152.0437037250917
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 11,
   "alpha_a": 6,
   "beta": 2,
-  "likelihood": -164.69466225965454
+  "likelihood": -155.92430924719244
 },
 {
   "questionerType": "explicit",
   "alpha_q": 11,
   "alpha_a": 6,
   "beta": 2,
-  "likelihood": -155.45694890372724
+  "likelihood": -152.16947208298333
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 11,
   "alpha_a": 6,
   "beta": 2.5,
-  "likelihood": -164.9277251305704
+  "likelihood": -156.17705361039074
 },
 {
   "questionerType": "explicit",
   "alpha_q": 11,
   "alpha_a": 6,
   "beta": 2.5,
-  "likelihood": -155.65152100093303
+  "likelihood": -152.27479328240355
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 11,
   "alpha_a": 7,
   "beta": 0.5,
-  "likelihood": -164.62142856043917
+  "likelihood": -155.61356522318516
 },
 {
   "questionerType": "explicit",
   "alpha_q": 11,
   "alpha_a": 7,
   "beta": 0.5,
-  "likelihood": -154.71208495090772
+  "likelihood": -151.78591605339489
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 11,
   "alpha_a": 7,
   "beta": 0.1,
-  "likelihood": -164.57621320265184
+  "likelihood": -155.5637080619724
 },
 {
   "questionerType": "explicit",
   "alpha_q": 11,
   "alpha_a": 7,
   "beta": 0.1,
-  "likelihood": -154.54126339030543
+  "likelihood": -151.70129090778806
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 11,
   "alpha_a": 7,
   "beta": 1.5,
-  "likelihood": -164.8154374976557
+  "likelihood": -155.82727673078924
 },
 {
   "questionerType": "explicit",
   "alpha_q": 11,
   "alpha_a": 7,
   "beta": 1.5,
-  "likelihood": -155.21852139657696
+  "likelihood": -152.0437037250917
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 11,
   "alpha_a": 7,
   "beta": 2,
-  "likelihood": -164.98386516357675
+  "likelihood": -155.9983367165668
 },
 {
   "questionerType": "explicit",
   "alpha_q": 11,
   "alpha_a": 7,
   "beta": 2,
-  "likelihood": -155.45694890372724
+  "likelihood": -152.16947208298333
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 11,
   "alpha_a": 7,
   "beta": 2.5,
-  "likelihood": -165.21655215588424
+  "likelihood": -156.21725642189233
 },
 {
   "questionerType": "explicit",
   "alpha_q": 11,
   "alpha_a": 7,
   "beta": 2.5,
-  "likelihood": -155.65152100093303
+  "likelihood": -152.27479328240355
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 12,
   "alpha_a": 1,
   "beta": 0.5,
-  "likelihood": -155.36441049462223
+  "likelihood": -150.32974324593874
 },
 {
   "questionerType": "explicit",
   "alpha_q": 12,
   "alpha_a": 1,
   "beta": 0.5,
-  "likelihood": -155.83446661444503
+  "likelihood": -152.31003617323253
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 12,
   "alpha_a": 1,
   "beta": 0.1,
-  "likelihood": -155.3282739601812
+  "likelihood": -150.2557639777052
 },
 {
   "questionerType": "explicit",
   "alpha_q": 12,
   "alpha_a": 1,
   "beta": 0.1,
-  "likelihood": -155.6960655587575
+  "likelihood": -152.23468252923786
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 12,
   "alpha_a": 1,
   "beta": 1.5,
-  "likelihood": -155.496723523485
+  "likelihood": -150.63554287836456
 },
 {
   "questionerType": "explicit",
   "alpha_q": 12,
   "alpha_a": 1,
   "beta": 1.5,
-  "likelihood": -156.23726105168103
+  "likelihood": -152.53725100771217
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 12,
   "alpha_a": 1,
   "beta": 2,
-  "likelihood": -155.61041747553574
+  "likelihood": -150.88229327201236
 },
 {
   "questionerType": "explicit",
   "alpha_q": 12,
   "alpha_a": 1,
   "beta": 2,
-  "likelihood": -156.423670376019
+  "likelihood": -152.64748319079322
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 12,
   "alpha_a": 1,
   "beta": 2.5,
-  "likelihood": -155.77692458250863
+  "likelihood": -151.20124710066628
 },
 {
   "questionerType": "explicit",
   "alpha_q": 12,
   "alpha_a": 1,
   "beta": 2.5,
-  "likelihood": -156.57476809885776
+  "likelihood": -152.73991427846485
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 12,
   "alpha_a": 2,
   "beta": 0.5,
-  "likelihood": -158.84577185423558
+  "likelihood": -152.4829959240666
 },
 {
   "questionerType": "explicit",
   "alpha_q": 12,
   "alpha_a": 2,
   "beta": 0.5,
-  "likelihood": -155.83446661444503
+  "likelihood": -152.31003617323253
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 12,
   "alpha_a": 2,
   "beta": 0.1,
-  "likelihood": -158.98971433705287
+  "likelihood": -152.54925194387326
 },
 {
   "questionerType": "explicit",
   "alpha_q": 12,
   "alpha_a": 2,
   "beta": 0.1,
-  "likelihood": -155.6960655587575
+  "likelihood": -152.23468252923786
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 12,
   "alpha_a": 2,
   "beta": 1.5,
-  "likelihood": -158.0770098727052
+  "likelihood": -152.04422380380015
 },
 {
   "questionerType": "explicit",
   "alpha_q": 12,
   "alpha_a": 2,
   "beta": 1.5,
-  "likelihood": -156.23726105168103
+  "likelihood": -152.53725100771217
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 12,
   "alpha_a": 2,
   "beta": 2,
-  "likelihood": -157.4116998230785
+  "likelihood": -151.6153673450415
 },
 {
   "questionerType": "explicit",
   "alpha_q": 12,
   "alpha_a": 2,
   "beta": 2,
-  "likelihood": -156.423670376019
+  "likelihood": -152.64748319079322
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 12,
   "alpha_a": 2,
   "beta": 2.5,
-  "likelihood": -156.63779882218597
+  "likelihood": -151.10338011751745
 },
 {
   "questionerType": "explicit",
   "alpha_q": 12,
   "alpha_a": 2,
   "beta": 2.5,
-  "likelihood": -156.57476809885776
+  "likelihood": -152.73991427846485
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 12,
   "alpha_a": 3,
   "beta": 0.5,
-  "likelihood": -163.0636066330545
+  "likelihood": -155.40304503925557
 },
 {
   "questionerType": "explicit",
   "alpha_q": 12,
   "alpha_a": 3,
   "beta": 0.5,
-  "likelihood": -155.83446661444503
+  "likelihood": -152.31003617323253
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 12,
   "alpha_a": 3,
   "beta": 0.1,
-  "likelihood": -163.09673138246873
+  "likelihood": -155.3574582105537
 },
 {
   "questionerType": "explicit",
   "alpha_q": 12,
   "alpha_a": 3,
   "beta": 0.1,
-  "likelihood": -155.6960655587575
+  "likelihood": -152.23468252923786
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 12,
   "alpha_a": 3,
   "beta": 1.5,
-  "likelihood": -162.69802855803357
+  "likelihood": -155.42921581084283
 },
 {
   "questionerType": "explicit",
   "alpha_q": 12,
   "alpha_a": 3,
   "beta": 1.5,
-  "likelihood": -156.23726105168103
+  "likelihood": -152.53725100771217
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 12,
   "alpha_a": 3,
   "beta": 2,
-  "likelihood": -162.18826100859053
+  "likelihood": -155.26437116793747
 },
 {
   "questionerType": "explicit",
   "alpha_q": 12,
   "alpha_a": 3,
   "beta": 2,
-  "likelihood": -156.423670376019
+  "likelihood": -152.64748319079322
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 12,
   "alpha_a": 3,
   "beta": 2.5,
-  "likelihood": -161.3098125784725
+  "likelihood": -154.83096783351124
 },
 {
   "questionerType": "explicit",
   "alpha_q": 12,
   "alpha_a": 3,
   "beta": 2.5,
-  "likelihood": -156.57476809885776
+  "likelihood": -152.73991427846485
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 12,
   "alpha_a": 4,
   "beta": 0.5,
-  "likelihood": -165.45987032984328
+  "likelihood": -156.69717522164825
 },
 {
   "questionerType": "explicit",
   "alpha_q": 12,
   "alpha_a": 4,
   "beta": 0.5,
-  "likelihood": -155.83446661444503
+  "likelihood": -152.31003617323253
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 12,
   "alpha_a": 4,
   "beta": 0.1,
-  "likelihood": -165.4053777616338
+  "likelihood": -156.6041561571113
 },
 {
   "questionerType": "explicit",
   "alpha_q": 12,
   "alpha_a": 4,
   "beta": 0.1,
-  "likelihood": -155.6960655587575
+  "likelihood": -152.23468252923786
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 12,
   "alpha_a": 4,
   "beta": 1.5,
-  "likelihood": -165.57127329807614
+  "likelihood": -157.03049268809735
 },
 {
   "questionerType": "explicit",
   "alpha_q": 12,
   "alpha_a": 4,
   "beta": 1.5,
-  "likelihood": -156.23726105168103
+  "likelihood": -152.53725100771217
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 12,
   "alpha_a": 4,
   "beta": 2,
-  "likelihood": -165.52530853553574
+  "likelihood": -157.222730551971
 },
 {
   "questionerType": "explicit",
   "alpha_q": 12,
   "alpha_a": 4,
   "beta": 2,
-  "likelihood": -156.423670376019
+  "likelihood": -152.64748319079322
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 12,
   "alpha_a": 4,
   "beta": 2.5,
-  "likelihood": -165.2943113353911
+  "likelihood": -157.37348649715227
 },
 {
   "questionerType": "explicit",
   "alpha_q": 12,
   "alpha_a": 4,
   "beta": 2.5,
-  "likelihood": -156.57476809885776
+  "likelihood": -152.73991427846485
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 12,
   "alpha_a": 5,
   "beta": 0.5,
-  "likelihood": -166.62047433500877
+  "likelihood": -157.1797001443564
 },
 {
   "questionerType": "explicit",
   "alpha_q": 12,
   "alpha_a": 5,
   "beta": 0.5,
-  "likelihood": -155.83446661444503
+  "likelihood": -152.31003617323253
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 12,
   "alpha_a": 5,
   "beta": 0.1,
-  "likelihood": -166.54843859789028
+  "likelihood": -157.0960822045486
 },
 {
   "questionerType": "explicit",
   "alpha_q": 12,
   "alpha_a": 5,
   "beta": 0.1,
-  "likelihood": -155.6960655587575
+  "likelihood": -152.23468252923786
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 12,
   "alpha_a": 5,
   "beta": 1.5,
-  "likelihood": -166.88219433357185
+  "likelihood": -157.5136917276466
 },
 {
   "questionerType": "explicit",
   "alpha_q": 12,
   "alpha_a": 5,
   "beta": 1.5,
-  "likelihood": -156.23726105168103
+  "likelihood": -152.53725100771217
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 12,
   "alpha_a": 5,
   "beta": 2,
-  "likelihood": -167.03630946820846
+  "likelihood": -157.7540142244665
 },
 {
   "questionerType": "explicit",
   "alpha_q": 12,
   "alpha_a": 5,
   "beta": 2,
-  "likelihood": -156.423670376019
+  "likelihood": -152.64748319079322
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 12,
   "alpha_a": 5,
   "beta": 2.5,
-  "likelihood": -167.15842478613942
+  "likelihood": -158.0372604975925
 },
 {
   "questionerType": "explicit",
   "alpha_q": 12,
   "alpha_a": 5,
   "beta": 2.5,
-  "likelihood": -156.57476809885776
+  "likelihood": -152.73991427846485
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 12,
   "alpha_a": 6,
   "beta": 0.5,
-  "likelihood": -167.2200964456133
+  "likelihood": -157.40858220817293
 },
 {
   "questionerType": "explicit",
   "alpha_q": 12,
   "alpha_a": 6,
   "beta": 0.5,
-  "likelihood": -155.83446661444503
+  "likelihood": -152.31003617323253
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 12,
   "alpha_a": 6,
   "beta": 0.1,
-  "likelihood": -167.1614779235274
+  "likelihood": -157.3442702855674
 },
 {
   "questionerType": "explicit",
   "alpha_q": 12,
   "alpha_a": 6,
   "beta": 0.1,
-  "likelihood": -155.6960655587575
+  "likelihood": -152.23468252923786
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 12,
   "alpha_a": 6,
   "beta": 1.5,
-  "likelihood": -167.4657289190592
+  "likelihood": -157.6781799236076
 },
 {
   "questionerType": "explicit",
   "alpha_q": 12,
   "alpha_a": 6,
   "beta": 1.5,
-  "likelihood": -156.23726105168103
+  "likelihood": -152.53725100771217
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 12,
   "alpha_a": 6,
   "beta": 2,
-  "likelihood": -167.65450214341462
+  "likelihood": -157.88399231570818
 },
 {
   "questionerType": "explicit",
   "alpha_q": 12,
   "alpha_a": 6,
   "beta": 2,
-  "likelihood": -156.423670376019
+  "likelihood": -152.64748319079322
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 12,
   "alpha_a": 6,
   "beta": 2.5,
-  "likelihood": -167.87885407251323
+  "likelihood": -158.1372311949676
 },
 {
   "questionerType": "explicit",
   "alpha_q": 12,
   "alpha_a": 6,
   "beta": 2.5,
-  "likelihood": -156.57476809885776
+  "likelihood": -152.73991427846485
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 12,
   "alpha_a": 7,
   "beta": 0.5,
-  "likelihood": -167.57961816174387
+  "likelihood": -157.55050283032242
 },
 {
   "questionerType": "explicit",
   "alpha_q": 12,
   "alpha_a": 7,
   "beta": 0.5,
-  "likelihood": -155.83446661444503
+  "likelihood": -152.31003617323253
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 12,
   "alpha_a": 7,
   "beta": 0.1,
-  "likelihood": -167.54339950419597
+  "likelihood": -157.50409496040254
 },
 {
   "questionerType": "explicit",
   "alpha_q": 12,
   "alpha_a": 7,
   "beta": 0.1,
-  "likelihood": -155.6960655587575
+  "likelihood": -152.23468252923786
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 12,
   "alpha_a": 7,
   "beta": 1.5,
-  "likelihood": -167.7500688325125
+  "likelihood": -157.7564364511271
 },
 {
   "questionerType": "explicit",
   "alpha_q": 12,
   "alpha_a": 7,
   "beta": 1.5,
-  "likelihood": -156.23726105168103
+  "likelihood": -152.53725100771217
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 12,
   "alpha_a": 7,
   "beta": 2,
-  "likelihood": -167.90703490717436
+  "likelihood": -157.9250785960427
 },
 {
   "questionerType": "explicit",
   "alpha_q": 12,
   "alpha_a": 7,
   "beta": 2,
-  "likelihood": -156.423670376019
+  "likelihood": -152.64748319079322
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 12,
   "alpha_a": 7,
   "beta": 2.5,
-  "likelihood": -168.12713487859943
+  "likelihood": -158.14158335678638
 },
 {
   "questionerType": "explicit",
   "alpha_q": 12,
   "alpha_a": 7,
   "beta": 2.5,
-  "likelihood": -156.57476809885776
+  "likelihood": -152.73991427846485
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 13,
   "alpha_a": 1,
   "beta": 0.5,
-  "likelihood": -156.83995050816662
+  "likelihood": -151.2730025834176
 },
 {
   "questionerType": "explicit",
   "alpha_q": 13,
   "alpha_a": 1,
   "beta": 0.5,
-  "likelihood": -156.8378327025925
+  "likelihood": -152.8665512212166
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 13,
   "alpha_a": 1,
   "beta": 0.1,
-  "likelihood": -156.86158114084867
+  "likelihood": -151.23743619063765
 },
 {
   "questionerType": "explicit",
   "alpha_q": 13,
   "alpha_a": 1,
   "beta": 0.1,
-  "likelihood": -156.7273683933205
+  "likelihood": -152.799951443846
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 13,
   "alpha_a": 1,
   "beta": 1.5,
-  "likelihood": -156.76597708240485
+  "likelihood": -151.43610913868108
 },
 {
   "questionerType": "explicit",
   "alpha_q": 13,
   "alpha_a": 1,
   "beta": 1.5,
-  "likelihood": -157.15760248542796
+  "likelihood": -153.0680126701499
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 13,
   "alpha_a": 1,
   "beta": 2,
-  "likelihood": -156.75908723197037
+  "likelihood": -151.59725918955803
 },
 {
   "questionerType": "explicit",
   "alpha_q": 13,
   "alpha_a": 1,
   "beta": 2,
-  "likelihood": -157.30564439491084
+  "likelihood": -153.16672186068263
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 13,
   "alpha_a": 1,
   "beta": 2.5,
-  "likelihood": -156.8142766715991
+  "likelihood": -151.83781145025623
 },
 {
   "questionerType": "explicit",
   "alpha_q": 13,
   "alpha_a": 1,
   "beta": 2.5,
-  "likelihood": -157.4263080550115
+  "likelihood": -153.25035686892227
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 13,
   "alpha_a": 2,
   "beta": 0.5,
-  "likelihood": -161.1706627154702
+  "likelihood": -154.16901977557777
 },
 {
   "questionerType": "explicit",
   "alpha_q": 13,
   "alpha_a": 2,
   "beta": 0.5,
-  "likelihood": -156.8378327025925
+  "likelihood": -152.8665512212166
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 13,
   "alpha_a": 2,
   "beta": 0.1,
-  "likelihood": -161.35853869025246
+  "likelihood": -154.25857331884677
 },
 {
   "questionerType": "explicit",
   "alpha_q": 13,
   "alpha_a": 2,
   "beta": 0.1,
-  "likelihood": -156.7273683933205
+  "likelihood": -152.799951443846
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 13,
   "alpha_a": 2,
   "beta": 1.5,
-  "likelihood": -160.20386851067832
+  "likelihood": -153.60868934056785
 },
 {
   "questionerType": "explicit",
   "alpha_q": 13,
   "alpha_a": 2,
   "beta": 1.5,
-  "likelihood": -157.15760248542796
+  "likelihood": -153.0680126701499
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 13,
   "alpha_a": 2,
   "beta": 2,
-  "likelihood": -159.36925742881644
+  "likelihood": -153.05836384293332
 },
 {
   "questionerType": "explicit",
   "alpha_q": 13,
   "alpha_a": 2,
   "beta": 2,
-  "likelihood": -157.30564439491084
+  "likelihood": -153.16672186068263
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 13,
   "alpha_a": 2,
   "beta": 2.5,
-  "likelihood": -158.37025340315046
+  "likelihood": -152.3677902182033
 },
 {
   "questionerType": "explicit",
   "alpha_q": 13,
   "alpha_a": 2,
   "beta": 2.5,
-  "likelihood": -157.4263080550115
+  "likelihood": -153.25035686892227
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 13,
   "alpha_a": 3,
   "beta": 0.5,
-  "likelihood": -165.70926779165669
+  "likelihood": -157.2730555131849
 },
 {
   "questionerType": "explicit",
   "alpha_q": 13,
   "alpha_a": 3,
   "beta": 0.5,
-  "likelihood": -156.8378327025925
+  "likelihood": -152.8665512212166
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 13,
   "alpha_a": 3,
   "beta": 0.1,
-  "likelihood": -165.75474562417992
+  "likelihood": -157.2270051538251
 },
 {
   "questionerType": "explicit",
   "alpha_q": 13,
   "alpha_a": 3,
   "beta": 0.1,
-  "likelihood": -156.7273683933205
+  "likelihood": -152.799951443846
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 13,
   "alpha_a": 3,
   "beta": 1.5,
-  "likelihood": -165.30158752374072
+  "likelihood": -157.3112967840457
 },
 {
   "questionerType": "explicit",
   "alpha_q": 13,
   "alpha_a": 3,
   "beta": 1.5,
-  "likelihood": -157.15760248542796
+  "likelihood": -153.0680126701499
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 13,
   "alpha_a": 3,
   "beta": 2,
-  "likelihood": -164.75958557432344
+  "likelihood": -157.15921818067335
 },
 {
   "questionerType": "explicit",
   "alpha_q": 13,
   "alpha_a": 3,
   "beta": 2,
-  "likelihood": -157.30564439491084
+  "likelihood": -153.16672186068263
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 13,
   "alpha_a": 3,
   "beta": 2.5,
-  "likelihood": -163.823784503694
+  "likelihood": -156.72974149308382
 },
 {
   "questionerType": "explicit",
   "alpha_q": 13,
   "alpha_a": 3,
   "beta": 2.5,
-  "likelihood": -157.4263080550115
+  "likelihood": -153.25035686892227
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 13,
   "alpha_a": 4,
   "beta": 0.5,
-  "likelihood": -168.07253067869817
+  "likelihood": -158.47778413673944
 },
 {
   "questionerType": "explicit",
   "alpha_q": 13,
   "alpha_a": 4,
   "beta": 0.5,
-  "likelihood": -156.8378327025925
+  "likelihood": -152.8665512212166
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 13,
   "alpha_a": 4,
   "beta": 0.1,
-  "likelihood": -168.02629338736998
+  "likelihood": -158.3873566844383
 },
 {
   "questionerType": "explicit",
   "alpha_q": 13,
   "alpha_a": 4,
   "beta": 0.1,
-  "likelihood": -156.7273683933205
+  "likelihood": -152.799951443846
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 13,
   "alpha_a": 4,
   "beta": 1.5,
-  "likelihood": -168.16726216848403
+  "likelihood": -158.81530499587262
 },
 {
   "questionerType": "explicit",
   "alpha_q": 13,
   "alpha_a": 4,
   "beta": 1.5,
-  "likelihood": -157.15760248542796
+  "likelihood": -153.0680126701499
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 13,
   "alpha_a": 4,
   "beta": 2,
-  "likelihood": -168.12433009183871
+  "likelihood": -159.02718384891298
 },
 {
   "questionerType": "explicit",
   "alpha_q": 13,
   "alpha_a": 4,
   "beta": 2,
-  "likelihood": -157.30564439491084
+  "likelihood": -153.16672186068263
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 13,
   "alpha_a": 4,
   "beta": 2.5,
-  "likelihood": -167.91151178012697
+  "likelihood": -159.2213965910975
 },
 {
   "questionerType": "explicit",
   "alpha_q": 13,
   "alpha_a": 4,
   "beta": 2.5,
-  "likelihood": -157.4263080550115
+  "likelihood": -153.25035686892227
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 13,
   "alpha_a": 5,
   "beta": 0.5,
-  "likelihood": -169.15244939187392
+  "likelihood": -158.8778766261608
 },
 {
   "questionerType": "explicit",
   "alpha_q": 13,
   "alpha_a": 5,
   "beta": 0.5,
-  "likelihood": -156.8378327025925
+  "likelihood": -152.8665512212166
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 13,
   "alpha_a": 5,
   "beta": 0.1,
-  "likelihood": -169.08963534751658
+  "likelihood": -158.80023198499117
 },
 {
   "questionerType": "explicit",
   "alpha_q": 13,
   "alpha_a": 5,
   "beta": 0.1,
-  "likelihood": -156.7273683933205
+  "likelihood": -152.799951443846
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 13,
   "alpha_a": 5,
   "beta": 1.5,
-  "likelihood": -169.38865161853383
+  "likelihood": -159.19506885933984
 },
 {
   "questionerType": "explicit",
   "alpha_q": 13,
   "alpha_a": 5,
   "beta": 1.5,
-  "likelihood": -157.15760248542796
+  "likelihood": -153.0680126701499
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 13,
   "alpha_a": 5,
   "beta": 2,
-  "likelihood": -169.53473606925652
+  "likelihood": -159.43152499200062
 },
 {
   "questionerType": "explicit",
   "alpha_q": 13,
   "alpha_a": 5,
   "beta": 2,
-  "likelihood": -157.30564439491084
+  "likelihood": -153.16672186068263
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 13,
   "alpha_a": 5,
   "beta": 2.5,
-  "likelihood": -169.66041406396502
+  "likelihood": -159.72269538114074
 },
 {
   "questionerType": "explicit",
   "alpha_q": 13,
   "alpha_a": 5,
   "beta": 2.5,
-  "likelihood": -157.4263080550115
+  "likelihood": -153.25035686892227
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 13,
   "alpha_a": 6,
   "beta": 0.5,
-  "likelihood": -169.68995100150767
+  "likelihood": -159.05877316855506
 },
 {
   "questionerType": "explicit",
   "alpha_q": 13,
   "alpha_a": 6,
   "beta": 0.5,
-  "likelihood": -156.8378327025925
+  "likelihood": -152.8665512212166
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 13,
   "alpha_a": 6,
   "beta": 0.1,
-  "likelihood": -169.64021766437912
+  "likelihood": -159.00053165046933
 },
 {
   "questionerType": "explicit",
   "alpha_q": 13,
   "alpha_a": 6,
   "beta": 0.1,
-  "likelihood": -156.7273683933205
+  "likelihood": -152.799951443846
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 13,
   "alpha_a": 6,
   "beta": 1.5,
-  "likelihood": -169.90751771902197
+  "likelihood": -159.30728366756503
 },
 {
   "questionerType": "explicit",
   "alpha_q": 13,
   "alpha_a": 6,
   "beta": 1.5,
-  "likelihood": -157.15760248542796
+  "likelihood": -153.0680126701499
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 13,
   "alpha_a": 6,
   "beta": 2,
-  "likelihood": -170.0806322726795
+  "likelihood": -159.50011332880115
 },
 {
   "questionerType": "explicit",
   "alpha_q": 13,
   "alpha_a": 6,
   "beta": 2,
-  "likelihood": -157.30564439491084
+  "likelihood": -153.16672186068263
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 13,
   "alpha_a": 6,
   "beta": 2.5,
-  "likelihood": -170.29131361416376
+  "likelihood": -159.7409068829293
 },
 {
   "questionerType": "explicit",
   "alpha_q": 13,
   "alpha_a": 6,
   "beta": 2.5,
-  "likelihood": -157.4263080550115
+  "likelihood": -153.25035686892227
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 13,
   "alpha_a": 7,
   "beta": 0.5,
-  "likelihood": -170.00566098540472
+  "likelihood": -159.1713524601131
 },
 {
   "questionerType": "explicit",
   "alpha_q": 13,
   "alpha_a": 7,
   "beta": 0.5,
-  "likelihood": -156.8378327025925
+  "likelihood": -152.8665512212166
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 13,
   "alpha_a": 7,
   "beta": 0.1,
-  "likelihood": -169.97707296328394
+  "likelihood": -159.12982259454728
 },
 {
   "questionerType": "explicit",
   "alpha_q": 13,
   "alpha_a": 7,
   "beta": 0.1,
-  "likelihood": -156.7273683933205
+  "likelihood": -152.799951443846
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 13,
   "alpha_a": 7,
   "beta": 1.5,
-  "likelihood": -170.15216370841688
+  "likelihood": -159.36047525922197
 },
 {
   "questionerType": "explicit",
   "alpha_q": 13,
   "alpha_a": 7,
   "beta": 1.5,
-  "likelihood": -157.15760248542796
+  "likelihood": -153.0680126701499
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 13,
   "alpha_a": 7,
   "beta": 2,
-  "likelihood": -170.2938773616006
+  "likelihood": -159.51748768323898
 },
 {
   "questionerType": "explicit",
   "alpha_q": 13,
   "alpha_a": 7,
   "beta": 2,
-  "likelihood": -157.30564439491084
+  "likelihood": -153.16672186068263
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 13,
   "alpha_a": 7,
   "beta": 2.5,
-  "likelihood": -170.49539296174817
+  "likelihood": -159.71886391555873
 },
 {
   "questionerType": "explicit",
   "alpha_q": 13,
   "alpha_a": 7,
   "beta": 2.5,
-  "likelihood": -157.4263080550115
+  "likelihood": -153.25035686892227
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 14,
   "alpha_a": 1,
   "beta": 0.5,
-  "likelihood": -158.24136657770228
+  "likelihood": -152.2420950890243
 },
 {
   "questionerType": "explicit",
   "alpha_q": 14,
   "alpha_a": 1,
   "beta": 0.5,
-  "likelihood": -157.76634646288957
+  "likelihood": -153.45627722565038
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 14,
   "alpha_a": 1,
   "beta": 0.1,
-  "likelihood": -158.31360300851858
+  "likelihood": -152.24164628375783
 },
 {
   "questionerType": "explicit",
   "alpha_q": 14,
   "alpha_a": 1,
   "beta": 0.1,
-  "likelihood": -157.67701056512752
+  "likelihood": -153.39647444145746
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 14,
   "alpha_a": 1,
   "beta": 1.5,
-  "likelihood": -157.9854475258602
+  "likelihood": -152.27385381864298
 },
 {
   "questionerType": "explicit",
   "alpha_q": 14,
   "alpha_a": 1,
   "beta": 1.5,
-  "likelihood": -158.0269291845368
+  "likelihood": -153.63938657478823
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 14,
   "alpha_a": 1,
   "beta": 2,
-  "likelihood": -157.87091986910167
+  "likelihood": -152.35527303359405
 },
 {
   "questionerType": "explicit",
   "alpha_q": 14,
   "alpha_a": 1,
   "beta": 2,
-  "likelihood": -158.14952862224376
+  "likelihood": -153.73075949063966
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 14,
   "alpha_a": 1,
   "beta": 2.5,
-  "likelihood": -157.82582064413208
+  "likelihood": -152.52210381024162
 },
 {
   "questionerType": "explicit",
   "alpha_q": 14,
   "alpha_a": 1,
   "beta": 2.5,
-  "likelihood": -158.25097433561342
+  "likelihood": -153.8092561644375
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 14,
   "alpha_a": 2,
   "beta": 0.5,
-  "likelihood": -163.30595358762193
+  "likelihood": -155.74422091363525
 },
 {
   "questionerType": "explicit",
   "alpha_q": 14,
   "alpha_a": 2,
   "beta": 0.5,
-  "likelihood": -157.76634646288957
+  "likelihood": -153.45627722565038
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 14,
   "alpha_a": 2,
   "beta": 0.1,
-  "likelihood": -163.52494508459952
+  "likelihood": -155.848852955496
 },
 {
   "questionerType": "explicit",
   "alpha_q": 14,
   "alpha_a": 2,
   "beta": 0.1,
-  "likelihood": -157.67701056512752
+  "likelihood": -153.39647444145746
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 14,
   "alpha_a": 2,
   "beta": 1.5,
-  "likelihood": -162.19559954209862
+  "likelihood": -155.10249528481194
 },
 {
   "questionerType": "explicit",
   "alpha_q": 14,
   "alpha_a": 2,
   "beta": 1.5,
-  "likelihood": -158.0269291845368
+  "likelihood": -153.63938657478823
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 14,
   "alpha_a": 2,
   "beta": 2,
-  "likelihood": -161.23087913208212
+  "likelihood": -154.46358760213636
 },
 {
   "questionerType": "explicit",
   "alpha_q": 14,
   "alpha_a": 2,
   "beta": 2,
-  "likelihood": -158.14952862224376
+  "likelihood": -153.73075949063966
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 14,
   "alpha_a": 2,
   "beta": 2.5,
-  "likelihood": -160.0475879530032
+  "likelihood": -153.63133174576546
 },
 {
   "questionerType": "explicit",
   "alpha_q": 14,
   "alpha_a": 2,
   "beta": 2.5,
-  "likelihood": -158.25097433561342
+  "likelihood": -153.8092561644375
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 14,
   "alpha_a": 3,
   "beta": 0.5,
-  "likelihood": -167.999097179179
+  "likelihood": -158.89148364249695
 },
 {
   "questionerType": "explicit",
   "alpha_q": 14,
   "alpha_a": 3,
   "beta": 0.5,
-  "likelihood": -157.76634646288957
+  "likelihood": -153.45627722565038
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 14,
   "alpha_a": 3,
   "beta": 0.1,
-  "likelihood": -168.05062470291995
+  "likelihood": -158.84397181078117
 },
 {
   "questionerType": "explicit",
   "alpha_q": 14,
   "alpha_a": 3,
   "beta": 0.1,
-  "likelihood": -157.67701056512752
+  "likelihood": -153.39647444145746
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 14,
   "alpha_a": 3,
   "beta": 1.5,
-  "likelihood": -167.5806412920183
+  "likelihood": -158.9521779226675
 },
 {
   "questionerType": "explicit",
   "alpha_q": 14,
   "alpha_a": 3,
   "beta": 1.5,
-  "likelihood": -158.0269291845368
+  "likelihood": -153.63938657478823
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 14,
   "alpha_a": 3,
   "beta": 2,
-  "likelihood": -167.03704148980535
+  "likelihood": -158.82853142163182
 },
 {
   "questionerType": "explicit",
   "alpha_q": 14,
   "alpha_a": 3,
   "beta": 2,
-  "likelihood": -158.14952862224376
+  "likelihood": -153.73075949063966
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 14,
   "alpha_a": 3,
   "beta": 2.5,
-  "likelihood": -166.09093022136253
+  "likelihood": -158.43318039025218
 },
 {
   "questionerType": "explicit",
   "alpha_q": 14,
   "alpha_a": 3,
   "beta": 2.5,
-  "likelihood": -158.25097433561342
+  "likelihood": -153.8092561644375
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 14,
   "alpha_a": 4,
   "beta": 0.5,
-  "likelihood": -170.25394668809517
+  "likelihood": -159.96436946038705
 },
 {
   "questionerType": "explicit",
   "alpha_q": 14,
   "alpha_a": 4,
   "beta": 0.5,
-  "likelihood": -157.76634646288957
+  "likelihood": -153.45627722565038
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 14,
   "alpha_a": 4,
   "beta": 0.1,
-  "likelihood": -170.21429513055855
+  "likelihood": -159.87841715533048
 },
 {
   "questionerType": "explicit",
   "alpha_q": 14,
   "alpha_a": 4,
   "beta": 0.1,
-  "likelihood": -157.67701056512752
+  "likelihood": -153.39647444145746
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 14,
   "alpha_a": 4,
   "beta": 1.5,
-  "likelihood": -170.3390646614975
+  "likelihood": -160.29942302927333
 },
 {
   "questionerType": "explicit",
   "alpha_q": 14,
   "alpha_a": 4,
   "beta": 1.5,
-  "likelihood": -158.0269291845368
+  "likelihood": -153.63938657478823
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 14,
   "alpha_a": 4,
   "beta": 2,
-  "likelihood": -170.30623231018114
+  "likelihood": -160.52763340533784
 },
 {
   "questionerType": "explicit",
   "alpha_q": 14,
   "alpha_a": 4,
   "beta": 2,
-  "likelihood": -158.14952862224376
+  "likelihood": -153.73075949063966
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 14,
   "alpha_a": 4,
   "beta": 2.5,
-  "likelihood": -170.12427776035986
+  "likelihood": -160.76421883532774
 },
 {
   "questionerType": "explicit",
   "alpha_q": 14,
   "alpha_a": 4,
   "beta": 2.5,
-  "likelihood": -158.25097433561342
+  "likelihood": -153.8092561644375
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 14,
   "alpha_a": 5,
   "beta": 0.5,
-  "likelihood": -171.2314355736794
+  "likelihood": -160.2778351416646
 },
 {
   "questionerType": "explicit",
   "alpha_q": 14,
   "alpha_a": 5,
   "beta": 0.5,
-  "likelihood": -157.76634646288957
+  "likelihood": -153.45627722565038
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 14,
   "alpha_a": 5,
   "beta": 0.1,
-  "likelihood": -171.17737810186767
+  "likelihood": -160.20825778795307
 },
 {
   "questionerType": "explicit",
   "alpha_q": 14,
   "alpha_a": 5,
   "beta": 0.1,
-  "likelihood": -157.67701056512752
+  "likelihood": -153.39647444145746
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 14,
   "alpha_a": 5,
   "beta": 1.5,
-  "likelihood": -171.44206531357383
+  "likelihood": -160.56904746001297
 },
 {
   "questionerType": "explicit",
   "alpha_q": 14,
   "alpha_a": 5,
   "beta": 1.5,
-  "likelihood": -158.0269291845368
+  "likelihood": -153.63938657478823
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 14,
   "alpha_a": 5,
   "beta": 2,
-  "likelihood": -171.57956181044176
+  "likelihood": -160.79475265191485
 },
 {
   "questionerType": "explicit",
   "alpha_q": 14,
   "alpha_a": 5,
   "beta": 2,
-  "likelihood": -158.14952862224376
+  "likelihood": -153.73075949063966
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 14,
   "alpha_a": 5,
   "beta": 2.5,
-  "likelihood": -171.70865439868078
+  "likelihood": -161.08592229964952
 },
 {
   "questionerType": "explicit",
   "alpha_q": 14,
   "alpha_a": 5,
   "beta": 2.5,
-  "likelihood": -158.25097433561342
+  "likelihood": -153.8092561644375
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 14,
   "alpha_a": 6,
   "beta": 0.5,
-  "likelihood": -171.7033290470028
+  "likelihood": -160.41657221327563
 },
 {
   "questionerType": "explicit",
   "alpha_q": 14,
   "alpha_a": 6,
   "beta": 0.5,
-  "likelihood": -157.76634646288957
+  "likelihood": -153.45627722565038
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 14,
   "alpha_a": 6,
   "beta": 0.1,
-  "likelihood": -171.66214837944392
+  "likelihood": -160.3661427629934
 },
 {
   "questionerType": "explicit",
   "alpha_q": 14,
   "alpha_a": 6,
   "beta": 0.1,
-  "likelihood": -157.67701056512752
+  "likelihood": -153.39647444145746
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 14,
   "alpha_a": 6,
   "beta": 1.5,
-  "likelihood": -171.89123519177238
+  "likelihood": -160.6353334233838
 },
 {
   "questionerType": "explicit",
   "alpha_q": 14,
   "alpha_a": 6,
   "beta": 1.5,
-  "likelihood": -158.0269291845368
+  "likelihood": -153.63938657478823
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 14,
   "alpha_a": 6,
   "beta": 2,
-  "likelihood": -172.04631700819857
+  "likelihood": -160.80798978047505
 },
 {
   "questionerType": "explicit",
   "alpha_q": 14,
   "alpha_a": 6,
   "beta": 2,
-  "likelihood": -158.14952862224376
+  "likelihood": -153.73075949063966
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 14,
   "alpha_a": 6,
   "beta": 2.5,
-  "likelihood": -172.2405052722536
+  "likelihood": -161.0276765084643
 },
 {
   "questionerType": "explicit",
   "alpha_q": 14,
   "alpha_a": 6,
   "beta": 2.5,
-  "likelihood": -158.25097433561342
+  "likelihood": -153.8092561644375
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 14,
   "alpha_a": 7,
   "beta": 0.5,
-  "likelihood": -171.97741585375817
+  "likelihood": -160.50778653898416
 },
 {
   "questionerType": "explicit",
   "alpha_q": 14,
   "alpha_a": 7,
   "beta": 0.5,
-  "likelihood": -157.76634646288957
+  "likelihood": -153.45627722565038
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 14,
   "alpha_a": 7,
   "beta": 0.1,
-  "likelihood": -171.95594095859764
+  "likelihood": -160.47237920656002
 },
 {
   "questionerType": "explicit",
   "alpha_q": 14,
   "alpha_a": 7,
   "beta": 0.1,
-  "likelihood": -157.67701056512752
+  "likelihood": -153.39647444145746
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 14,
   "alpha_a": 7,
   "beta": 1.5,
-  "likelihood": -172.0982975600017
+  "likelihood": -160.67268542926058
 },
 {
   "questionerType": "explicit",
   "alpha_q": 14,
   "alpha_a": 7,
   "beta": 1.5,
-  "likelihood": -158.0269291845368
+  "likelihood": -153.63938657478823
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 14,
   "alpha_a": 7,
   "beta": 2,
-  "likelihood": -172.22173852845827
+  "likelihood": -160.81106867761054
 },
 {
   "questionerType": "explicit",
   "alpha_q": 14,
   "alpha_a": 7,
   "beta": 2,
-  "likelihood": -158.14952862224376
+  "likelihood": -153.73075949063966
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 14,
   "alpha_a": 7,
   "beta": 2.5,
-  "likelihood": -172.4008823569464
+  "likelihood": -160.988393438274
 },
 {
   "questionerType": "explicit",
   "alpha_q": 14,
   "alpha_a": 7,
   "beta": 2.5,
-  "likelihood": -158.25097433561342
+  "likelihood": -153.8092561644375
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 15,
   "alpha_a": 1,
   "beta": 0.5,
-  "likelihood": -159.58864098757894
+  "likelihood": -153.22042954669513
 },
 {
   "questionerType": "explicit",
   "alpha_q": 15,
   "alpha_a": 1,
   "beta": 0.5,
-  "likelihood": -158.65538941458064
+  "likelihood": -154.08019674503595
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 15,
   "alpha_a": 1,
   "beta": 0.1,
-  "likelihood": -159.70406941724065
+  "likelihood": -153.25072645924
 },
 {
   "questionerType": "explicit",
   "alpha_q": 15,
   "alpha_a": 1,
   "beta": 0.1,
-  "likelihood": -158.58074391364343
+  "likelihood": -154.0251436782889
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 15,
   "alpha_a": 1,
   "beta": 1.5,
-  "likelihood": -159.17517281483475
+  "likelihood": -153.13576218778522
 },
 {
   "questionerType": "explicit",
   "alpha_q": 15,
   "alpha_a": 1,
   "beta": 1.5,
-  "likelihood": -158.8769455753587
+  "likelihood": -154.2514088202633
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 15,
   "alpha_a": 1,
   "beta": 2,
-  "likelihood": -158.9655727795756
+  "likelihood": -153.14526507008028
 },
 {
   "questionerType": "explicit",
   "alpha_q": 15,
   "alpha_a": 1,
   "beta": 2,
-  "likelihood": -158.98391069947576
+  "likelihood": -154.33853449796467
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 15,
   "alpha_a": 1,
   "beta": 2.5,
-  "likelihood": -158.8306493915363
+  "likelihood": -153.24477068701177
 },
 {
   "questionerType": "explicit",
   "alpha_q": 15,
   "alpha_a": 1,
   "beta": 2.5,
-  "likelihood": -159.07414382252625
+  "likelihood": -154.41434249495458
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 15,
   "alpha_a": 2,
   "beta": 0.5,
-  "likelihood": -165.2560109257229
+  "likelihood": -157.1837485482598
 },
 {
   "questionerType": "explicit",
   "alpha_q": 15,
   "alpha_a": 2,
   "beta": 0.5,
-  "likelihood": -158.65538941458064
+  "likelihood": -154.08019674503595
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 15,
   "alpha_a": 2,
   "beta": 0.1,
-  "likelihood": -165.49442739955217
+  "likelihood": -157.29608467577344
 },
 {
   "questionerType": "explicit",
   "alpha_q": 15,
   "alpha_a": 2,
   "beta": 0.1,
-  "likelihood": -158.58074391364343
+  "likelihood": -154.0251436782889
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 15,
   "alpha_a": 2,
   "beta": 1.5,
-  "likelihood": -164.0525891301714
+  "likelihood": -156.49762635644757
 },
 {
   "questionerType": "explicit",
   "alpha_q": 15,
   "alpha_a": 2,
   "beta": 1.5,
-  "likelihood": -158.8769455753587
+  "likelihood": -154.2514088202633
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 15,
   "alpha_a": 2,
   "beta": 2,
-  "likelihood": -162.99548689368194
+  "likelihood": -155.801987862236
 },
 {
   "questionerType": "explicit",
   "alpha_q": 15,
   "alpha_a": 2,
   "beta": 2,
-  "likelihood": -158.98391069947576
+  "likelihood": -154.33853449796467
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 15,
   "alpha_a": 2,
   "beta": 2.5,
-  "likelihood": -161.66916324283386
+  "likelihood": -154.86602361869978
 },
 {
   "questionerType": "explicit",
   "alpha_q": 15,
   "alpha_a": 2,
   "beta": 2.5,
-  "likelihood": -159.07414382252625
+  "likelihood": -154.41434249495458
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 15,
   "alpha_a": 3,
   "beta": 0.5,
-  "likelihood": -169.96203476764768
+  "likelihood": -160.2673796624958
 },
 {
   "questionerType": "explicit",
   "alpha_q": 15,
   "alpha_a": 3,
   "beta": 0.5,
-  "likelihood": -158.65538941458064
+  "likelihood": -154.08019674503595
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 15,
   "alpha_a": 3,
   "beta": 0.1,
-  "likelihood": -170.01480517685877
+  "likelihood": -160.21780742632458
 },
 {
   "questionerType": "explicit",
   "alpha_q": 15,
   "alpha_a": 3,
   "beta": 0.1,
-  "likelihood": -158.58074391364343
+  "likelihood": -154.0251436782889
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 15,
   "alpha_a": 3,
   "beta": 1.5,
-  "likelihood": -169.55627417001662
+  "likelihood": -160.35675432774315
 },
 {
   "questionerType": "explicit",
   "alpha_q": 15,
   "alpha_a": 3,
   "beta": 1.5,
-  "likelihood": -158.8769455753587
+  "likelihood": -154.2514088202633
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 15,
   "alpha_a": 3,
   "beta": 2,
-  "likelihood": -169.0341900615826
+  "likelihood": -160.27141597659568
 },
 {
   "questionerType": "explicit",
   "alpha_q": 15,
   "alpha_a": 3,
   "beta": 2,
-  "likelihood": -158.98391069947576
+  "likelihood": -154.33853449796467
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 15,
   "alpha_a": 3,
   "beta": 2.5,
-  "likelihood": -168.11453355800174
+  "likelihood": -159.9308127036208
 },
 {
   "questionerType": "explicit",
   "alpha_q": 15,
   "alpha_a": 3,
   "beta": 2.5,
-  "likelihood": -159.07414382252625
+  "likelihood": -154.41434249495458
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 15,
   "alpha_a": 4,
   "beta": 0.5,
-  "likelihood": -172.05976351552044
+  "likelihood": -161.18785249088629
 },
 {
   "questionerType": "explicit",
   "alpha_q": 15,
   "alpha_a": 4,
   "beta": 0.5,
-  "likelihood": -158.65538941458064
+  "likelihood": -154.08019674503595
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 15,
   "alpha_a": 4,
   "beta": 0.1,
-  "likelihood": -172.02538300286324
+  "likelihood": -161.10745273476408
 },
 {
   "questionerType": "explicit",
   "alpha_q": 15,
   "alpha_a": 4,
   "beta": 0.1,
-  "likelihood": -158.58074391364343
+  "likelihood": -154.0251436782889
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 15,
   "alpha_a": 4,
   "beta": 1.5,
-  "likelihood": -172.14030339857788
+  "likelihood": -161.5161921202462
 },
 {
   "questionerType": "explicit",
   "alpha_q": 15,
   "alpha_a": 4,
   "beta": 1.5,
-  "likelihood": -158.8769455753587
+  "likelihood": -154.2514088202633
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 15,
   "alpha_a": 4,
   "beta": 2,
-  "likelihood": -172.1218884810001
+  "likelihood": -161.75787040831443
 },
 {
   "questionerType": "explicit",
   "alpha_q": 15,
   "alpha_a": 4,
   "beta": 2,
-  "likelihood": -158.98391069947576
+  "likelihood": -154.33853449796467
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 15,
   "alpha_a": 4,
   "beta": 2.5,
-  "likelihood": -171.9778961988424
+  "likelihood": -162.0340114273216
 },
 {
   "questionerType": "explicit",
   "alpha_q": 15,
   "alpha_a": 4,
   "beta": 2.5,
-  "likelihood": -159.07414382252625
+  "likelihood": -154.41434249495458
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 15,
   "alpha_a": 5,
   "beta": 0.5,
-  "likelihood": -172.92626869247997
+  "likelihood": -161.41746485847733
 },
 {
   "questionerType": "explicit",
   "alpha_q": 15,
   "alpha_a": 5,
   "beta": 0.5,
-  "likelihood": -158.65538941458064
+  "likelihood": -154.08019674503595
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 15,
   "alpha_a": 5,
   "beta": 0.1,
-  "likelihood": -172.88046356961067
+  "likelihood": -161.35707337368012
 },
 {
   "questionerType": "explicit",
   "alpha_q": 15,
   "alpha_a": 5,
   "beta": 0.1,
-  "likelihood": -158.58074391364343
+  "likelihood": -154.0251436782889
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 15,
   "alpha_a": 5,
   "beta": 1.5,
-  "likelihood": -173.11214714865423
+  "likelihood": -161.67775588249387
 },
 {
   "questionerType": "explicit",
   "alpha_q": 15,
   "alpha_a": 5,
   "beta": 1.5,
-  "likelihood": -158.8769455753587
+  "likelihood": -154.2514088202633
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 15,
   "alpha_a": 5,
   "beta": 2,
-  "likelihood": -173.24122695771874
+  "likelihood": -161.88895555410414
 },
 {
   "questionerType": "explicit",
   "alpha_q": 15,
   "alpha_a": 5,
   "beta": 2,
-  "likelihood": -158.98391069947576
+  "likelihood": -154.33853449796467
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 15,
   "alpha_a": 5,
   "beta": 2.5,
-  "likelihood": -173.3738008049286
+  "likelihood": -162.1755118174419
 },
 {
   "questionerType": "explicit",
   "alpha_q": 15,
   "alpha_a": 5,
   "beta": 2.5,
-  "likelihood": -159.07414382252625
+  "likelihood": -154.41434249495458
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 15,
   "alpha_a": 6,
   "beta": 0.5,
-  "likelihood": -173.33483764046383
+  "likelihood": -161.52115470333663
 },
 {
   "questionerType": "explicit",
   "alpha_q": 15,
   "alpha_a": 6,
   "beta": 0.5,
-  "likelihood": -158.65538941458064
+  "likelihood": -154.08019674503595
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 15,
   "alpha_a": 6,
   "beta": 0.1,
-  "likelihood": -173.3019154616021
+  "likelihood": -161.47953408328883
 },
 {
   "questionerType": "explicit",
   "alpha_q": 15,
   "alpha_a": 6,
   "beta": 0.1,
-  "likelihood": -158.58074391364343
+  "likelihood": -154.0251436782889
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 15,
   "alpha_a": 6,
   "beta": 1.5,
-  "likelihood": -173.49271056011574
+  "likelihood": -161.70528200397115
 },
 {
   "questionerType": "explicit",
   "alpha_q": 15,
   "alpha_a": 6,
   "beta": 1.5,
-  "likelihood": -158.8769455753587
+  "likelihood": -154.2514088202633
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 15,
   "alpha_a": 6,
   "beta": 2,
-  "likelihood": -173.62904325741778
+  "likelihood": -161.85395290736344
 },
 {
   "questionerType": "explicit",
   "alpha_q": 15,
   "alpha_a": 6,
   "beta": 2,
-  "likelihood": -158.98391069947576
+  "likelihood": -154.33853449796467
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 15,
   "alpha_a": 6,
   "beta": 2.5,
-  "likelihood": -173.80606639877075
+  "likelihood": -162.04826829907174
 },
 {
   "questionerType": "explicit",
   "alpha_q": 15,
   "alpha_a": 6,
   "beta": 2.5,
-  "likelihood": -159.07414382252625
+  "likelihood": -154.41434249495458
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 15,
   "alpha_a": 7,
   "beta": 0.5,
-  "likelihood": -173.5722979315861
+  "likelihood": -161.59859130920057
 },
 {
   "questionerType": "explicit",
   "alpha_q": 15,
   "alpha_a": 7,
   "beta": 0.5,
-  "likelihood": -158.65538941458064
+  "likelihood": -154.08019674503595
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 15,
   "alpha_a": 7,
   "beta": 0.1,
-  "likelihood": -173.55768095504055
+  "likelihood": -161.57011816187028
 },
 {
   "questionerType": "explicit",
   "alpha_q": 15,
   "alpha_a": 7,
   "beta": 0.1,
-  "likelihood": -158.58074391364343
+  "likelihood": -154.0251436782889
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 15,
   "alpha_a": 7,
   "beta": 1.5,
-  "likelihood": -173.66654512083304
+  "likelihood": -161.73454060061704
 },
 {
   "questionerType": "explicit",
   "alpha_q": 15,
   "alpha_a": 7,
   "beta": 1.5,
-  "likelihood": -158.8769455753587
+  "likelihood": -154.2514088202633
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 15,
   "alpha_a": 7,
   "beta": 2,
-  "likelihood": -173.7702950055702
+  "likelihood": -161.85014822503612
 },
 {
   "questionerType": "explicit",
   "alpha_q": 15,
   "alpha_a": 7,
   "beta": 2,
-  "likelihood": -158.98391069947576
+  "likelihood": -154.33853449796467
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 15,
   "alpha_a": 7,
   "beta": 2.5,
-  "likelihood": -173.92578638714716
+  "likelihood": -161.99868177542322
 },
 {
   "questionerType": "explicit",
   "alpha_q": 15,
   "alpha_a": 7,
   "beta": 2.5,
-  "likelihood": -159.07414382252625
+  "likelihood": -154.41434249495458
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 16,
   "alpha_a": 1,
   "beta": 0.5,
-  "likelihood": -160.89052296767312
+  "likelihood": -154.19253128501416
 },
 {
   "questionerType": "explicit",
   "alpha_q": 16,
   "alpha_a": 1,
   "beta": 0.5,
-  "likelihood": -159.52756558503492
+  "likelihood": -154.73652724655696
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 16,
   "alpha_a": 1,
   "beta": 0.1,
-  "likelihood": -161.04223581656032
+  "likelihood": -154.2487535905458
 },
 {
   "questionerType": "explicit",
   "alpha_q": 16,
   "alpha_a": 1,
   "beta": 0.1,
-  "likelihood": -159.4625858792421
+  "likelihood": -154.68463981538065
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 16,
   "alpha_a": 1,
   "beta": 1.5,
-  "likelihood": -160.34216778426972
+  "likelihood": -154.0080810503257
 },
 {
   "questionerType": "explicit",
   "alpha_q": 16,
   "alpha_a": 1,
   "beta": 1.5,
-  "likelihood": -159.72471147474005
+  "likelihood": -154.90029181480406
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 16,
   "alpha_a": 1,
   "beta": 2,
-  "likelihood": -160.04917968231692
+  "likelihood": -153.95459513398856
 },
 {
   "questionerType": "explicit",
   "alpha_q": 16,
   "alpha_a": 1,
   "beta": 2,
-  "likelihood": -159.8225908555492
+  "likelihood": -154.98501905691055
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 16,
   "alpha_a": 1,
   "beta": 2.5,
-  "likelihood": -159.83418008546266
+  "likelihood": -153.99426871947432
 },
 {
   "questionerType": "explicit",
   "alpha_q": 16,
   "alpha_a": 1,
   "beta": 2.5,
-  "likelihood": -159.90668471236313
+  "likelihood": -155.05945761960578
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 16,
   "alpha_a": 2,
   "beta": 0.5,
-  "likelihood": -167.02459249833555
+  "likelihood": -158.47586179250825
 },
 {
   "questionerType": "explicit",
   "alpha_q": 16,
   "alpha_a": 2,
   "beta": 0.5,
-  "likelihood": -159.52756558503492
+  "likelihood": -154.73652724655696
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 16,
   "alpha_a": 2,
   "beta": 0.1,
-  "likelihood": -167.27248693392886
+  "likelihood": -158.58989771363807
 },
 {
   "questionerType": "explicit",
   "alpha_q": 16,
   "alpha_a": 2,
   "beta": 0.1,
-  "likelihood": -159.4625858792421
+  "likelihood": -154.68463981538065
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 16,
   "alpha_a": 2,
   "beta": 1.5,
-  "likelihood": -165.77214941732936
+  "likelihood": -157.77654463275846
 },
 {
   "questionerType": "explicit",
   "alpha_q": 16,
   "alpha_a": 2,
   "beta": 1.5,
-  "likelihood": -159.72471147474005
+  "likelihood": -154.90029181480406
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 16,
   "alpha_a": 2,
   "beta": 2,
-  "likelihood": -164.6570214472957
+  "likelihood": -157.05265422462742
 },
 {
   "questionerType": "explicit",
   "alpha_q": 16,
   "alpha_a": 2,
   "beta": 2,
-  "likelihood": -159.8225908555492
+  "likelihood": -154.98501905691055
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 16,
   "alpha_a": 2,
   "beta": 2.5,
-  "likelihood": -163.2270655343503
+  "likelihood": -156.04914676593674
 },
 {
   "questionerType": "explicit",
   "alpha_q": 16,
   "alpha_a": 2,
   "beta": 2.5,
-  "likelihood": -159.90668471236313
+  "likelihood": -155.05945761960578
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 16,
   "alpha_a": 3,
   "beta": 0.5,
-  "likelihood": -171.6322043414084
+  "likelihood": -161.42343074402282
 },
 {
   "questionerType": "explicit",
   "alpha_q": 16,
   "alpha_a": 3,
   "beta": 0.5,
-  "likelihood": -159.52756558503492
+  "likelihood": -154.73652724655696
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 16,
   "alpha_a": 3,
   "beta": 0.1,
-  "likelihood": -171.682831465918
+  "likelihood": -161.3714459181272
 },
 {
   "questionerType": "explicit",
   "alpha_q": 16,
   "alpha_a": 3,
   "beta": 0.1,
-  "likelihood": -159.4625858792421
+  "likelihood": -154.68463981538065
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 16,
   "alpha_a": 3,
   "beta": 1.5,
-  "likelihood": -171.25518361912532
+  "likelihood": -161.54445543042536
 },
 {
   "questionerType": "explicit",
   "alpha_q": 16,
   "alpha_a": 3,
   "beta": 1.5,
-  "likelihood": -159.72471147474005
+  "likelihood": -154.90029181480406
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 16,
   "alpha_a": 3,
   "beta": 2,
-  "likelihood": -170.7704359359254
+  "likelihood": -161.5023276791728
 },
 {
   "questionerType": "explicit",
   "alpha_q": 16,
   "alpha_a": 3,
   "beta": 2,
-  "likelihood": -159.8225908555492
+  "likelihood": -154.98501905691055
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 16,
   "alpha_a": 3,
   "beta": 2.5,
-  "likelihood": -169.90353108981486
+  "likelihood": -161.2282273451608
 },
 {
   "questionerType": "explicit",
   "alpha_q": 16,
   "alpha_a": 3,
   "beta": 2.5,
-  "likelihood": -159.90668471236313
+  "likelihood": -155.05945761960578
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 16,
   "alpha_a": 4,
   "beta": 0.5,
-  "likelihood": -173.5474110773927
+  "likelihood": -162.1865444568305
 },
 {
   "questionerType": "explicit",
   "alpha_q": 16,
   "alpha_a": 4,
   "beta": 0.5,
-  "likelihood": -159.52756558503492
+  "likelihood": -154.73652724655696
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 16,
   "alpha_a": 4,
   "beta": 0.1,
-  "likelihood": -173.5171889426249
+  "likelihood": -162.11197614984314
 },
 {
   "questionerType": "explicit",
   "alpha_q": 16,
   "alpha_a": 4,
   "beta": 0.1,
-  "likelihood": -159.4625858792421
+  "likelihood": -154.68463981538065
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 16,
   "alpha_a": 4,
   "beta": 1.5,
-  "likelihood": -173.6270847468351
+  "likelihood": -162.50653058118334
 },
 {
   "questionerType": "explicit",
   "alpha_q": 16,
   "alpha_a": 4,
   "beta": 1.5,
-  "likelihood": -159.72471147474005
+  "likelihood": -154.90029181480406
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 16,
   "alpha_a": 4,
   "beta": 2,
-  "likelihood": -173.62539319465537
+  "likelihood": -162.75976340505974
 },
 {
   "questionerType": "explicit",
   "alpha_q": 16,
   "alpha_a": 4,
   "beta": 2,
-  "likelihood": -159.8225908555492
+  "likelihood": -154.98501905691055
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 16,
   "alpha_a": 4,
   "beta": 2.5,
-  "likelihood": -173.5222289374085
+  "likelihood": -163.07214982917534
 },
 {
   "questionerType": "explicit",
   "alpha_q": 16,
   "alpha_a": 4,
   "beta": 2.5,
-  "likelihood": -159.90668471236313
+  "likelihood": -155.05945761960578
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 16,
   "alpha_a": 5,
   "beta": 0.5,
-  "likelihood": -174.30381076389168
+  "likelihood": -162.33823814387054
 },
 {
   "questionerType": "explicit",
   "alpha_q": 16,
   "alpha_a": 5,
   "beta": 0.5,
-  "likelihood": -159.52756558503492
+  "likelihood": -154.73652724655696
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 16,
   "alpha_a": 5,
   "beta": 0.1,
-  "likelihood": -174.26556660742844
+  "likelihood": -162.28723013505544
 },
 {
   "questionerType": "explicit",
   "alpha_q": 16,
   "alpha_a": 5,
   "beta": 0.1,
-  "likelihood": -159.4625858792421
+  "likelihood": -154.68463981538065
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 16,
   "alpha_a": 5,
   "beta": 1.5,
-  "likelihood": -174.4668913804649
+  "likelihood": -162.5665761939357
 },
 {
   "questionerType": "explicit",
   "alpha_q": 16,
   "alpha_a": 5,
   "beta": 1.5,
-  "likelihood": -159.72471147474005
+  "likelihood": -154.90029181480406
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 16,
   "alpha_a": 5,
   "beta": 2,
-  "likelihood": -174.58845032969472
+  "likelihood": -162.762345579525
 },
 {
   "questionerType": "explicit",
   "alpha_q": 16,
   "alpha_a": 5,
   "beta": 2,
-  "likelihood": -159.8225908555492
+  "likelihood": -154.98501905691055
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 16,
   "alpha_a": 5,
   "beta": 2.5,
-  "likelihood": -174.7248570539288
+  "likelihood": -163.0427230448879
 },
 {
   "questionerType": "explicit",
   "alpha_q": 16,
   "alpha_a": 5,
   "beta": 2.5,
-  "likelihood": -159.90668471236313
+  "likelihood": -155.05945761960578
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 16,
   "alpha_a": 6,
   "beta": 0.5,
-  "likelihood": -174.65458513517567
+  "likelihood": -162.41323587216903
 },
 {
   "questionerType": "explicit",
   "alpha_q": 16,
   "alpha_a": 6,
   "beta": 0.5,
-  "likelihood": -159.52756558503492
+  "likelihood": -154.73652724655696
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 16,
   "alpha_a": 6,
   "beta": 0.1,
-  "likelihood": -174.6294339612539
+  "likelihood": -162.38066477037074
 },
 {
   "questionerType": "explicit",
   "alpha_q": 16,
   "alpha_a": 6,
   "beta": 0.1,
-  "likelihood": -159.4625858792421
+  "likelihood": -154.68463981538065
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 16,
   "alpha_a": 6,
   "beta": 1.5,
-  "likelihood": -174.78365410265388
+  "likelihood": -162.56147082228338
 },
 {
   "questionerType": "explicit",
   "alpha_q": 16,
   "alpha_a": 6,
   "beta": 1.5,
-  "likelihood": -159.72471147474005
+  "likelihood": -154.90029181480406
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 16,
   "alpha_a": 6,
   "beta": 2,
-  "likelihood": -174.9020086836258
+  "likelihood": -162.68536481197884
 },
 {
   "questionerType": "explicit",
   "alpha_q": 16,
   "alpha_a": 6,
   "beta": 2,
-  "likelihood": -159.8225908555492
+  "likelihood": -154.98501905691055
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 16,
   "alpha_a": 6,
   "beta": 2.5,
-  "likelihood": -175.0628415067845
+  "likelihood": -162.85375203515474
 },
 {
   "questionerType": "explicit",
   "alpha_q": 16,
   "alpha_a": 6,
   "beta": 2.5,
-  "likelihood": -159.90668471236313
+  "likelihood": -155.05945761960578
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 16,
   "alpha_a": 7,
   "beta": 0.5,
-  "likelihood": -174.8613274418186
+  "likelihood": -162.482774154993
 },
 {
   "questionerType": "explicit",
   "alpha_q": 16,
   "alpha_a": 7,
   "beta": 0.5,
-  "likelihood": -159.52756558503492
+  "likelihood": -154.73652724655696
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 16,
   "alpha_a": 7,
   "beta": 0.1,
-  "likelihood": -174.85324011256466
+  "likelihood": -162.46152508199927
 },
 {
   "questionerType": "explicit",
   "alpha_q": 16,
   "alpha_a": 7,
   "beta": 0.1,
-  "likelihood": -159.4625858792421
+  "likelihood": -154.68463981538065
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 16,
   "alpha_a": 7,
   "beta": 1.5,
-  "likelihood": -174.92933024605938
+  "likelihood": -162.58795082596774
 },
 {
   "questionerType": "explicit",
   "alpha_q": 16,
   "alpha_a": 7,
   "beta": 1.5,
-  "likelihood": -159.72471147474005
+  "likelihood": -154.90029181480406
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 16,
   "alpha_a": 7,
   "beta": 2,
-  "likelihood": -175.01359411835483
+  "likelihood": -162.6793964972115
 },
 {
   "questionerType": "explicit",
   "alpha_q": 16,
   "alpha_a": 7,
   "beta": 2,
-  "likelihood": -159.8225908555492
+  "likelihood": -154.98501905691055
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 16,
   "alpha_a": 7,
   "beta": 2.5,
-  "likelihood": -175.14622575690908
+  "likelihood": -162.79809226155487
 },
 {
   "questionerType": "explicit",
   "alpha_q": 16,
   "alpha_a": 7,
   "beta": 2.5,
-  "likelihood": -159.90668471236313
+  "likelihood": -155.05945761960578
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 17,
   "alpha_a": 1,
   "beta": 0.5,
-  "likelihood": -162.1474813777602
+  "likelihood": -155.1439635603873
 },
 {
   "questionerType": "explicit",
   "alpha_q": 17,
   "alpha_a": 1,
   "beta": 0.5,
-  "likelihood": -160.39456104646408
+  "likelihood": -155.42091893748298
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 17,
   "alpha_a": 1,
   "beta": 0.1,
-  "likelihood": -162.32922474643507
+  "likelihood": -155.22115555572958
 },
 {
   "questionerType": "explicit",
   "alpha_q": 17,
   "alpha_a": 1,
   "beta": 0.1,
-  "likelihood": -160.33574354639308
+  "likelihood": -155.37116351883756
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 17,
   "alpha_a": 1,
   "beta": 1.5,
-  "likelihood": -161.485031324044
+  "likelihood": -154.87720105396812
 },
 {
   "questionerType": "explicit",
   "alpha_q": 17,
   "alpha_a": 1,
   "beta": 1.5,
-  "likelihood": -160.57687449608474
+  "likelihood": -155.57982632917512
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 17,
   "alpha_a": 1,
   "beta": 2,
-  "likelihood": -161.1195975024388
+  "likelihood": -154.7703911707005
 },
 {
   "questionerType": "explicit",
   "alpha_q": 17,
   "alpha_a": 1,
   "beta": 2,
-  "likelihood": -160.66963298971575
+  "likelihood": -155.6630491128078
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 17,
   "alpha_a": 1,
   "beta": 2.5,
-  "likelihood": -160.83380843903691
+  "likelihood": -154.75856366832946
 },
 {
   "questionerType": "explicit",
   "alpha_q": 17,
   "alpha_a": 1,
   "beta": 2.5,
-  "likelihood": -160.75048894555877
+  "likelihood": -155.73664446766037
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 17,
   "alpha_a": 2,
   "beta": 0.5,
-  "likelihood": -168.61630171389106
+  "likelihood": -159.61878821469017
 },
 {
   "questionerType": "explicit",
   "alpha_q": 17,
   "alpha_a": 2,
   "beta": 0.5,
-  "likelihood": -160.39456104646408
+  "likelihood": -155.42091893748298
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 17,
   "alpha_a": 2,
   "beta": 0.1,
-  "likelihood": -168.86564236108998
+  "likelihood": -159.73005350246677
 },
 {
   "questionerType": "explicit",
   "alpha_q": 17,
   "alpha_a": 2,
   "beta": 0.1,
-  "likelihood": -160.33574354639308
+  "likelihood": -155.37116351883756
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 17,
   "alpha_a": 2,
   "beta": 1.5,
-  "likelihood": -167.35149364943143
+  "likelihood": -158.93049466713916
 },
 {
   "questionerType": "explicit",
   "alpha_q": 17,
   "alpha_a": 2,
   "beta": 1.5,
-  "likelihood": -160.57687449608474
+  "likelihood": -155.57982632917512
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 17,
   "alpha_a": 2,
   "beta": 2,
-  "likelihood": -166.20834401967593
+  "likelihood": -158.20205276991624
 },
 {
   "questionerType": "explicit",
   "alpha_q": 17,
   "alpha_a": 2,
   "beta": 2,
-  "likelihood": -160.66963298971575
+  "likelihood": -155.6630491128078
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 17,
   "alpha_a": 2,
   "beta": 2.5,
-  "likelihood": -164.7109079444896
+  "likelihood": -157.16334223245835
 },
 {
   "questionerType": "explicit",
   "alpha_q": 17,
   "alpha_a": 2,
   "beta": 2.5,
-  "likelihood": -160.75048894555877
+  "likelihood": -155.73664446766037
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 17,
   "alpha_a": 3,
   "beta": 0.5,
-  "likelihood": -173.04642688820186
+  "likelihood": -162.38877427219776
 },
 {
   "questionerType": "explicit",
   "alpha_q": 17,
   "alpha_a": 3,
   "beta": 0.5,
-  "likelihood": -160.39456104646408
+  "likelihood": -155.42091893748298
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 17,
   "alpha_a": 3,
   "beta": 0.1,
-  "likelihood": -173.09270742583004
+  "likelihood": -162.33412909029175
 },
 {
   "questionerType": "explicit",
   "alpha_q": 17,
   "alpha_a": 3,
   "beta": 0.1,
-  "likelihood": -160.33574354639308
+  "likelihood": -155.37116351883756
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 17,
   "alpha_a": 3,
   "beta": 1.5,
-  "likelihood": -172.70787349651445
+  "likelihood": -162.54220687791397
 },
 {
   "questionerType": "explicit",
   "alpha_q": 17,
   "alpha_a": 3,
   "beta": 1.5,
-  "likelihood": -160.57687449608474
+  "likelihood": -155.57982632917512
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 17,
   "alpha_a": 3,
   "beta": 2,
-  "likelihood": -172.26986182953252
+  "likelihood": -162.5444170020159
 },
 {
   "questionerType": "explicit",
   "alpha_q": 17,
   "alpha_a": 3,
   "beta": 2,
-  "likelihood": -160.66963298971575
+  "likelihood": -155.6630491128078
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 17,
   "alpha_a": 3,
   "beta": 2.5,
-  "likelihood": -171.4723494940204
+  "likelihood": -162.34129727864996
 },
 {
   "questionerType": "explicit",
   "alpha_q": 17,
   "alpha_a": 3,
   "beta": 2.5,
-  "likelihood": -160.75048894555877
+  "likelihood": -155.73664446766037
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 17,
   "alpha_a": 4,
   "beta": 0.5,
-  "likelihood": -174.7722328798301
+  "likelihood": -162.9997176984087
 },
 {
   "questionerType": "explicit",
   "alpha_q": 17,
   "alpha_a": 4,
   "beta": 0.5,
-  "likelihood": -160.39456104646408
+  "likelihood": -155.42091893748298
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 17,
   "alpha_a": 4,
   "beta": 0.1,
-  "likelihood": -174.74517122843503
+  "likelihood": -162.93059717017528
 },
 {
   "questionerType": "explicit",
   "alpha_q": 17,
   "alpha_a": 4,
   "beta": 0.1,
-  "likelihood": -160.33574354639308
+  "likelihood": -155.37116351883756
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 17,
   "alpha_a": 4,
   "beta": 1.5,
-  "likelihood": -174.8538650275827
+  "likelihood": -163.31197421070772
 },
 {
   "questionerType": "explicit",
   "alpha_q": 17,
   "alpha_a": 4,
   "beta": 1.5,
-  "likelihood": -160.57687449608474
+  "likelihood": -155.57982632917512
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 17,
   "alpha_a": 4,
   "beta": 2,
-  "likelihood": -174.86978751124403
+  "likelihood": -163.5759024169841
 },
 {
   "questionerType": "explicit",
   "alpha_q": 17,
   "alpha_a": 4,
   "beta": 2,
-  "likelihood": -160.66963298971575
+  "likelihood": -155.6630491128078
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 17,
   "alpha_a": 4,
   "beta": 2.5,
-  "likelihood": -174.8073394181599
+  "likelihood": -163.92148412945912
 },
 {
   "questionerType": "explicit",
   "alpha_q": 17,
   "alpha_a": 4,
   "beta": 2.5,
-  "likelihood": -160.75048894555877
+  "likelihood": -155.73664446766037
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 17,
   "alpha_a": 5,
   "beta": 0.5,
-  "likelihood": -175.4253984392155
+  "likelihood": -163.08029400513325
 },
 {
   "questionerType": "explicit",
   "alpha_q": 17,
   "alpha_a": 5,
   "beta": 0.5,
-  "likelihood": -160.39456104646408
+  "likelihood": -155.42091893748298
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 17,
   "alpha_a": 5,
   "beta": 0.1,
-  "likelihood": -175.39384114090487
+  "likelihood": -163.0381429717993
 },
 {
   "questionerType": "explicit",
   "alpha_q": 17,
   "alpha_a": 5,
   "beta": 0.1,
-  "likelihood": -160.33574354639308
+  "likelihood": -155.37116351883756
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 17,
   "alpha_a": 5,
   "beta": 1.5,
-  "likelihood": -175.56849594100052
+  "likelihood": -163.27865275382172
 },
 {
   "questionerType": "explicit",
   "alpha_q": 17,
   "alpha_a": 5,
   "beta": 1.5,
-  "likelihood": -160.57687449608474
+  "likelihood": -155.57982632917512
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 17,
   "alpha_a": 5,
   "beta": 2,
-  "likelihood": -175.68388316016265
+  "likelihood": -163.4601891716129
 },
 {
   "questionerType": "explicit",
   "alpha_q": 17,
   "alpha_a": 5,
   "beta": 2,
-  "likelihood": -160.66963298971575
+  "likelihood": -155.6630491128078
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 17,
   "alpha_a": 5,
   "beta": 2.5,
-  "likelihood": -175.82458779305958
+  "likelihood": -163.73511438930586
 },
 {
   "questionerType": "explicit",
   "alpha_q": 17,
   "alpha_a": 5,
   "beta": 2.5,
-  "likelihood": -160.75048894555877
+  "likelihood": -155.73664446766037
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 17,
   "alpha_a": 6,
   "beta": 0.5,
-  "likelihood": -175.72529010298982
+  "likelihood": -163.13141324168032
 },
 {
   "questionerType": "explicit",
   "alpha_q": 17,
   "alpha_a": 6,
   "beta": 0.5,
-  "likelihood": -160.39456104646408
+  "likelihood": -155.42091893748298
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 17,
   "alpha_a": 6,
   "beta": 0.1,
-  "likelihood": -175.70720467708477
+  "likelihood": -163.1075156284073
 },
 {
   "questionerType": "explicit",
   "alpha_q": 17,
   "alpha_a": 6,
   "beta": 0.1,
-  "likelihood": -160.33574354639308
+  "likelihood": -155.37116351883756
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 17,
   "alpha_a": 6,
   "beta": 1.5,
-  "likelihood": -175.82806489492233
+  "likelihood": -163.24534373995152
 },
 {
   "questionerType": "explicit",
   "alpha_q": 17,
   "alpha_a": 6,
   "beta": 1.5,
-  "likelihood": -160.57687449608474
+  "likelihood": -155.57982632917512
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 17,
   "alpha_a": 6,
   "beta": 2,
-  "likelihood": -175.93019823484457
+  "likelihood": -163.34590389544692
 },
 {
   "questionerType": "explicit",
   "alpha_q": 17,
   "alpha_a": 6,
   "beta": 2,
-  "likelihood": -160.66963298971575
+  "likelihood": -155.6630491128078
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 17,
   "alpha_a": 6,
   "beta": 2.5,
-  "likelihood": -176.07675406041525
+  "likelihood": -163.49039515482158
 },
 {
   "questionerType": "explicit",
   "alpha_q": 17,
   "alpha_a": 6,
   "beta": 2.5,
-  "likelihood": -160.75048894555877
+  "likelihood": -155.73664446766037
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 17,
   "alpha_a": 7,
   "beta": 0.5,
-  "likelihood": -175.90698943319276
+  "likelihood": -163.1969223472503
 },
 {
   "questionerType": "explicit",
   "alpha_q": 17,
   "alpha_a": 7,
   "beta": 0.5,
-  "likelihood": -160.39456104646408
+  "likelihood": -155.42091893748298
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 17,
   "alpha_a": 7,
   "beta": 0.1,
-  "likelihood": -175.90493758318917
+  "likelihood": -163.1827242349288
 },
 {
   "questionerType": "explicit",
   "alpha_q": 17,
   "alpha_a": 7,
   "beta": 0.1,
-  "likelihood": -160.33574354639308
+  "likelihood": -155.37116351883756
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 17,
   "alpha_a": 7,
   "beta": 1.5,
-  "likelihood": -175.9504321458364
+  "likelihood": -163.2719495751292
 },
 {
   "questionerType": "explicit",
   "alpha_q": 17,
   "alpha_a": 7,
   "beta": 1.5,
-  "likelihood": -160.57687449608474
+  "likelihood": -155.57982632917512
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 17,
   "alpha_a": 7,
   "beta": 2,
-  "likelihood": -176.01660822501836
+  "likelihood": -163.34001305251567
 },
 {
   "questionerType": "explicit",
   "alpha_q": 17,
   "alpha_a": 7,
   "beta": 2,
-  "likelihood": -160.66963298971575
+  "likelihood": -155.6630491128078
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 17,
   "alpha_a": 7,
   "beta": 2.5,
-  "likelihood": -176.12849228178214
+  "likelihood": -163.4305112964378
 },
 {
   "questionerType": "explicit",
   "alpha_q": 17,
   "alpha_a": 7,
   "beta": 2.5,
-  "likelihood": -160.75048894555877
+  "likelihood": -155.73664446766037
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 18,
   "alpha_a": 1,
   "beta": 0.5,
-  "likelihood": -163.3554044122717
+  "likelihood": -156.06184865228084
 },
 {
   "questionerType": "explicit",
   "alpha_q": 18,
   "alpha_a": 1,
   "beta": 0.5,
-  "likelihood": -161.26049806880818
+  "likelihood": -156.12755947132683
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 18,
   "alpha_a": 1,
   "beta": 0.1,
-  "likelihood": -163.5615201625349
+  "likelihood": -156.1551005113765
 },
 {
   "questionerType": "explicit",
   "alpha_q": 18,
   "alpha_a": 1,
   "beta": 0.1,
-  "likelihood": -161.2055923552553
+  "likelihood": -156.0793479485486
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 18,
   "alpha_a": 1,
   "beta": 1.5,
-  "likelihood": -162.59808245473408
+  "likelihood": -155.73054427097676
 },
 {
   "questionerType": "explicit",
   "alpha_q": 18,
   "alpha_a": 1,
   "beta": 1.5,
-  "likelihood": -161.43374871403438
+  "likelihood": -156.28286755976637
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 18,
   "alpha_a": 1,
   "beta": 2,
-  "likelihood": -162.1706273872202
+  "likelihood": -155.58059435520633
 },
 {
   "questionerType": "explicit",
   "alpha_q": 18,
   "alpha_a": 1,
   "beta": 2,
-  "likelihood": -161.52355772008679
+  "likelihood": -156.36487786528247
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 18,
   "alpha_a": 1,
   "beta": 2.5,
-  "likelihood": -161.82311451668505
+  "likelihood": -155.5262940994813
 },
 {
   "questionerType": "explicit",
   "alpha_q": 18,
   "alpha_a": 1,
   "beta": 2.5,
-  "likelihood": -161.60264071261224
+  "likelihood": -156.43769607706633
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 18,
   "alpha_a": 2,
   "beta": 0.5,
-  "likelihood": -170.0382395124123
+  "likelihood": -160.61833634618898
 },
 {
   "questionerType": "explicit",
   "alpha_q": 18,
   "alpha_a": 2,
   "beta": 0.5,
-  "likelihood": -161.26049806880818
+  "likelihood": -156.12755947132683
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 18,
   "alpha_a": 2,
   "beta": 0.1,
-  "likelihood": -170.28290028535852
+  "likelihood": -160.7238325672279
 },
 {
   "questionerType": "explicit",
   "alpha_q": 18,
   "alpha_a": 2,
   "beta": 0.1,
-  "likelihood": -161.2055923552553
+  "likelihood": -156.0793479485486
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 18,
   "alpha_a": 2,
   "beta": 1.5,
-  "likelihood": -168.7900434537597
+  "likelihood": -159.95813863274668
 },
 {
   "questionerType": "explicit",
   "alpha_q": 18,
   "alpha_a": 2,
   "beta": 1.5,
-  "likelihood": -161.43374871403438
+  "likelihood": -156.28286755976637
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 18,
   "alpha_a": 2,
   "beta": 2,
-  "likelihood": -167.64398038075603
+  "likelihood": -159.24337987789835
 },
 {
   "questionerType": "explicit",
   "alpha_q": 18,
   "alpha_a": 2,
   "beta": 2,
-  "likelihood": -161.52355772008679
+  "likelihood": -156.36487786528247
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 18,
   "alpha_a": 2,
   "beta": 2.5,
-  "likelihood": -166.1110398021933
+  "likelihood": -158.1966117767256
 },
 {
   "questionerType": "explicit",
   "alpha_q": 18,
   "alpha_a": 2,
   "beta": 2.5,
-  "likelihood": -161.60264071261224
+  "likelihood": -156.43769607706633
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 18,
   "alpha_a": 3,
   "beta": 0.5,
-  "likelihood": -174.2423601140653
+  "likelihood": -163.19442241494755
 },
 {
   "questionerType": "explicit",
   "alpha_q": 18,
   "alpha_a": 3,
   "beta": 0.5,
-  "likelihood": -161.26049806880818
+  "likelihood": -156.12755947132683
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 18,
   "alpha_a": 3,
   "beta": 0.1,
-  "likelihood": -174.2830065999352
+  "likelihood": -163.13688727678783
 },
 {
   "questionerType": "explicit",
   "alpha_q": 18,
   "alpha_a": 3,
   "beta": 0.1,
-  "likelihood": -161.2055923552553
+  "likelihood": -156.0793479485486
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 18,
   "alpha_a": 3,
   "beta": 1.5,
-  "likelihood": -173.94703393147475
+  "likelihood": -163.37970731561143
 },
 {
   "questionerType": "explicit",
   "alpha_q": 18,
   "alpha_a": 3,
   "beta": 1.5,
-  "likelihood": -161.43374871403438
+  "likelihood": -156.28286755976637
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 18,
   "alpha_a": 3,
   "beta": 2,
-  "likelihood": -173.55994864654403
+  "likelihood": -163.4248333964545
 },
 {
   "questionerType": "explicit",
   "alpha_q": 18,
   "alpha_a": 3,
   "beta": 2,
-  "likelihood": -161.52355772008679
+  "likelihood": -156.36487786528247
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 18,
   "alpha_a": 3,
   "beta": 2.5,
-  "likelihood": -172.8402457387441
+  "likelihood": -163.2918016294396
 },
 {
   "questionerType": "explicit",
   "alpha_q": 18,
   "alpha_a": 3,
   "beta": 2.5,
-  "likelihood": -161.60264071261224
+  "likelihood": -156.43769607706633
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 18,
   "alpha_a": 4,
   "beta": 0.5,
-  "likelihood": -175.78485913886706
+  "likelihood": -163.66408769274497
 },
 {
   "questionerType": "explicit",
   "alpha_q": 18,
   "alpha_a": 4,
   "beta": 0.5,
-  "likelihood": -161.26049806880818
+  "likelihood": -156.12755947132683
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 18,
   "alpha_a": 4,
   "beta": 0.1,
-  "likelihood": -175.7600633943768
+  "likelihood": -163.59957730789407
 },
 {
   "questionerType": "explicit",
   "alpha_q": 18,
   "alpha_a": 4,
   "beta": 0.1,
-  "likelihood": -161.2055923552553
+  "likelihood": -156.0793479485486
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 18,
   "alpha_a": 4,
   "beta": 1.5,
-  "likelihood": -175.87057556682433
+  "likelihood": -163.97084451118502
 },
 {
   "questionerType": "explicit",
   "alpha_q": 18,
   "alpha_a": 4,
   "beta": 1.5,
-  "likelihood": -161.43374871403438
+  "likelihood": -156.28286755976637
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 18,
   "alpha_a": 4,
   "beta": 2,
-  "likelihood": -175.9040281456073
+  "likelihood": -164.24548368587713
 },
 {
   "questionerType": "explicit",
   "alpha_q": 18,
   "alpha_a": 4,
   "beta": 2,
-  "likelihood": -161.52355772008679
+  "likelihood": -156.36487786528247
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 18,
   "alpha_a": 4,
   "beta": 2.5,
-  "likelihood": -175.88026111432063
+  "likelihood": -164.621785623826
 },
 {
   "questionerType": "explicit",
   "alpha_q": 18,
   "alpha_a": 4,
   "beta": 2.5,
-  "likelihood": -161.60264071261224
+  "likelihood": -156.43769607706633
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 18,
   "alpha_a": 5,
   "beta": 0.5,
-  "likelihood": -176.3446857387022
+  "likelihood": -163.67992957593006
 },
 {
   "questionerType": "explicit",
   "alpha_q": 18,
   "alpha_a": 5,
   "beta": 0.5,
-  "likelihood": -161.26049806880818
+  "likelihood": -156.12755947132683
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 18,
   "alpha_a": 5,
   "beta": 0.1,
-  "likelihood": -176.3188534960058
+  "likelihood": -163.64564458510225
 },
 {
   "questionerType": "explicit",
   "alpha_q": 18,
   "alpha_a": 5,
   "beta": 0.1,
-  "likelihood": -161.2055923552553
+  "likelihood": -156.0793479485486
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 18,
   "alpha_a": 5,
   "beta": 1.5,
-  "likelihood": -176.47097454218877
+  "likelihood": -163.85216449564237
 },
 {
   "questionerType": "explicit",
   "alpha_q": 18,
   "alpha_a": 5,
   "beta": 1.5,
-  "likelihood": -161.43374871403438
+  "likelihood": -156.28286755976637
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 18,
   "alpha_a": 5,
   "beta": 2,
-  "likelihood": -176.58164960145365
+  "likelihood": -164.02195283901213
 },
 {
   "questionerType": "explicit",
   "alpha_q": 18,
   "alpha_a": 5,
   "beta": 2,
-  "likelihood": -161.52355772008679
+  "likelihood": -156.36487786528247
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 18,
   "alpha_a": 5,
   "beta": 2.5,
-  "likelihood": -176.72700395612543
+  "likelihood": -164.29354239133542
 },
 {
   "questionerType": "explicit",
   "alpha_q": 18,
   "alpha_a": 5,
   "beta": 2.5,
-  "likelihood": -161.60264071261224
+  "likelihood": -156.43769607706633
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 18,
   "alpha_a": 6,
   "beta": 0.5,
-  "likelihood": -176.60069369277969
+  "likelihood": -163.7103415129604
 },
 {
   "questionerType": "explicit",
   "alpha_q": 18,
   "alpha_a": 6,
   "beta": 0.5,
-  "likelihood": -161.26049806880818
+  "likelihood": -156.12755947132683
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 18,
   "alpha_a": 6,
   "beta": 0.1,
-  "likelihood": -176.58883731113517
+  "likelihood": -163.6943349961743
 },
 {
   "questionerType": "explicit",
   "alpha_q": 18,
   "alpha_a": 6,
   "beta": 0.1,
-  "likelihood": -161.2055923552553
+  "likelihood": -156.0793479485486
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 18,
   "alpha_a": 6,
   "beta": 1.5,
-  "likelihood": -176.68036705757464
+  "likelihood": -163.79336886688822
 },
 {
   "questionerType": "explicit",
   "alpha_q": 18,
   "alpha_a": 6,
   "beta": 1.5,
-  "likelihood": -161.43374871403438
+  "likelihood": -156.28286755976637
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 18,
   "alpha_a": 6,
   "beta": 2,
-  "likelihood": -176.76846825050765
+  "likelihood": -163.87337006939208
 },
 {
   "questionerType": "explicit",
   "alpha_q": 18,
   "alpha_a": 6,
   "beta": 2,
-  "likelihood": -161.52355772008679
+  "likelihood": -156.36487786528247
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 18,
   "alpha_a": 6,
   "beta": 2.5,
-  "likelihood": -176.90295036365924
+  "likelihood": -163.99742835235256
 },
 {
   "questionerType": "explicit",
   "alpha_q": 18,
   "alpha_a": 6,
   "beta": 2.5,
-  "likelihood": -161.60264071261224
+  "likelihood": -156.43769607706633
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 18,
   "alpha_a": 7,
   "beta": 0.5,
-  "likelihood": -176.76220557369734
+  "likelihood": -163.77389737205343
 },
 {
   "questionerType": "explicit",
   "alpha_q": 18,
   "alpha_a": 7,
   "beta": 0.5,
-  "likelihood": -161.26049806880818
+  "likelihood": -156.12755947132683
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 18,
   "alpha_a": 7,
   "beta": 0.1,
-  "likelihood": -176.76556822449155
+  "likelihood": -163.76625092020237
 },
 {
   "questionerType": "explicit",
   "alpha_q": 18,
   "alpha_a": 7,
   "beta": 0.1,
-  "likelihood": -161.2055923552553
+  "likelihood": -156.0793479485486
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 18,
   "alpha_a": 7,
   "beta": 1.5,
-  "likelihood": -176.7835896205447
+  "likelihood": -163.82106797336087
 },
 {
   "questionerType": "explicit",
   "alpha_q": 18,
   "alpha_a": 7,
   "beta": 1.5,
-  "likelihood": -161.43374871403438
+  "likelihood": -156.28286755976637
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 18,
   "alpha_a": 7,
   "beta": 2,
-  "likelihood": -176.8337213246999
+  "likelihood": -163.8679121332258
 },
 {
   "questionerType": "explicit",
   "alpha_q": 18,
   "alpha_a": 7,
   "beta": 2,
-  "likelihood": -161.52355772008679
+  "likelihood": -156.36487786528247
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 18,
   "alpha_a": 7,
   "beta": 2.5,
-  "likelihood": -176.92754809199528
+  "likelihood": -163.93342233432722
 },
 {
   "questionerType": "explicit",
   "alpha_q": 18,
   "alpha_a": 7,
   "beta": 2.5,
-  "likelihood": -161.60264071261224
+  "likelihood": -156.43769607706633
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 19,
   "alpha_a": 1,
   "beta": 0.5,
-  "likelihood": -164.50844128535215
+  "likelihood": -156.9353022328758
 },
 {
   "questionerType": "explicit",
   "alpha_q": 19,
   "alpha_a": 1,
   "beta": 0.5,
-  "likelihood": -162.1249356496572
+  "likelihood": -156.8501982693837
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 19,
   "alpha_a": 1,
   "beta": 0.1,
-  "likelihood": -164.7337873431261
+  "likelihood": -157.0398934548646
 },
 {
   "questionerType": "explicit",
   "alpha_q": 19,
   "alpha_a": 1,
   "beta": 0.1,
-  "likelihood": -162.07259904891276
+  "likelihood": -156.80324171732974
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 19,
   "alpha_a": 1,
   "beta": 1.5,
-  "likelihood": -163.67416188253748
+  "likelihood": -156.55707475106064
 },
 {
   "questionerType": "explicit",
   "alpha_q": 19,
   "alpha_a": 1,
   "beta": 1.5,
-  "likelihood": -162.29229905900226
+  "likelihood": -157.00235756037873
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 19,
   "alpha_a": 1,
   "beta": 2,
-  "likelihood": -163.19473072374151
+  "likelihood": -156.3744891898584
 },
 {
   "questionerType": "explicit",
   "alpha_q": 19,
   "alpha_a": 1,
   "beta": 2,
-  "likelihood": -162.38019077382782
+  "likelihood": -157.08313097696623
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 19,
   "alpha_a": 1,
   "beta": 2.5,
-  "likelihood": -162.79446541580538
+  "likelihood": -156.28731450785443
 },
 {
   "questionerType": "explicit",
   "alpha_q": 19,
   "alpha_a": 1,
   "beta": 2.5,
-  "likelihood": -162.45809367016787
+  "likelihood": -157.15502394989926
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 19,
   "alpha_a": 2,
   "beta": 0.5,
-  "likelihood": -171.3007187158872
+  "likelihood": -161.48571529846095
 },
 {
   "questionerType": "explicit",
   "alpha_q": 19,
   "alpha_a": 2,
   "beta": 0.5,
-  "likelihood": -162.1249356496572
+  "likelihood": -156.8501982693837
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 19,
   "alpha_a": 2,
   "beta": 0.1,
-  "likelihood": -171.5363687495155
+  "likelihood": -161.58372251175876
 },
 {
   "questionerType": "explicit",
   "alpha_q": 19,
   "alpha_a": 2,
   "beta": 0.1,
-  "likelihood": -162.07259904891276
+  "likelihood": -156.80324171732974
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 19,
   "alpha_a": 2,
   "beta": 1.5,
-  "likelihood": -170.09054556286193
+  "likelihood": -160.86409696851598
 },
 {
   "questionerType": "explicit",
   "alpha_q": 19,
   "alpha_a": 2,
   "beta": 1.5,
-  "likelihood": -162.29229905900226
+  "likelihood": -157.00235756037873
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 19,
   "alpha_a": 2,
   "beta": 2,
-  "likelihood": -168.9615072092239
+  "likelihood": -160.1757072083715
 },
 {
   "questionerType": "explicit",
   "alpha_q": 19,
   "alpha_a": 2,
   "beta": 2,
-  "likelihood": -162.38019077382782
+  "likelihood": -157.08313097696623
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 19,
   "alpha_a": 2,
   "beta": 2.5,
-  "likelihood": -167.42021715041156
+  "likelihood": -159.14205719617559
 },
 {
   "questionerType": "explicit",
   "alpha_q": 19,
   "alpha_a": 2,
   "beta": 2.5,
-  "likelihood": -162.45809367016787
+  "likelihood": -157.15502394989926
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 19,
   "alpha_a": 3,
   "beta": 0.5,
-  "likelihood": -175.2564503589389
+  "likelihood": -163.8702866661592
 },
 {
   "questionerType": "explicit",
   "alpha_q": 19,
   "alpha_a": 3,
   "beta": 0.5,
-  "likelihood": -162.1249356496572
+  "likelihood": -156.8501982693837
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 19,
   "alpha_a": 3,
   "beta": 0.1,
-  "likelihood": -175.2908416146089
+  "likelihood": -163.8096162306197
 },
 {
   "questionerType": "explicit",
   "alpha_q": 19,
   "alpha_a": 3,
   "beta": 0.1,
-  "likelihood": -162.07259904891276
+  "likelihood": -156.80324171732974
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 19,
   "alpha_a": 3,
   "beta": 1.5,
-  "likelihood": -175.00551780361442
+  "likelihood": -164.08621725244353
 },
 {
   "questionerType": "explicit",
   "alpha_q": 19,
   "alpha_a": 3,
   "beta": 1.5,
-  "likelihood": -162.29229905900226
+  "likelihood": -157.00235756037873
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 19,
   "alpha_a": 3,
   "beta": 2,
-  "likelihood": -174.6697013101201
+  "likelihood": -164.17135895244678
 },
 {
   "questionerType": "explicit",
   "alpha_q": 19,
   "alpha_a": 3,
   "beta": 2,
-  "likelihood": -162.38019077382782
+  "likelihood": -157.08313097696623
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 19,
   "alpha_a": 3,
   "beta": 2.5,
-  "likelihood": -174.02982369130328
+  "likelihood": -164.10402768807984
 },
 {
   "questionerType": "explicit",
   "alpha_q": 19,
   "alpha_a": 3,
   "beta": 2.5,
-  "likelihood": -162.45809367016787
+  "likelihood": -157.15502394989926
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 19,
   "alpha_a": 4,
   "beta": 0.5,
-  "likelihood": -176.6293261562359
+  "likelihood": -164.211904800863
 },
 {
   "questionerType": "explicit",
   "alpha_q": 19,
   "alpha_a": 4,
   "beta": 0.5,
-  "likelihood": -162.1249356496572
+  "likelihood": -156.8501982693837
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 19,
   "alpha_a": 4,
   "beta": 0.1,
-  "likelihood": -176.60603033519985
+  "likelihood": -164.15093002609325
 },
 {
   "questionerType": "explicit",
   "alpha_q": 19,
   "alpha_a": 4,
   "beta": 0.1,
-  "likelihood": -162.07259904891276
+  "likelihood": -156.80324171732974
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 19,
   "alpha_a": 4,
   "beta": 1.5,
-  "likelihood": -176.72061257576811
+  "likelihood": -164.51626952452662
 },
 {
   "questionerType": "explicit",
   "alpha_q": 19,
   "alpha_a": 4,
   "beta": 1.5,
-  "likelihood": -162.29229905900226
+  "likelihood": -157.00235756037873
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 19,
   "alpha_a": 4,
   "beta": 2,
-  "likelihood": -176.77085135408424
+  "likelihood": -164.80220263246898
 },
 {
   "questionerType": "explicit",
   "alpha_q": 19,
   "alpha_a": 4,
   "beta": 2,
-  "likelihood": -162.38019077382782
+  "likelihood": -157.08313097696623
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 19,
   "alpha_a": 4,
   "beta": 2.5,
-  "likelihood": -176.782621846886
+  "likelihood": -165.20734144465092
 },
 {
   "questionerType": "explicit",
   "alpha_q": 19,
   "alpha_a": 4,
   "beta": 2.5,
-  "likelihood": -162.45809367016787
+  "likelihood": -157.15502394989926
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 19,
   "alpha_a": 5,
   "beta": 0.5,
-  "likelihood": -177.1064940719518
+  "likelihood": -164.1683296024223
 },
 {
   "questionerType": "explicit",
   "alpha_q": 19,
   "alpha_a": 5,
   "beta": 0.5,
-  "likelihood": -162.1249356496572
+  "likelihood": -156.8501982693837
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 19,
   "alpha_a": 5,
   "beta": 0.1,
-  "likelihood": -177.08544846504412
+  "likelihood": -164.14070280922422
 },
 {
   "questionerType": "explicit",
   "alpha_q": 19,
   "alpha_a": 5,
   "beta": 0.1,
-  "likelihood": -162.07259904891276
+  "likelihood": -156.80324171732974
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 19,
   "alpha_a": 5,
   "beta": 1.5,
-  "likelihood": -177.21903431036998
+  "likelihood": -164.31914396002156
 },
 {
   "questionerType": "explicit",
   "alpha_q": 19,
   "alpha_a": 5,
   "beta": 1.5,
-  "likelihood": -162.29229905900226
+  "likelihood": -157.00235756037873
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 19,
   "alpha_a": 5,
   "beta": 2,
-  "likelihood": -177.3262895310023
+  "likelihood": -164.48021932195033
 },
 {
   "questionerType": "explicit",
   "alpha_q": 19,
   "alpha_a": 5,
   "beta": 2,
-  "likelihood": -162.38019077382782
+  "likelihood": -157.08313097696623
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 19,
   "alpha_a": 5,
   "beta": 2.5,
-  "likelihood": -177.47636706673202
+  "likelihood": -164.7511913638699
 },
 {
   "questionerType": "explicit",
   "alpha_q": 19,
   "alpha_a": 5,
   "beta": 2.5,
-  "likelihood": -162.45809367016787
+  "likelihood": -157.15502394989926
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 19,
   "alpha_a": 6,
   "beta": 0.5,
-  "likelihood": -177.32493778454975
+  "likelihood": -164.17976823846905
 },
 {
   "questionerType": "explicit",
   "alpha_q": 19,
   "alpha_a": 6,
   "beta": 0.5,
-  "likelihood": -162.1249356496572
+  "likelihood": -156.8501982693837
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 19,
   "alpha_a": 6,
   "beta": 0.1,
-  "likelihood": -177.31845168123962
+  "likelihood": -164.1706726826466
 },
 {
   "questionerType": "explicit",
   "alpha_q": 19,
   "alpha_a": 6,
   "beta": 0.1,
-  "likelihood": -162.07259904891276
+  "likelihood": -156.80324171732974
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 19,
   "alpha_a": 6,
   "beta": 1.5,
-  "likelihood": -177.38482187059356
+  "likelihood": -164.2361383508982
 },
 {
   "questionerType": "explicit",
   "alpha_q": 19,
   "alpha_a": 6,
   "beta": 1.5,
-  "likelihood": -162.29229905900226
+  "likelihood": -157.00235756037873
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 19,
   "alpha_a": 6,
   "beta": 2,
-  "likelihood": -177.46107574369978
+  "likelihood": -164.29890483125
 },
 {
   "questionerType": "explicit",
   "alpha_q": 19,
   "alpha_a": 6,
   "beta": 2,
-  "likelihood": -162.38019077382782
+  "likelihood": -157.08313097696623
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 19,
   "alpha_a": 6,
   "beta": 2.5,
-  "likelihood": -177.5855249873933
+  "likelihood": -164.40648901835476
 },
 {
   "questionerType": "explicit",
   "alpha_q": 19,
   "alpha_a": 6,
   "beta": 2.5,
-  "likelihood": -162.45809367016787
+  "likelihood": -157.15502394989926
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 19,
   "alpha_a": 7,
   "beta": 0.5,
-  "likelihood": -177.47010356472097
+  "likelihood": -164.24206351474066
 },
 {
   "questionerType": "explicit",
   "alpha_q": 19,
   "alpha_a": 7,
   "beta": 0.5,
-  "likelihood": -162.1249356496572
+  "likelihood": -156.8501982693837
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 19,
   "alpha_a": 7,
   "beta": 0.1,
-  "likelihood": -177.47821236014693
+  "likelihood": -164.2402943044175
 },
 {
   "questionerType": "explicit",
   "alpha_q": 19,
   "alpha_a": 7,
   "beta": 0.1,
-  "likelihood": -162.07259904891276
+  "likelihood": -156.80324171732974
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 19,
   "alpha_a": 7,
   "beta": 1.5,
-  "likelihood": -177.47223932534249
+  "likelihood": -164.26454581152242
 },
 {
   "questionerType": "explicit",
   "alpha_q": 19,
   "alpha_a": 7,
   "beta": 1.5,
-  "likelihood": -162.29229905900226
+  "likelihood": -157.00235756037873
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 19,
   "alpha_a": 7,
   "beta": 2,
-  "likelihood": -177.50855061054793
+  "likelihood": -164.2929914713305
 },
 {
   "questionerType": "explicit",
   "alpha_q": 19,
   "alpha_a": 7,
   "beta": 2,
-  "likelihood": -162.38019077382782
+  "likelihood": -157.08313097696623
 },
 {
   "questionerType": "pragmatic",
   "alpha_q": 19,
   "alpha_a": 7,
   "beta": 2.5,
-  "likelihood": -177.5870360034097
+  "likelihood": -164.33734936616978
 },
 {
   "questionerType": "explicit",
   "alpha_q": 19,
   "alpha_a": 7,
   "beta": 2.5,
-  "likelihood": -162.45809367016787
+  "likelihood": -157.15502394989926
 }
 
 ]}
