@@ -5,8 +5,8 @@ library(ggplot2)
 library(sets)
 set.seed(4444)
 
-in_path = "/Users/aditya/Documents/GitHub/ccm-final-project/final_data/outputs/parsed/param_ans_synth_5_3_18.csv"
-out_path = "/Users/aditya/Documents/GitHub/ccm-final-project/final_data/figures/masterplot_5_3_18_ans.png"
+in_path = "/Users/aditya/Documents/GitHub/ccm-final-project/final_data/outputs/parsed/param_que_synth_11_8_21.csv"
+out_path = "/Users/aditya/Documents/GitHub/ccm-final-project/final_data/figures/masterplot_11_8_21_que.png"
 
 orig_data <- read.csv(in_path)
 
@@ -19,14 +19,14 @@ orig_data$alpha_a <-as.character(orig_data$alpha_a)
 ggplot(data=orig_data, 
        aes(x=factor(alpha_q), y=likelihood, 
            group=alpha_a,
-           color=alpha_a,
+           color=questionerType,
            shape=alpha_a)) + 
-           scale_shape_manual(values = rep(11:17, len = 7)) +
+           scale_shape_manual(values = rep(5:17, len = 7)) +
                # geom_line() +
                geom_point() +
                scale_x_discrete("alpha_q") +
                scale_y_continuous("Likelihood") + 
-        facet_grid(.~beta )
+        facet_grid(.~beta)
 ```
 
 ```{r}
@@ -39,4 +39,5 @@ ggsave(out_path,
 )
 
 ```
+
 
